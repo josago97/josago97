@@ -18,7 +18,7 @@ internal class Program
         DotNetEnv.Env.Load();
 
         string readme = File.ReadAllText(README_TEMPLATE_PATH);
-        string today = DateOnly.FromDateTime(DateTime.UtcNow).ToString("dd-MM");
+        string today = DateOnly.FromDateTime(DateTime.Now).ToString("dd-MM");
 
         Task<string> historicalEventTask = GetHistoricalEventAsync(today);
         Task<Song> songTask = GetSongAsync(today);
