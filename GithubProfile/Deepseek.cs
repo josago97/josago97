@@ -1,3 +1,4 @@
+using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
@@ -14,6 +15,7 @@ internal class Deepseek
     {
         _httpClient = new HttpClient();
         _httpClient.BaseAddress = new Uri(BASE_URL);
+        _httpClient.Timeout = TimeSpan.FromMinutes(5);
         _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Constants.OpenRouterApiKey);
     }
 
