@@ -14,6 +14,7 @@ internal class Program
 
     static async Task Main(string[] args)
     {
+        Directory.SetCurrentDirectory(AppContext.BaseDirectory);
         DotNetEnv.Env.Load();
 
         string readme = File.ReadAllText(README_TEMPLATE_PATH);
