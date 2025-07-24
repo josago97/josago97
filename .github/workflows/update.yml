@@ -14,10 +14,13 @@ env:
 jobs:
   update-profile:
     runs-on: ubuntu-latest
-    env:
-      TZ: Europe/Madrid
-
+    
     steps:
+      - name: Set Madrid time zone
+        run: |
+          sudo ln -sf /usr/share/zoneinfo/Europe/Madrid /etc/localtime
+          sudo dpkg-reconfigure -f noninteractive tzdata
+    
       - name: Clone repository
         uses: actions/checkout@v4
         with:
