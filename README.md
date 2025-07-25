@@ -1,6 +1,6 @@
 ## El evento histórico de hoy:
-El **25 de julio de 1965**, se anunció públicamente el proyecto **Multics**, precursor de Unix, un sistema operativo revolucionario que sentó las bases de la programación moderna y la arquitectura de software colaborativo. Su diseño influyó en Ken Thompson y Dennis Ritchie para crear Unix años después.
+El **26 de julio de 1987**, Apple lanzó **HyperCard**, una herramienta revolucionaria que combinaba bases de datos, hipertexto y programación visual (HyperTalk), sentando bases para el desarrollo web y las interfaces gráficas modernas. ¡Un hito en la accesibilidad de la programación! 💾✨
 
 ## El temazo de hoy:
-#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
-Este icónico tema de 1986 abordó temas controvertidos como el embarazo adolescente y la autonomía de la mujer, combinando pop con un mensaje social. Alcanzó el número uno en múltiples países y se convirtió en un himno generacional, destacando la fusión entre provocación y melodía pegadiza.
+#### [Backstreet Boys - I Want It That Way](https://www.youtube.com/watch?v=4fndeDfaWCg)
+Lanzado el 26 de julio de 1999, este tema icónico del pop adolescente de los 90s forma parte del álbum *Millennium*. Con una melodía pegadiza y letras emotivas, la canción se convirtió en un himno generacional y sigue siendo un referente de la era boy band.
