@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de julio de 2015, Microsoft lanzó Windows 10, introduciendo Cortana, el navegador Edge y una oferta de actualización gratuita, consolidando el modelo de "Windows como servicio". Este hito marcó un cambio hacia actualizaciones continuas en lugar de lanzamientos independientes.
+El 30 de julio de 1980, Microsoft firmó un contrato con IBM para proporcionar el sistema operativo para su primer PC, dando origen a PC DOS y consolidando el dominio de Microsoft en la industria del software. Este acuerdo marcó el inicio de la era de los sistemas operativos masivos y transformó el mercado tecnológico.
 
 ## El temazo de hoy
-#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
-Lanzado el 29 de julio de 2000, este icónico tema de Madonna fusiona elementos de pop y electrónica, marcando su reinvención musical en la década. Celebrado por su ritmo pegadizo, la canción resalta el poder de la música para unir a las personas.
+#### [NSYNC-Girlfriend](https://www.youtube.com/watch?v=saxnXiBKEaY)
+Este tema de 2001, parte del álbum 'Celebrity', fusiona pop y R&B con un ritmo energético y un coro pegadizo. Producido por Max Martin, destacó en las listas internacionales y reforzó el éxito de la boy band en la década de los 2000.
 
