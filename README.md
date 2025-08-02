@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 2 de agosto de 1980, Microsoft firmó un acuerdo clave con IBM para suministrar el sistema operativo de su primera computadora personal, lo que llevó al desarrollo de MS-DOS y revolucionó la industria del software. Este hito sentó las bases para la dominación de Microsoft en el mercado de sistemas operativos.
+**03/08/2016**: La red Ethereum realizó un "hard fork" para revertir el hackeo de The DAO, lo que dividió la blockchain y originó Ethereum (ETH) y Ethereum Classic (ETC), marcando un hito en la historia de la programación descentralizada.
 
 ## El temazo de hoy
-#### [Eiffel 65 - Blue (Da Ba Dee)](https://www.youtube.com/watch?v=68ugkg9RePc)
-«Blue (Da Ba Dee)» de Eiffel 65 es un éxito electrónico icónico de finales de los 90, conocido por su pegadizo synth pop y letras sobre un mundo color azul. La canción dominó las listas mundiales y se convirtió en un himno de la era bubblegum dance.
+#### [Eric-Carmen - Hungry-Eyes](https://www.youtube.com/watch?v=2ssCL292DQA)
+Este clásico de 1987, parte de la banda sonora de 'Dirty Dancing', combina una melódica romántica con letras nostálgicas. Su éxito perdura como un ícono de los 80, evocando emociones ligadas al amor y el baile.
 
