@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**05/08/1981:** IBM lanzó su primera computadora personal (IBM PC 5150) con el sistema operativo MS-DOS, desarrollado por Microsoft, marcando un hito en la democratización de la informática y el inicio de la era de las PCs masivas. Este evento impulsó la estandarización del software y sentó las bases de la industria tecnológica moderna.
+El 6 de agosto de **1991**, Tim Berners-Lee publicó en el grupo de noticias *alt.hypertext* un resumen del proyecto **World Wide Web**, marcando el lanzamiento público de la primera página web y sentando las bases de la Internet moderna.
 
 ## El temazo de hoy
-#### [Lisa-Stansfield-All-Around-the-World](https://www.youtube.com/watch?v=JVuuatjHGnY)
-Lanzado el 5 de agosto de 1991, este éxito fusiona soul y pop con una voz poderosa de Lisa Stansfield. Alcanzó el número 1 en múltiples países y sigue siendo un himno nostálgico de los 90 por su ritmo contagiante y letras románticas.
+#### [Olivia Newton-John-Magic](https://www.youtube.com/watch?v=l37pDbFNcT0)
+Lanzada como parte de la banda sonora de la película 'Xanadu', 'Magic' es una canción icónica de los 80 que combina pop y ritmos disco. Su melodía pegadiza y la voz cautivadora de Olivia Newton-John la convirtieron en un himno veraniego que perdura en el tiempo.
 
