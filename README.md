@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de agosto de **1991**, Tim Berners-Lee publicó en el grupo de noticias *alt.hypertext* un resumen del proyecto **World Wide Web**, marcando el lanzamiento público de la primera página web y sentando las bases de la Internet moderna.
+**07/08/1944:** Se presentó oficialmente la computadora Harvard Mark I, uno de los primeros equipos electromecánicos programables, utilizando cintas de papel perforado para operaciones. ¡Un hito en la era pre-digital! 💻📜
 
 ## El temazo de hoy
-#### [Olivia Newton-John-Magic](https://www.youtube.com/watch?v=l37pDbFNcT0)
-Lanzada como parte de la banda sonora de la película 'Xanadu', 'Magic' es una canción icónica de los 80 que combina pop y ritmos disco. Su melodía pegadiza y la voz cautivadora de Olivia Newton-John la convirtieron en un himno veraniego que perdura en el tiempo.
+#### [Grateful Dead - Touch of Grey](https://www.youtube.com/watch?v=mzvk0fWtCs0)
+Este éxito de 1987 se convirtió en el único top 10 del Grateful Dead, combinando una melodía pegajosa con letras sobre perseverancia. Su vídeo, con esqueletos animados, reforzó su mensaje optimista frente a las adversidades.
 
