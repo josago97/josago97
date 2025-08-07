@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**07/08/1944:** Se presentó oficialmente la computadora Harvard Mark I, uno de los primeros equipos electromecánicos programables, utilizando cintas de papel perforado para operaciones. ¡Un hito en la era pre-digital! 💻📜
+El **8 de agosto de 1988**, se implementó por primera vez el **Internet Relay Chat (IRC)**, creado por Jarkko Oikarinen, revolucionando la comunicación en tiempo real en redes y sentando las bases para sistemas de mensajería instantánea moderna.
 
 ## El temazo de hoy
-#### [Grateful Dead - Touch of Grey](https://www.youtube.com/watch?v=mzvk0fWtCs0)
-Este éxito de 1987 se convirtió en el único top 10 del Grateful Dead, combinando una melodía pegajosa con letras sobre perseverancia. Su vídeo, con esqueletos animados, reforzó su mensaje optimista frente a las adversidades.
+#### [Madonna-Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
+Lanzado el 08-08-2000, 'Music' es un himno electrónico y bailable que consolidó el reinado de Madonna en la escena pop. Con su fusión de sonidos futuristas y letras pegadizas, el tema encabezó listas mundiales y reflejó la innovación musical de la artista a principios de los 2000.
 
