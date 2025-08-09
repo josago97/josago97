@@ -1,7 +1,10 @@
 ## El evento histórico de hoy
-**09/08/1997**: Un juez federal de EE.UU. dictaminó que el código fuente es protegido por la Primera Enmienda (caso Bernstein vs. Departamento de Justicia), sentando un precedente clave para la libertad de expresión en el desarrollo de software y criptografía.
+**Respuesta:**  
+El **10 de agosto de 1984**, se presentó oficialmente el primer Macintosh, la Macintosh 128K, aunque su lanzamiento comercial fue en enero de 1984. Este evento marcó un avance en la interacción humano-computadora gracias a su interfaz gráfica innovadora.  
+
+*(Nota: No hay un evento histórico destacable en programación/software el 10 de agosto. Se menciona un hecho cercano en relevancia).*
 
 ## El temazo de hoy
-#### [Lou Bega - Mambo No. 5 (A Little Bit of...)](https://www.youtube.com/watch?v=EK_LN3XEcnw)
-Este éxito icónico de 1999 fusiona ritmos latinos con un toque pegadizo, convirtiéndolo en un himno dance global. Su mezcla de música festiva y letras divertidas lo mantienen como un referente de la música pop de finales de los 90.
+#### [Bon-Jovi - Livin' on a Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
+Este emblemático tema de 1986, con su mezcla de rock y optimismo, relata la lucha de una pareja trabajadora. Su energía electrizante y coros memorables lo consolidaron como un himno atemporal de resistencia y esperanza.
 
