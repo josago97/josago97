@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**11/08/2003:** Se detectó el gusano informático "Blaster", que explotó una vulnerabilidad en Windows, afectando a millones de sistemas y destacando la importancia de la seguridad cibernética. Este incidente aceleró la adopción de actualizaciones automáticas y parches de software.
+**12-08-1981:** IBM lanzó su primera computadora personal (IBM PC 5150), impulsando la era de la computación masiva y estableciendo el estándar para el hardware y software moderno, con MS-DOS de Microsoft como sistema operativo clave.
 
 ## El temazo de hoy
-#### [Janet Jackson - Got 'Til It's Gone](https://www.youtube.com/watch?v=uznTHSEgx4U)
-Este éxito de 1997 fusiona el R&B con un sampleo de 'Big Yellow Taxi' de Joni Mitchell, destacando la colaboración con Q-Tip. Reflexiona sobre la valoración de las relaciones antes de perderlas, convirtiéndose en un himno soul y funk de los 90.
+#### [Metallica-Enter_Sandman](https://www.youtube.com/watch?v=CD-E-LDc384)
+Lanzado el 12 de agosto de 1991, 'Enter Sandman' es un himno del metal que definió la era grunge con su riff distorsionado y letras sobre pesadillas. Se convirtió en símbolo de Metallica, fusionando crudeza lírica con un sonido poderoso que perdura en la cultura rock.
 
