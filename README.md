@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**12-08-1981:** IBM lanzó su primera computadora personal (IBM PC 5150), impulsando la era de la computación masiva y estableciendo el estándar para el hardware y software moderno, con MS-DOS de Microsoft como sistema operativo clave.
+**13 de agosto de 2004**: Se lanza FreeBSD 5.3, un sistema operativo de código abierto clave en el desarrollo de tecnologías como Netflix y WhatsApp por su eficiencia y escalabilidad. Esta versión mejoró la estabilidad y el soporte multihilo, influyendo en plataformas modernas.
 
 ## El temazo de hoy
-#### [Metallica-Enter_Sandman](https://www.youtube.com/watch?v=CD-E-LDc384)
-Lanzado el 12 de agosto de 1991, 'Enter Sandman' es un himno del metal que definió la era grunge con su riff distorsionado y letras sobre pesadillas. Se convirtió en símbolo de Metallica, fusionando crudeza lírica con un sonido poderoso que perdura en la cultura rock.
+#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
+Este emblemático tema de 1986 aborda el controvertido tema de una joven que decide tener a su hijo a pesar de la presión social. Con su mezcla de pop irresistible y letras cargadas de significado, consolidó a Madonna como ícono cultural y musical.
 
