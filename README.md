@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**15 de agosto de 1981:** IBM lanzó la computadora personal IBM 5150, con el sistema operativo MS-DOS, estándar que impulsó la industria del software y popularizó la computación a nivel global. Su arquitectura abierta sentó las bases para el desarrollo de hardware y programas compatibles.
+El 16 de agosto de 1995, Microsoft lanzó **Internet Explorer 1.0** como parte del paquete **Windows 95 Plus!**, marcando el inicio de una de las guerras de navegadores más influyentes en la historia del software. Este hito impulsó la expansión comercial de la web y definió estándares de desarrollo front-end.
 
 ## El temazo de hoy
-#### [Lisa-Loeb - Stay (I Missed You)](https://www.youtube.com/watch?v=i9HGwRbMiVY)
-Este sencillo lanzado el 15 de agosto de 1994 se convirtió en un éxito inesperado, liderando las listas como el primer hit de una artista sin contrato discográfico. Su tono melancólico y letra nostálgica, parte de la banda sonora de 'Reality Bites', la mantienen como un ícono del rock alternativo de los 90.
+#### [No Doubt-Just a Girl](https://www.youtube.com/watch?v=PHzOOQfhPFg)
+Lanzada en 1995, esta canción se convirtió en un himno de empoderamiento feminista, criticando los estereotipos de género con la voz rebelde de Gwen Stefani. Combina ska, punk y pop, definiendo el sonido de los 90 y consolidando a la banda en la escena internacional.
 
