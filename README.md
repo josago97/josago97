@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **17 de agosto de 2005**, Google adquirió **Android Inc.**, sentando las bases para el sistema operativo móvil **Android**, que hoy impulsa millones de dispositivos en todo el mundo. Este hito revolucionó la industria de la telefonía y el desarrollo de software multiplataforma.
+El **18 de agosto de 1993**, Microsoft lanzó **Windows NT 3.1**, su primer sistema operativo de 32 bits orientado a empresas, que introdujo tecnología clave para la estabilidad y seguridad, sentando bases para versiones futuras como Windows XP y 10. Esta versión marcó un hito en la evolución del software empresarial moderno.
 
 ## El temazo de hoy
-#### [Guns-N'-Roses-Sweet-Child-o'-Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Iconico tema de rock de 1987, parte del álbum 'Appetite for Destruction'. Destaca por el riff de guitarra de Slash y la voz de Axl Rose, siendo un himno enduring del rock clásico.
+#### [David-Bowie-Mick-Jagger-Dancing-in-the-Street](https://www.youtube.com/watch?v=HasaQvHCv4w)
+Este icónico cover de la canción clásica de Martha and the Vandellas, interpretado por David Bowie y Mick Jagger en 1985, se convirtió en un hit por su energía contagiosa y el excéntrico videoclip que mostraba la química entre los dos iconos del rock.
 
