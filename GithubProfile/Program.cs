@@ -45,8 +45,10 @@ internal class Program
     {
         string request = $"""
             Elige un single hit clásico de los 80s, 90s o 00s que se haya publicado en un día como {today}. 
-            Me vas a dar como respuesta un json que incluye los siguientes campos, un campo llamado title que tiene el nombre del artista y la canción unidos con un '-'. 
-            Otro campo llamado description en el cual hablas en castellano sobre la canción en dos líneas.";
+            Me vas a dar como respuesta un json que incluye varios campos.
+            Un campo llamado author que tenga el nombre del artista. 
+            Otro campo llamado title que tenga el nombre de la canción.
+            El último campo llamado description en el cual hablas en castellano sobre la canción en dos líneas.
         """;
 
         string response = await _deepseek.SendMessageAsync(request);
@@ -61,8 +63,9 @@ internal class Program
         StringBuilder stringBuilder = new StringBuilder();
 
         Youtube youtube = new Youtube();
-        string youtubeLink = await youtube.GetVideoUrlAsync(song.Title);
-        stringBuilder.AppendLine($"#### [{song.Title}]({youtubeLink})");
+        string authorAndTitle = $"{song.Author} - {song.Title}";
+        string youtubeLink = await youtube.GetVideoUrlAsync(authorAndTitle);
+        stringBuilder.AppendLine($"#### [{authorAndTitle}]({youtubeLink})");
         stringBuilder.AppendLine(song.Description);
 
         return readme.Replace(SONG_KEY, stringBuilder.ToString());
@@ -77,5 +80,5 @@ internal class Program
         return json;
     }
 
-    private record Song(string Title, string Description);
+    private record Song(string Title, string Author, string Description);
 }
