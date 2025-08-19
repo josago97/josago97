@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de agosto de 2004, Google realizó su oferta pública inicial (IPO), un hito clave que impulsó su crecimiento como gigante del software y revolucionó la economía digital. Este evento marcó el inicio de su expansión global y su dominio en tecnología y servicios en línea.
+El **20 de agosto de 1980**, Microsoft firmó un acuerdo clave con IBM para suministrar el sistema operativo **PC-DOS** para sus primeras computadoras personales, sentando las bases del dominio de Microsoft en la industria del software.
 
 ## El temazo de hoy
-#### [Fiona Apple - Criminal](https://www.youtube.com/watch?v=FFOzayDpWoI)
-Lanzado en 1997, este éxito de Fiona Apple combina letras audaces con una producción atmosférica. La canción aborda temas de culpa y autodestrucción, destacándose por su provocativo videoclip y su impacto en la escena alternativa de los 90.
+#### [Nelly - Hot in Herre](https://www.youtube.com/watch?v=GeZZr_p6vB8)
+Lanzado en 2002, este éxito revolucionó el verano con su ritmo contagioso y letras pegadizas. Ganó un Grammy y se convirtió en un himno de la época, destacando el estilo único de Nelly en el hip-hop y el pop.
 
