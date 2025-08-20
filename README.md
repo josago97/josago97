@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **20 de agosto de 1980**, Microsoft firmó un acuerdo clave con IBM para suministrar el sistema operativo **PC-DOS** para sus primeras computadoras personales, sentando las bases del dominio de Microsoft en la industria del software.
+El 21 de agosto de 1983, Microsoft anunció el lanzamiento de **Microsoft Word**, inicialmente llamado *Multi-Tool Word* para el sistema operativo Xenix. Este software revolucionó el procesamiento de texto y eventualmente se convirtió en un estándar global.
 
 ## El temazo de hoy
-#### [Nelly - Hot in Herre](https://www.youtube.com/watch?v=GeZZr_p6vB8)
-Lanzado en 2002, este éxito revolucionó el verano con su ritmo contagioso y letras pegadizas. Ganó un Grammy y se convirtió en un himno de la época, destacando el estilo único de Nelly en el hip-hop y el pop.
+#### [Tina Turner - What's Love Got to Do with It](https://www.youtube.com/watch?v=oGpFcHTxjZs)
+Este éxito de 1984 es un himno pop-rock que marcó el regreso triunfal de Tina Turner. Con su inconfundible voz y ritmo contagioso, la canción explora el escepticismo hacia el amor romántico, consolidándose como un símbolo de empoderamiento y resistencia emocional.
 
