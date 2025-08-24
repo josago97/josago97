@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**24 de agosto de 1995:** Microsoft lanzó Windows 95, revolucionando la informática personal con su interfaz gráfica, menú Inicio y barra de tareas, vendiendo más de 1 millón de copias en sus primeros cuatro días.
+**25/08/1981**: La sonda espacial Voyager 2 realizó su máximo acercamiento a Saturno, utilizando software pionero para navegación y recolección de datos, ampliando nuestro conocimiento del sistema solar.
 
 ## El temazo de hoy
-#### [Sheryl Crow - All I Wanna Do](https://www.youtube.com/watch?v=ClbmWkbocoY)
-Lanzada el 24 de agosto de 1994, 'All I Wanna Do' es un himno casual y desenfadado que captura la esencia de la vida cotidiana con un toque de nostalgia. Combinando guitarra folk-rock y letras ingeniosas, se convirtió en un éxito global, definiendo el sonido de los 90 y consolidando a Sheryl Crow como una voz influyente en la música alternativa.
+#### [Enigma - Sadeness (Part I)](https://www.youtube.com/watch?v=4F9DxYhqmKw)
+Lanzada en 1990, 'Sadeness' fusiona música new age con cantos gregorianos y ritmos electrónicos, creando un ambiente místico y provocativo. La canción explora la dualidad entre el placer y la espiritualidad, inspirándose en la controvertida figura del Marqués de Sade.
 
