@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de agosto de 1947, Grace Hopper documentó el primer "bug" informático al encontrar una polilla en la computadora Harvard Mark II, popularizando el término "debugging". Aunque históricamente el evento ocurrió el **9 de septiembre**, el relato suele asociarse imprecisamente a esta fecha.
+**28 de agosto de 1991**: La tripulación del transbordador espacial STS-43 envió el primer correo electrónico desde el espacio usando un ordenador Apple Macintosh Portable y el software AppleLink, marcando un hito en la comunicación digital extraterrestre.
 
 ## El temazo de hoy
-#### [Aqua - Barbie Girl](https://www.youtube.com/watch?v=ZyhrYis509A)
-Lanzado originalmente en Japón el 27 de agosto de 1997, «Barbie Girl» es una canción pop satírica que critica los estereotipos de género y el consumismo. Con su ritmo pegadizo y letras irónicas, se convirtió en un fenómeno global y un símbolo de la cultura pop de los 90.
+#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+Lanzada en 1987, esta icónica canción de rock combina un riff de guitarra inolvidable con la voz rasposa de Axl Rose. Considerada un himno generacional, su mezcla de energía y melodía la convirtió en un símbolo del rock de los 80.
 
