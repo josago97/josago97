@@ -31,8 +31,12 @@ jobs:
         with:
           dotnet-version: '9.0.x'
 
-      - name: Run updater
-        run: dotnet run --configuration Release --project $PROJECT_NAME/$PROJECT_NAME.csproj
+      - name: Run updater with retry
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          command: dotnet run --configuration Release --project $PROJECT_NAME/$PROJECT_NAME.csproj
         env:
           OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY }}
 
