@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**28 de agosto de 1991**: La tripulación del transbordador espacial STS-43 envió el primer correo electrónico desde el espacio usando un ordenador Apple Macintosh Portable y el software AppleLink, marcando un hito en la comunicación digital extraterrestre.
+El **29 de agosto de 2003**, Jeffrey Lee Parson, creador de una variante del **gusano Blaster** (un malware que explotaba vulnerabilidades de Windows), fue arrestado en EE. UU., marcando un hito en la lucha contra los ciberdelitos.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Lanzada en 1987, esta icónica canción de rock combina un riff de guitarra inolvidable con la voz rasposa de Axl Rose. Considerada un himno generacional, su mezcla de energía y melodía la convirtió en un símbolo del rock de los 80.
+#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
+Lanzado en 1991, este éxito global de Michael Jackson fusiona pop, rock y ritmos dance, con un mensaje contra el racismo. Destaca por su innovador video con efectos de morphing y un solo de guitarra de Slash, consolidándose como un himno de unidad cultural.
 
