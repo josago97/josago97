@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 30 de agosto de 1997, IBM donó los componentes de Deep Blue, la supercomputadora que derrotó al campeón de ajedrez Gari Kaspárov en 1997, al Museo Nacional de Historia Estadounidense del Smithsonian, marcando un hito en la inteligencia artificial y la programación.
+**31 de agosto de 1991**: Linus Torvalds anunció públicamente el núcleo Linux en un grupo de noticias, marcando el inicio del desarrollo del sistema operativo de código abierto más influyente.
 
 ## El temazo de hoy
-#### [Britney Spears - Oops!... I Did It Again](https://www.youtube.com/watch?v=CduA0TULnow)
-Este icónico tema de Britney Spears, lanzado en 2000, se convirtió en un himno pop con su ritmo pegadizo y letras coquetas. La canción refleja la evolución de Spears como estrella internacional, consolidando su lugar en la historia de la música pop de los 2000.
+#### [Ricky Martin - Livin' La Vida Loca](https://www.youtube.com/watch?v=p47fEXGabaY)
+Este éxito internacional de 1999 revolucionó la música pop latino con su mezcla de ritmos caribeños y pop rock. Se convirtió en un himno global, llevando a Ricky Martin a la fama mundial y popularizando la oleada de música latina a finales de los 90.
 
