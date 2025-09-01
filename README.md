@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El **1 de septiembre de 1955**, la computadora **ENIAC** (la primera electrónica de propósito general) fue desactivada oficialmente tras una década de servicio, destacando su papel en cálculos bélicos y científicos, y marcando el inicio de la era de computadoras más avanzadas.
+**02/09/1969:** Se instaló el primer nodo de ARPANET en la UCLA, red precursora de Internet, sentando las bases para el desarrollo de redes y software modernos.  
+Este hito permitió la primera comunicación entre computadoras distantes, impulsando la revolución tecnológica global.
 
 ## El temazo de hoy
-#### [Earth, Wind & Fire - September](https://www.youtube.com/watch?v=Gs069dndIYk)
-Aunque técnicamente lanzada en 1978, 'September' se convirtió en un himno atemporal que define la energía festiva de la era disco. Su ritmo contagioso y letras memorables la mantienen como un clásico celebrado globalmente en fiestas y generaciones posteriores.
+#### [Billy Joel - We Didn't Start the Fire](https://www.youtube.com/watch?v=eFTLKWw542g)
+Este emblemático tema de Billy Joel, lanzado en septiembre de 1989, repasa eventos históricos y culturales desde 1949 hasta los años 80. Su ritmo vertiginoso y letras cargadas de referencias lo convirtieron en un himno generacional y en un éxito global.
 
