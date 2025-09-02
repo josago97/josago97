@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-**02/09/1969:** Se instaló el primer nodo de ARPANET en la UCLA, red precursora de Internet, sentando las bases para el desarrollo de redes y software modernos.  
-Este hito permitió la primera comunicación entre computadoras distantes, impulsando la revolución tecnológica global.
+El 3 de septiembre de **1995**, Pierre Omidyar fundó **eBay** (originalmente "AuctionWeb"), revolucionando el comercio en línea mediante software de subastas peer-to-peer. Este hito marcó el inicio de las plataformas digitales masivas y su impacto en la economía global.
 
 ## El temazo de hoy
-#### [Billy Joel - We Didn't Start the Fire](https://www.youtube.com/watch?v=eFTLKWw542g)
-Este emblemático tema de Billy Joel, lanzado en septiembre de 1989, repasa eventos históricos y culturales desde 1949 hasta los años 80. Su ritmo vertiginoso y letras cargadas de referencias lo convirtieron en un himno generacional y en un éxito global.
+#### [Britney Spears - ...Baby One More Time](https://www.youtube.com/watch?v=C-u5WLJ9Yk4)
+Lanzado en 1998, este icónico tema marcó el debut de Britney Spears y se convirtió en un himno pop global. Su pegajoso ritmo, el controvertido videoclip escolar y su influencia en la cultura popular lo mantienen relevante décadas después.
 
