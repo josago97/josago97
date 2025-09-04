@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **4 de septiembre de 1998**, Larry Page y Sergey Brin fundaron Google, lanzando un motor de búsqueda que revolucionó el acceso a la información y sentó las bases de innovaciones clave en software y tecnología a nivel global.
+El 5 de septiembre de 2008, Google lanzó Chrome, su navegador web, revolucionando el rendimiento con el motor V8, clave para aplicaciones web modernas. Este día marcó un hito en la optimización de JavaScript y la experiencia de usuario en línea.
 
 ## El temazo de hoy
-#### [Beyoncé ft. Jay-Z - Déjà Vu](https://www.youtube.com/watch?v=RQ9BWndKEgs)
-Lanzada en 2006, 'Déjà Vu' es una colaboración de Beyoncé con Jay-Z que fusiona R&B y funk. Con un sample del tema 'Atomic Dog' de George Clinton, el éxito comercial del tema consolidó su impacto en la música pop del siglo XXI.
+#### [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+"Take On Me" de a-ha es un ícono de los 80 que fusiona synth-pop y new wave, destacado por su vocalista Morten Harket. El video innovador, mezcla de animación y acción real, lo catapultó a la fama global, simbolizando la creatividad de la era MTV.
 
