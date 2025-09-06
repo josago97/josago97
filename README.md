@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 5 de septiembre de 2008, Google lanzó Chrome, su navegador web, revolucionando el rendimiento con el motor V8, clave para aplicaciones web modernas. Este día marcó un hito en la optimización de JavaScript y la experiencia de usuario en línea.
+El 7 de septiembre de 1997 se registró el dominio **google.com**, marcando el inicio formal de Google, que revolucionó el acceso a la información y el desarrollo de software a nivel global. Aunque su lanzamiento público fue el 27 de septiembre, este día fue clave en su historia.
 
 ## El temazo de hoy
-#### [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
-"Take On Me" de a-ha es un ícono de los 80 que fusiona synth-pop y new wave, destacado por su vocalista Morten Harket. El video innovador, mezcla de animación y acción real, lo catapultó a la fama global, simbolizando la creatividad de la era MTV.
+#### [Justin Timberlake - SexyBack](https://www.youtube.com/watch?v=3gOHvDP_vCs)
+Lanzado en 2006, 'SexyBack' fusionó electropop y dance-punk, consolidando a Justin Timberlake como solista. Su ritmo innovador y producción vanguardista dominaron las listas, revitalizando la música pop de los 2000.
 
