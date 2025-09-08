@@ -1,7 +1,10 @@
 ## El evento histórico de hoy
-El **8 de septiembre de 1954**, IBM anunció la creación del **IBM 704**, una computadora que posibilitó el desarrollo del lenguaje de programación **FORTRAN**, revolucionando cómo se escribía software al ser el primer lenguaje de alto nivel ampliamente utilizado.
+El 9 de septiembre de 1947, se documentó el primer "bug" informático en la computadora Harvard Mark II: un insecto real atascó un relé, popularizando el término "debugging" (eliminar errores). Este incidente vinculó para siempre la palabra "bug" a fallos en software/hardware.  
+
+**Formato ajustado a 2 líneas:**  
+El 9 de septiembre de 1947, en la computadora Harvard Mark II, se registró el primer "bug" informático: un insecto real, dando origen al término "debugging". Este evento vinculó permanentemente la palabra "bug" a fallos en software/hardware.
 
 ## El temazo de hoy
-#### [Bon Jovi - Livin' on a Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
-Un himno rock de 1986 que narra la lucha de una pareja trabajadora. Con su riff icónico y coros potentes, se convirtió en un clásico atemporal de la música rock.
+#### [Technotronic - Pump Up the Jam](https://www.youtube.com/watch?v=9EcjWd-O4jI)
+Lanzado el 09-09-1989, este icónico tema de dance electrónico definió la escena musical de finales de los 80. Con su ritmo contagioso y voces energéticas, se convirtió en un himno global y un referente del género Eurodance.
 
