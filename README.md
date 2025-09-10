@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de septiembre de 1947, se documentó el primer caso de un "bug" informático: una polilla atascada en la computadora Harvard Mark II, popularizando el término *debugging*. Este incidente, registrado por Grace Hopper y su equipo, marcó un hito en la historia del software.
+El 11 de septiembre de **1947**, se documentó el primer **"bug"** informático en la computadora Harvard Mark II, aunque el incidente real ocurrió el **9 de septiembre**. El término se popularizó al encontrar una polilla (bug) en los circuitos, vinculando así la palabra a errores en software.
 
 ## El temazo de hoy
-#### [U2 - Beautiful Day](https://www.youtube.com/watch?v=co6WMzDOh1o)
-Lanzada en 2000, 'Beautiful Day' es un himno optimista que combina melodías envolventes y letras inspiradoras sobre encontrar esperanza en medio de la adversidad. Ganó varios premios, incluido un Grammy, y se convirtió en un clásico atemporal de la banda irlandesa.
+#### [Huey Lewis and the News - The Power of Love](https://www.youtube.com/watch?v=wBl2QGAIx1s)
+Esta canción, famosa por ser parte de la banda sonora de 'Volver al Futuro', es un himno energético que combina rock y pop. Su letra optimista y melodía contagiosa la convirtieron en un éxito global en los años 80.
 
