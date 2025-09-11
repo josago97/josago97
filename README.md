@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 11 de septiembre de **1947**, se documentó el primer **"bug"** informático en la computadora Harvard Mark II, aunque el incidente real ocurrió el **9 de septiembre**. El término se popularizó al encontrar una polilla (bug) en los circuitos, vinculando así la palabra a errores en software.
+El **12 de septiembre de 1958**, el ingeniero **Jack Kilby** demostró el primer **circuito integrado** funcional, un avance clave en la electrónica que permitió el desarrollo de computadoras más potentes y, posteriormente, la creación de software complejo. Aunque es un hito de hardware, fue fundamental para expandir las capacidades de la programación moderna.
 
 ## El temazo de hoy
-#### [Huey Lewis and the News - The Power of Love](https://www.youtube.com/watch?v=wBl2QGAIx1s)
-Esta canción, famosa por ser parte de la banda sonora de 'Volver al Futuro', es un himno energético que combina rock y pop. Su letra optimista y melodía contagiosa la convirtieron en un éxito global en los años 80.
+#### [The Cranberries - Zombie](https://www.youtube.com/watch?v=6Ejga4kJUts)
+Potente canción de protesta contra la violencia en Irlanda del Norte, lanzada en 1994. Destaca por su intenso riff de guitarra y la voz emotiva de Dolores O'Riordan, convirtiéndose en un himno generacional.
 
