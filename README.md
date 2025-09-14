@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de septiembre de 1959, la sonda soviética **Luna 2** se convirtió en el primer objeto humano en impactar la Luna, utilizando software pionero para cálculos de trayectoria y navegación, marcando un hito en la integración de sistemas computacionales en la exploración espacial. 🚀🌕
+El **15 de septiembre de 1997**, se registró el dominio **"google.com"**, marcando el inicio oficial de Google, que revolucionó el desarrollo de software y el acceso a la información con su motor de búsqueda y tecnologías innovadoras. 🌐✨
 
 ## El temazo de hoy
-#### [Suzanne Vega & DNA - Tom's Diner](https://www.youtube.com/watch?v=j4jtIDaeaWI)
-Lanzada originalmente en 1987, la versión remezclada de 1990 por DNA convirtió a 'Tom's Diner' en un ícono de los 90. Su combinación de letras narrativas y ritmos electrónicos la destacó como un puente innovador entre el folk acústico y la música dance.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Un himno roquero de los 2000 que combina guitarras potentes y letras sobre vivir con intensidad. Se convirtió en símbolo de rebeldía y sigue siendo un clásico en conciertos y listas de éxitos.
 
