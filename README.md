@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **17 de septiembre de 1991**, Linus Torvalds publicó la primera versión del kernel **Linux** (v0.01), marcando el inicio de uno de los proyectos de código abierto más influyentes en la historia del software. Este hizo posibles sistemas operativos libres y colaborativos a nivel global.
+El **18 de septiembre de 1979**, los informáticos **Tom Truscott** y **Jim Ellis** lanzaron **USENET**, una red de discusión pionera que permitió el intercambio global de mensajes y archivos, sentando las bases de los foros modernos y la comunicación en línea descentralizada.
 
 ## El temazo de hoy
-#### [Santana ft. Rob Thomas - Smooth](https://www.youtube.com/watch?v=6Whgn_iE5uc)
-Lanzado en 1999, este éxito fusiona el rock latino de Santana con la voz de Rob Thomas. Ganó un Grammy y dominó las listas, convirtiéndose en un himno de la colaboración entre géneros.
+#### [Céline Dion - Because You Loved Me](https://www.youtube.com/watch?v=fpl4if07ics)
+Este emotivo ballad, lanzado en 1996 como parte de la banda sonora de *Up Close & Personal*, se convirtió en un himno de gratitud y amor incondicional. Con su potente voz, Céline Dion capturó millones de corazones, alcanzando el número 1 en múltiples charts y consolidando su legado en la música pop.
 
