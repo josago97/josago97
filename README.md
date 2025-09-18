@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **18 de septiembre de 1979**, los informáticos **Tom Truscott** y **Jim Ellis** lanzaron **USENET**, una red de discusión pionera que permitió el intercambio global de mensajes y archivos, sentando las bases de los foros modernos y la comunicación en línea descentralizada.
+**19 de septiembre de 1968**: Se lanzó el software *Luminary 1A* para el Apollo Guidance Computer, esencial para las misiones lunares de la NASA. Fue uno de los primeros programas en integrar circuitos integrados, sentando las bases de la ingeniería de software moderna.
 
 ## El temazo de hoy
-#### [Céline Dion - Because You Loved Me](https://www.youtube.com/watch?v=fpl4if07ics)
-Este emotivo ballad, lanzado en 1996 como parte de la banda sonora de *Up Close & Personal*, se convirtió en un himno de gratitud y amor incondicional. Con su potente voz, Céline Dion capturó millones de corazones, alcanzando el número 1 en múltiples charts y consolidando su legado en la música pop.
+#### [Coldplay - Clocks](https://www.youtube.com/watch?v=d020hcWA_Wg)
+Lanzada el 19 de septiembre de 2002, 'Clocks' es un himno pop-rock reconocido por su icónico riff de piano y ritmo envolvente. La canción, ganadora de un Grammy, se convirtió en un símbolo de los 2000s y consolidó a Coldplay como una de las bandas más influyentes de la época.
 
