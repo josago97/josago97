@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Text;
 using System.Text.Json;
 
@@ -18,7 +19,8 @@ internal class Program
         DotNetEnv.Env.Load();
 
         string readme = File.ReadAllText(README_TEMPLATE_PATH);
-        string today = DateOnly.FromDateTime(DateTime.Now).ToString("dd-MM");
+        string today = DateOnly.FromDateTime(DateTime.Now)
+            .ToString("d 'de' MMMM", new CultureInfo("es-ES"));
 
         Task<string> historicalEventTask = GetHistoricalEventAsync(today);
         Task<Song> songTask = GetSongAsync(today);
@@ -44,7 +46,7 @@ internal class Program
     private static async Task<Song> GetSongAsync(string today)
     {
         string request = $"""
-            Elige un single hit clásico de los 80s, 90s o 00s que se haya publicado en un día como {today}. 
+            Elige un single hit clásico de los 80s, 90s o 00s que se haya publicado en un {today}. 
             Me vas a dar como respuesta un json que incluye varios campos.
             Un campo llamado author que tenga el nombre del artista. 
             Otro campo llamado title que tenga el nombre de la canción.
