@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de septiembre de 1995, se lanzó oficialmente el lenguaje de programación Java 1.0, un hito que revolucionó el desarrollo de software al introducir el concepto de "escríbelo una vez, ejecútalo en cualquier lugar" gracias a su Máquina Virtual (JVM).
+El 23 de septiembre de 1846, el astrónomo Johann Gottfried Galle usó los cálculos matemáticos de Urbain Le Verrier (una forma de "programación" humana) para descubrir el planeta Neptuno, un hito en la predicción mediante algoritmos.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada el 21 de marzo de 1989, 'Like a Prayer' es uno de los hits más icónicos de Madonna que combina pop con elementos gospel. La canción generó controversia por su videoclip pero se consolidó como un himno atemporal sobre la espiritualidad y la liberación personal.
+#### [Bruce Springsteen - Human Touch](https://www.youtube.com/watch?v=85cNRQo1m3A)
+Publicada como single el 23 de septiembre de 1992, 'Human Touch' es una poderosa balada rock que explora la necesidad de conexión humana y vulnerabilidad emocional. El tema forma parte del álbum homónimo y destaca por su característica voz áspera de Springsteen y su mensaje universal sobre la importancia del contacto humano en un mundo a menudo frío y distante.
 
