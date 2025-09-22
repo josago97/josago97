@@ -1,4 +1,3 @@
-using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
@@ -8,8 +7,9 @@ namespace GithubProfile;
 internal class Deepseek
 {
     private const string BASE_URL = "https://openrouter.ai/api/v1/";
+    private const string MODEL = "deepseek/deepseek-chat-v3.1:free";
 
-    private HttpClient _httpClient = new HttpClient();
+    private readonly HttpClient _httpClient;
 
     public Deepseek()
     {
@@ -23,7 +23,7 @@ internal class Deepseek
     {
         var requestBody = new
         {
-            model = "deepseek/deepseek-r1:free",
+            model = MODEL,
             messages = new[]
             {
                 new { role = "user", content = message }
