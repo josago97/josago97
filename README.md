@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-**19 de septiembre de 1968**: Se lanzó el software *Luminary 1A* para el Apollo Guidance Computer, esencial para las misiones lunares de la NASA. Fue uno de los primeros programas en integrar circuitos integrados, sentando las bases de la ingeniería de software moderna.
+El 22 de septiembre de 1995, se lanzó oficialmente el lenguaje de programación Java 1.0, un hito que revolucionó el desarrollo de software al introducir el concepto de "escríbelo una vez, ejecútalo en cualquier lugar" gracias a su Máquina Virtual (JVM).
 
 ## El temazo de hoy
-#### [Coldplay - Clocks](https://www.youtube.com/watch?v=d020hcWA_Wg)
-Lanzada el 19 de septiembre de 2002, 'Clocks' es un himno pop-rock reconocido por su icónico riff de piano y ritmo envolvente. La canción, ganadora de un Grammy, se convirtió en un símbolo de los 2000s y consolidó a Coldplay como una de las bandas más influyentes de la época.
+#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
+Lanzada el 21 de marzo de 1989, 'Like a Prayer' es uno de los hits más icónicos de Madonna que combina pop con elementos gospel. La canción generó controversia por su videoclip pero se consolidó como un himno atemporal sobre la espiritualidad y la liberación personal.
 
