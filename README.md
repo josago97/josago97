@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de septiembre de 1846, el astrónomo Johann Gottfried Galle usó los cálculos matemáticos de Urbain Le Verrier (una forma de "programación" humana) para descubrir el planeta Neptuno, un hito en la predicción mediante algoritmos.
+El 24 de septiembre de 1993, el equipo de desarrollo del sistema operativo **Debian GNU/Linux** lanzó la primera versión oficial (versión 0.01). Este fue el pilar fundamental que convirtió a Debian en una de las distribuciones de Linux más influyentes y estables de la historia.
 
 ## El temazo de hoy
-#### [Bruce Springsteen - Human Touch](https://www.youtube.com/watch?v=85cNRQo1m3A)
-Publicada como single el 23 de septiembre de 1992, 'Human Touch' es una poderosa balada rock que explora la necesidad de conexión humana y vulnerabilidad emocional. El tema forma parte del álbum homónimo y destaca por su característica voz áspera de Springsteen y su mensaje universal sobre la importancia del contacto humano en un mundo a menudo frío y distante.
+#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
+Icono del pop que revolucionó la música en 1984. Esta canción se convirtió en un himno generacional y consolidó a Madonna como una fuerza innovadora en la industria musical, con su atrevida imagen y sonido dance pegadizo.
 
