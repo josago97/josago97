@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de septiembre de 1983, el matemático Richard Stallman anunció el proyecto GNU, sentando las bases del movimiento de software libre y del sistema operativo que más tarde, combinado con el núcleo Linux, daría lugar a GNU/Linux.
+El 27 de septiembre de 1960, el comité CODASYL publicó la especificación definitiva de COBOL, el primer lenguaje de programación estandarizado y de alto nivel, diseñado para ser legible por humanos y ejecutable en cualquier computadora.
 
 ## El temazo de hoy
-#### [Christina Aguilera - Come On Over Baby (All I Want Is You)](https://www.youtube.com/watch?v=0RQDIJ2CvbA)
-Este éxito de Christina Aguilera fue lanzado como tercer sencillo de su álbum debut homónimo. La canción combina pop y R&B, mostrando la poderosa voz de la artista y consolidándose como uno de los hits que la estableció como una estrella pop a principios de los 2000.
+#### [Avril Lavigne - My Happy Ending](https://www.youtube.com/watch?v=s8QYxmpuyxg)
+Este éxito del 2004 perteneciente a su segundo álbum 'Under My Skin' muestra el lado más maduro de Avril Lavigne. La canción combina potentes guitarras rock con letras sobre la desilusión amorosa y el fin de una relación, convirtiéndose en uno de sus mayores hits internacionales.
 
