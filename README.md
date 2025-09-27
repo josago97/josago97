@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de septiembre de 1960, el comité CODASYL publicó la especificación definitiva de COBOL, el primer lenguaje de programación estandarizado y de alto nivel, diseñado para ser legible por humanos y ejecutable en cualquier computadora.
+El 28 de septiembre de 1991, Linus Torvalds anunció la primera versión del kernel de Linux (versión 0.01) en un foro de Usenet, un hito que inició la revolución del software de código abierto. Este sistema operativo, combinado con las herramientas GNU, se convertiría en la columna vertebral de gran parte de la infraestructura digital moderna.
 
 ## El temazo de hoy
-#### [Avril Lavigne - My Happy Ending](https://www.youtube.com/watch?v=s8QYxmpuyxg)
-Este éxito del 2004 perteneciente a su segundo álbum 'Under My Skin' muestra el lado más maduro de Avril Lavigne. La canción combina potentes guitarras rock con letras sobre la desilusión amorosa y el fin de una relación, convirtiéndose en uno de sus mayores hits internacionales.
+#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
+Lanzada el 28 de septiembre de 1989, 'Like a Prayer' es uno de los temas más icónicos de Madonna que fusiona pop con elementos gospel. La canción generó controversia por su videoclip pero se convirtió en un himno atemporal que demostró la evolución artística y el impacto cultural de la artista.
 
