@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 28 de septiembre de 1991, Linus Torvalds anunció la primera versión del kernel de Linux (versión 0.01) en un foro de Usenet, un hito que inició la revolución del software de código abierto. Este sistema operativo, combinado con las herramientas GNU, se convertiría en la columna vertebral de gran parte de la infraestructura digital moderna.
+El 29 de septiembre de 2014, los desarrolladores de OpenSSL liberaron las parches para las vulnerabilidades críticas **Heartbleed** (CVE-2014-0160) y **Shellshock** (CVE-2014-6271), dos de los fallos de seguridad más graves y extendidos en la historia del software.
 
 ## El temazo de hoy
 #### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada el 28 de septiembre de 1989, 'Like a Prayer' es uno de los temas más icónicos de Madonna que fusiona pop con elementos gospel. La canción generó controversia por su videoclip pero se convirtió en un himno atemporal que demostró la evolución artística y el impacto cultural de la artista.
+Este icónico tema de Madonna, lanzado como single el 29 de septiembre de 1989, combinaba pop comercial con elementos gospel y letras que exploraban temas espirituales y sexuales. Revolucionó la escena musical con su polémico videoclip y se consolidó como uno de los hits más emblemáticos de la carrera de la artista.
 
