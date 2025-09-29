@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de septiembre de 2014, los desarrolladores de OpenSSL liberaron las parches para las vulnerabilidades críticas **Heartbleed** (CVE-2014-0160) y **Shellshock** (CVE-2014-6271), dos de los fallos de seguridad más graves y extendidos en la historia del software.
+El 30 de septiembre de 1980 se publicaron las especificaciones finales de Ethernet (la versión 1.0 del estándar "Blue Book"), una tecnología de red que se convirtió en la columna vertebral de las conexiones LAN y la comunicación entre computadoras.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Este icónico tema de Madonna, lanzado como single el 29 de septiembre de 1989, combinaba pop comercial con elementos gospel y letras que exploraban temas espirituales y sexuales. Revolucionó la escena musical con su polémico videoclip y se consolidó como uno de los hits más emblemáticos de la carrera de la artista.
+#### [Gloria Estefan - Get On Your Feet](https://www.youtube.com/watch?v=JPOSGVUYgVQ)
+Este emblemático tema de 1989 se convirtió en un himno motivacional que impulsaba a la acción y la superación personal. Con su ritmo contagioso y mensaje inspirador, la canción caracteriza el sonido dance-pop latino que hizo famosa a Gloria Estefan y su banda Miami Sound Machine.
 
