@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 2 de octubre de 1995, Richard Stallman lanzó la primera versión de la Licencia Pública General de GNU (GPLv2), un pilar legal del software libre que garantiza que el código permanezca abierto y pueda ser usado, modificado y distribuido libremente.
+El 3 de octubre de 2013, el sistema de salud de Estados Unidos, HealthCare.gov, lanzó su portal de inscripción, que colapsó casi de inmediato debido a fallas catastróficas de software, convirtiéndose en un ejemplo icónico de un lanzamiento fallido a gran escala.
 
 ## El temazo de hoy
-#### [Tears for Fears - Everybody Wants to Rule the World](https://www.youtube.com/watch?v=aGCdLKXNF3w)
-Este icónico tema de 1985 se convirtió en un himno global con su mezcla de pop accesible y letras que reflexionan sobre la ambición y el poder. Su sonido característico de sintetizadores y la voz de Curt Smith la han mantenido como un clásico atemporal de los 80s.
+#### [Gwen Stefani - What You Waiting For?](https://www.youtube.com/watch?v=f5qICl3Fr3w)
+Lanzado como primer single de su álbum debut en solitario 'Love. Angel. Music. Baby.', este tema electro-pop combina sintetizadores new wave con beats dance. La canción refleja las inseguridades creativas de Stefani y se convirtió en un éxito internacional que definió la era del pop de los 2000.
 
