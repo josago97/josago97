@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de octubre de 1995, el Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) publicó el estándar 754-1985 para la aritmética de coma flotante, un pilar fundamental que garantiza la precisión y consistencia en los cálculos de software y hardware hasta hoy.
+El 7 de octubre de 1954, el equipo de IBM presentó el manual de usuario del primer lenguaje de programación de alto nivel, el **FORTRAN** (Formula Translation), un hito que revolucionó la forma de escribir software al hacerlo accesible sin necesidad de programar en código máquina.
 
 ## El temazo de hoy
-#### [The Human League - Don't You Want Me](https://www.youtube.com/watch?v=uPudE8nDog0)
-Este icónico tema de synth-pop de 1981 cuenta una historia dramática de amor y desamor entre una estrella en ascenso y su descubridor. Con su característico sonido electrónico y el duelo vocal entre Philip Oakey y Susan Ann Sulley, se convirtió en uno de los mayores éxitos de la nueva ola británica.
+#### [Radiohead - Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)
+Lanzada originalmente en 1992 pero relanzada como single el 7 de octubre de 1993, 'Creep' se convirtió en el himno generacional de la inseguridad y el auto-desprecio. Su potente crescendo y la letra crudamente honesta la consolidaron como una de las canciones más icónicas del rock alternativo de los 90s.
 
