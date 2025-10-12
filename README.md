@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 7 de octubre de 1954, el equipo de IBM presentó el manual de usuario del primer lenguaje de programación de alto nivel, el **FORTRAN** (Formula Translation), un hito que revolucionó la forma de escribir software al hacerlo accesible sin necesidad de programar en código máquina.
+El 13 de octubre de 1970 se publicó el **RFC 66**, que estableció la especificación del protocolo NCP (Network Control Protocol), el predecesor directo de TCP/IP que permitió las primeras comunicaciones en ARPANET, la red que luego se convertiría en internet. Este día marcó un hito fundamental para el desarrollo de la conectividad global que hoy conocemos.
 
 ## El temazo de hoy
-#### [Radiohead - Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)
-Lanzada originalmente en 1992 pero relanzada como single el 7 de octubre de 1993, 'Creep' se convirtió en el himno generacional de la inseguridad y el auto-desprecio. Su potente crescendo y la letra crudamente honesta la consolidaron como una de las canciones más icónicas del rock alternativo de los 90s.
+#### [Usher - Yeah!](https://www.youtube.com/watch?v=GxBSyx85Kp8)
+Este éxito monumental de 2004, featuring Ludacris y Lil Jon, dominó las listas mundiales con su irresistible mezcla de crunk y R&B. Con su ritmo contagioso y coros pegadizos, se convirtió en uno de los sencillos más emblemáticos de la década y en un himno indiscutible de las pistas de baile.
 
