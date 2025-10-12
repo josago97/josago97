@@ -7,7 +7,7 @@ namespace GithubProfile;
 internal class Deepseek
 {
     private const string BASE_URL = "https://openrouter.ai/api/v1/";
-    private const string MODEL = "deepseek/deepseek-chat-v3.1:free";
+    private const string MODEL = "deepseek/deepseek-chat-v3.1";
 
     private readonly HttpClient _httpClient;
 
