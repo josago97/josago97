@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 13 de octubre de 1970 se publicó el **RFC 66**, que estableció la especificación del protocolo NCP (Network Control Protocol), el predecesor directo de TCP/IP que permitió las primeras comunicaciones en ARPANET, la red que luego se convertiría en internet. Este día marcó un hito fundamental para el desarrollo de la conectividad global que hoy conocemos.
+El 14 de octubre de 1969 se envió el primer mensaje a través de ARPANET, la precursora de internet, desde UCLA a Stanford, aunque el sistema se colgó tras transmitir solo las dos primeras letras: "LO".
 
 ## El temazo de hoy
-#### [Usher - Yeah!](https://www.youtube.com/watch?v=GxBSyx85Kp8)
-Este éxito monumental de 2004, featuring Ludacris y Lil Jon, dominó las listas mundiales con su irresistible mezcla de crunk y R&B. Con su ritmo contagioso y coros pegadizos, se convirtió en uno de los sencillos más emblemáticos de la década y en un himno indiscutible de las pistas de baile.
+#### [Usher - U Remind Me](https://www.youtube.com/watch?v=Bxau9B3jOHM)
+Este éxito de Usher, lanzado el 14 de octubre de 2000, se convirtió en su tercer número uno en el Billboard Hot 100. La canción fusiona R&B con pop y habla sobre cómo una nueva chica le recuerda a una antigua relación fallida, mezclando un ritmo pegadizo con una letra emotiva.
 
