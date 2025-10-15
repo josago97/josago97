@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **15 de octubre de 2004**, el lanzamiento de la primera versión estable de **Ubuntu Linux** (versión 4.10, "Warty Warthog") revolucionó el mundo del software libre al ofrecer un sistema operativo gratuito, seguro y fácil de usar para millones de usuarios.
+El 16 de octubre de 1959, se presentó el lenguaje de programación COBOL, diseñado para ser universal y comprensible, lo que revolucionó el desarrollo de software empresarial. Fue creado por el comité CODASYL, impulsado por el Departamento de Defensa de EE.UU. ante la necesidad de un lenguaje portable para aplicaciones de negocio.
 
 ## El temazo de hoy
-#### [Backstreet Boys - I Want It That Way](https://www.youtube.com/watch?v=4fndeDfaWCg)
-Este icónico tema de los Backstreet Boys se convirtió en uno de los mayores éxitos de la boy band y un himno de la música pop de los 90. Con su memorable estribillo y armonías vocales características, la canción sigue siendo un clásico atemporal que representa la era del pop adolescente.
+#### [Tony Basil - Mickey](https://www.youtube.com/watch?v=3E-Zrg9CB_Q)
+Este éxito icónico de 1982 es famoso por su coro pegadizo de "Oh Mickey, you're so fine" y los gritos animados que lo acompañan. Aunque se percibió como una canción novedosa, en realidad es una versión adaptada de una canción anterior llamada "Kitty" y se convirtió en un himno deportivo y cultural perdurable.
 
