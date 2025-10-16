@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 16 de octubre de 1959, se presentó el lenguaje de programación COBOL, diseñado para ser universal y comprensible, lo que revolucionó el desarrollo de software empresarial. Fue creado por el comité CODASYL, impulsado por el Departamento de Defensa de EE.UU. ante la necesidad de un lenguaje portable para aplicaciones de negocio.
+El 17 de octubre de 1979, la Comisión Federal de Comunicaciones de EE. UU. (FCC) autorizó por primera vez la conexión de dispositivos no telefónicos a la red, como los módems, un hito crucial que allanó el camino para la creación de Internet para el público masivo.
 
 ## El temazo de hoy
-#### [Tony Basil - Mickey](https://www.youtube.com/watch?v=3E-Zrg9CB_Q)
-Este éxito icónico de 1982 es famoso por su coro pegadizo de "Oh Mickey, you're so fine" y los gritos animados que lo acompañan. Aunque se percibió como una canción novedosa, en realidad es una versión adaptada de una canción anterior llamada "Kitty" y se convirtió en un himno deportivo y cultural perdurable.
+#### [Eminem - Lose Yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y)
+Este icónico tema de la banda sonora de '8 Mile' se lanzó el 17 de octubre de 2002. La canción se convirtió en un himno de superación personal y es considerada una de las mejores en la historia del hip-hop, ganando el Oscar a Mejor Canción Original.
 
