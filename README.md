@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **19 de octubre de 1983**, el Instituto de Investigación de Software de Carnegie Mellon (EE. UU.) celebró la primera ceremonia de entrega de los premios ***Jolt Awards***, que reconocen la excelencia en productos de software, un referente en la industria.
+El 20 de octubre de 1961, IBM lanzó el IBM 1440, un sistema de computación de costo medio que popularizó el lenguaje de programación RPG (Report Program Generator), diseñado específicamente para generar informes empresariales de forma rápida y eficiente.
 
 ## El temazo de hoy
-#### [Kylie Minogue - Slow](https://www.youtube.com/watch?v=Omrp4QR_Rpo)
-'Slow' es un sencillo electropop de Kylie Minogue, lanzado como el primer corte de su noveno álbum de estudio, 'Body Language'. La canción, con su ritmo minimalista y sensual, marcó un cambio artístico hacia un sonido más maduro y fue un éxito comercial, alcanzando el número uno en varios países, incluido España.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este emblemático tema de Bon Jovi se lanzó el 20 de octubre de 2000 como el sencillo principal del álbum 'Crush'. La canción se convirtió en un himno generacional que habla sobre vivir la vida al máximo y tomar el control del propio destino, marcando un exitoso regreso de la banda al nuevo milenio.
 
