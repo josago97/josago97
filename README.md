@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de octubre de 1961, IBM lanzó el IBM 1440, un sistema de computación de costo medio que popularizó el lenguaje de programación RPG (Report Program Generator), diseñado específicamente para generar informes empresariales de forma rápida y eficiente.
+El 21 de octubre de 1969, se envió el primer mensaje entre dos computadoras en ARPANET, desde UCLA a Stanford, un hito fundamental que allanó el camino para la creación de Internet. Aunque el intento de iniciar sesión provocó un fallo del sistema tras transmitir las letras "L" y "O", sentó las bases de las redes modernas.
 
 ## El temazo de hoy
-#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este emblemático tema de Bon Jovi se lanzó el 20 de octubre de 2000 como el sencillo principal del álbum 'Crush'. La canción se convirtió en un himno generacional que habla sobre vivir la vida al máximo y tomar el control del propio destino, marcando un exitoso regreso de la banda al nuevo milenio.
+#### [U2 - Beautiful Day](https://www.youtube.com/watch?v=co6WMzDOh1o)
+Publicada como single el 21 de octubre de 2000, esta canción icónica de U2 combina letras optimistas con un sonido rock expansivo. Ganó tres premios Grammy y se convirtió en un himno de esperanza y renovación para millones de fans en todo el mundo.
 
