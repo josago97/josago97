@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de octubre de 2008, Google lanzó oficialmente la primera versión del sistema operativo móvil Android, Android 1.0, con el teléfono HTC Dream/T-Mobile G1, iniciando una revolución en la industria de los smartphones.
+El **23 de octubre de 2001**, Apple lanzó **iPod**, un dispositivo que revolucionó la industria musical y cuyo éxito dependió de un software integrado (como el sistema operativo *iPod OS*) que simplificó radicalmente la sincronización y gestión de música mediante iTunes.
 
 ## El temazo de hoy
-#### [Bob Dylan - Things Have Changed](https://www.youtube.com/watch?v=L9EKqQWPjyo)
-Escrita para la banda sonora de la película 'Wonder Boys' en el año 2000, esta canción ganó el Oscar a la Mejor Canción Original y el Globo de Oro. Captura la actitud cínica y desencantada del personaje principal de la película con la característica voz áspera y lírica introspectiva de Dylan, convirtiéndose en un himno para la incertidumbre de la nueva era.
+#### [Vanessa Carlton - A Thousand Miles](https://www.youtube.com/watch?v=Cwkej79U3ek)
+Este éxito icónico del 2002 es reconocido por su inconfundible piano introductorio y su melodía pegadiza. La canción habla sobre la determinación de recorrer cualquier distancia por amor y se convirtió en un himno pop gracias a su aparición en la película 'White Chicks'.
 
