@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **23 de octubre de 2001**, Apple lanzó **iPod**, un dispositivo que revolucionó la industria musical y cuyo éxito dependió de un software integrado (como el sistema operativo *iPod OS*) que simplificó radicalmente la sincronización y gestión de música mediante iTunes.
+El 24 de octubre de 2003, el avión cohete **SpaceShipOne**, cuyo software de control de vuelo fue desarrollado en gran medida con el lenguaje de programación **LabVIEW**, realizó su primer vuelo de prueba supersónico, allanando el camino para el turismo espacial privado.
 
 ## El temazo de hoy
-#### [Vanessa Carlton - A Thousand Miles](https://www.youtube.com/watch?v=Cwkej79U3ek)
-Este éxito icónico del 2002 es reconocido por su inconfundible piano introductorio y su melodía pegadiza. La canción habla sobre la determinación de recorrer cualquier distancia por amor y se convirtió en un himno pop gracias a su aparición en la película 'White Chicks'.
+#### [U2 - Mysterious Ways](https://www.youtube.com/watch?v=TxcDTUMLQJI)
+Lanzado como segundo single del álbum 'Achtung Baby' en 1991, este tema combina el rock alternativo con ritmos bailables y letras que exploran lo femenino y lo espiritual. Destaca por su característico riff de guitarra de The Edge y se convirtió en uno de los mayores éxitos de la banda, mostrando su evolución musical hacia sonidos más experimentales.
 
