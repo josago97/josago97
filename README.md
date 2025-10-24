@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de octubre de 2003, el avión cohete **SpaceShipOne**, cuyo software de control de vuelo fue desarrollado en gran medida con el lenguaje de programación **LabVIEW**, realizó su primer vuelo de prueba supersónico, allanando el camino para el turismo espacial privado.
+El 25 de octubre de 2001, Microsoft lanzó **Windows XP**, uno de los sistemas operativos más exitosos de la historia. Su interfaz Luna y una mayor estabilidad marcaron una era en la computación personal.
 
 ## El temazo de hoy
-#### [U2 - Mysterious Ways](https://www.youtube.com/watch?v=TxcDTUMLQJI)
-Lanzado como segundo single del álbum 'Achtung Baby' en 1991, este tema combina el rock alternativo con ritmos bailables y letras que exploran lo femenino y lo espiritual. Destaca por su característico riff de guitarra de The Edge y se convirtió en uno de los mayores éxitos de la banda, mostrando su evolución musical hacia sonidos más experimentales.
+#### [Gloria Estefan - Get On Your Feet](https://www.youtube.com/watch?v=JPOSGVUYgVQ)
+Este energético tema de Gloria Estefan se lanzó el 25 de octubre de 1989 como parte de su álbum 'Cuts Both Ways'. La canción se convirtió en un himno motivacional con su mensaje de superación y su ritmo contagioso de dance-pop latino, característico del sonido Miami Sound Machine.
 
