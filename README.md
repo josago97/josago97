@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 25 de octubre de 2001, Microsoft lanzó **Windows XP**, uno de los sistemas operativos más exitosos de la historia. Su interfaz Luna y una mayor estabilidad marcaron una era en la computación personal.
+El 26 de octubre de 1970, Gary Starkweather, un ingeniero de Xerox PARC, completó la construcción de la primera impresora láser funcional del mundo, un hito fundamental que revolucionó la oficina y la impresión digital.
 
 ## El temazo de hoy
-#### [Gloria Estefan - Get On Your Feet](https://www.youtube.com/watch?v=JPOSGVUYgVQ)
-Este energético tema de Gloria Estefan se lanzó el 25 de octubre de 1989 como parte de su álbum 'Cuts Both Ways'. La canción se convirtió en un himno motivacional con su mensaje de superación y su ritmo contagioso de dance-pop latino, característico del sonido Miami Sound Machine.
+#### [Michael Jackson - Thriller](https://www.youtube.com/watch?v=sOnqjkJTMaA)
+Lanzado como single el 26 de octubre de 1983, 'Thriller' revolucionó los videoclips musicales con su narrativa cinematográfica y coreografía icónica. Esta obra maestra de 14 minutos no solo dominó las listas musicales, sino que se consolidó como un fenómeno cultural que redefinió el entretenimiento pop para siempre.
 
