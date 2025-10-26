@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de octubre de 1970, Gary Starkweather, un ingeniero de Xerox PARC, completó la construcción de la primera impresora láser funcional del mundo, un hito fundamental que revolucionó la oficina y la impresión digital.
+La primera versión pública del sistema operativo Linux, creado por Linus Torvalds, fue anunciada el 5 de octubre de 1991. *No fue un 26 de octubre, pero es uno de los hitos más importantes.*
 
 ## El temazo de hoy
 #### [Michael Jackson - Thriller](https://www.youtube.com/watch?v=sOnqjkJTMaA)
-Lanzado como single el 26 de octubre de 1983, 'Thriller' revolucionó los videoclips musicales con su narrativa cinematográfica y coreografía icónica. Esta obra maestra de 14 minutos no solo dominó las listas musicales, sino que se consolidó como un fenómeno cultural que redefinió el entretenimiento pop para siempre.
+Publicada originalmente el 26 de octubre de 1983, 'Thriller' es el icónico tema que revolucionó los videoclips musicales. Con su narrativa de película de terror, la coreografía legendaria y la narración de Vincent Price, se convirtió en un fenómeno cultural que definió una era y consolidó el reinado de Michael Jackson como el Rey del Pop.
 
