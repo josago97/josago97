@@ -1,7 +1,9 @@
 ## El evento histórico de hoy
-La primera versión pública del sistema operativo Linux, creado por Linus Torvalds, fue anunciada el 5 de octubre de 1991. *No fue un 26 de octubre, pero es uno de los hitos más importantes.*
+El 27 de octubre de 1980, Microsoft firma un contrato crucial con IBM para proporcionar el sistema operativo para su nuevo PC.  
+
+Para cumplir con el plazo, Microsoft compra QDOS (Quick and Dirty Operating System) por $75,000, que se convirtió en PC-DOS y, posteriormente, en MS-DOS, el pilar de su imperio.
 
 ## El temazo de hoy
 #### [Michael Jackson - Thriller](https://www.youtube.com/watch?v=sOnqjkJTMaA)
-Publicada originalmente el 26 de octubre de 1983, 'Thriller' es el icónico tema que revolucionó los videoclips musicales. Con su narrativa de película de terror, la coreografía legendaria y la narración de Vincent Price, se convirtió en un fenómeno cultural que definió una era y consolidó el reinado de Michael Jackson como el Rey del Pop.
+Lanzado como single el 27 de octubre de 1983, 'Thriller' revolucionó la industria musical con su icónico video musical de 14 minutos dirigido por John Landis. La canción se convirtió en un fenómeno cultural que redefinió el potencial de los videoclips y consolidó el reinado de Michael Jackson como el Rey del Pop.
 
