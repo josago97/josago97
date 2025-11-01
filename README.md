@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 31 de octubre de 2011, la empresa de desarrollo de videojuegos Double Fine lanzó el videojuego *Costume Quest*, un título de Halloween que se promocionó como parte del "Double Fine Halloween".
+El **2 de noviembre de 1988**, Robert Tappan Morris lanzó desde el MIT el primer "gusano" de Internet, un programa que se autorreplicaba y que, debido a un error, colapsó alrededor del 10% de los servidores conectados a la red, convirtiéndose en uno de los primeros ciberataques masivos.
 
 ## El temazo de hoy
-#### [Michael Jackson - Thriller](https://www.youtube.com/watch?v=sOnqjkJTMaA)
-Publicada como single el 31 de octubre de 1983, 'Thriller' no es solo una canción, es un fenómeno cultural que redefine la música pop. Con su icónico video musical de 14 minutos, narración de Vincent Price y coreografía de zombies, se convirtió en la banda sonora por excelencia de Halloween y el video más influyente de la historia.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Publicada en el año 2000, este himno de rock se convirtió en uno de los mayores éxitos de la banda. Con su mensaje de rebeldía y autodeterminación, se mantiene como un clásico atemporal que sigue resonando con nuevas generaciones.
 
