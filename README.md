@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **3 de noviembre de 1971**, el programador estadounidense **Ray Tomlinson** envió el primer correo electrónico de la historia entre dos computadoras. Fue también quien eligió el símbolo **@** para separar el nombre del usuario del destino, un estándar que perdura hasta hoy.
+El 4 de noviembre de 1985, Microsoft lanzó Windows 1.0. Fue la primera versión del sistema operativo que introdujo una interfaz gráfica de usuario (GUI) y el uso del mouse para los PC compatibles con IBM.
 
 ## El temazo de hoy
-#### [Culture Beat - Mr. Vain](https://www.youtube.com/watch?v=ZMtf_ouMTHw)
-Este éxito eurodance de 1993 se convirtió en un himno de los clubs gracias a su ritmo contagioso y vocales característicos. La canción lideró las listas en más de 10 países y sigue siendo un símbolo perdurable de la era del dance de los 90.
+#### [Aerosmith - Angel](https://www.youtube.com/watch?v=CBTOGVb_cQg)
+Esta poderosa balada de Aerosmith se convirtió en uno de sus mayores éxitos, llegando al top 5 del Billboard Hot 100. La canción, con su emotiva letra sobre amor redentor y la característica voz de Steven Tyler, muestra el lado más melódico de la banda de hard rock.
 
