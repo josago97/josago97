@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de noviembre de 1985, Microsoft lanzó Windows 1.0. Fue la primera versión del sistema operativo que introdujo una interfaz gráfica de usuario (GUI) y el uso del mouse para los PC compatibles con IBM.
+La primera versión del lenguaje de programación `JavaScript` (inicialmente llamado Mocha) fue lanzada por Netscape el 5 de noviembre de 1996. Este evento cambió para siempre el desarrollo web al permitir la creación de páginas interactivas.
 
 ## El temazo de hoy
-#### [Aerosmith - Angel](https://www.youtube.com/watch?v=CBTOGVb_cQg)
-Esta poderosa balada de Aerosmith se convirtió en uno de sus mayores éxitos, llegando al top 5 del Billboard Hot 100. La canción, con su emotiva letra sobre amor redentor y la característica voz de Steven Tyler, muestra el lado más melódico de la banda de hard rock.
+#### [Tears for Fears - Shout](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
+Lanzado el 5 de noviembre de 1984, 'Shout' es un himno del synth-pop que combina un ritmo potente con letras cargadas de protesta social y liberación emocional. La canción se convirtió en un éxito mundial, destacando por su producción innovadora y el poderoso vocal de Curt Smith, siendo considerada una de las canciones más icónicas de la década de los 80.
 
