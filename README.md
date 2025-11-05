@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-La primera versión del lenguaje de programación `JavaScript` (inicialmente llamado Mocha) fue lanzada por Netscape el 5 de noviembre de 1996. Este evento cambió para siempre el desarrollo web al permitir la creación de páginas interactivas.
+El 6 de noviembre de 1991, Microsoft y HP anunciaron un acuerdo para desarrollar conjuntamente un nuevo sistema operativo basado en Unix para estaciones de trabajo de alto rendimiento, un proyecto que finalmente no llegó a buen puerto.
 
 ## El temazo de hoy
-#### [Tears for Fears - Shout](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
-Lanzado el 5 de noviembre de 1984, 'Shout' es un himno del synth-pop que combina un ritmo potente con letras cargadas de protesta social y liberación emocional. La canción se convirtió en un éxito mundial, destacando por su producción innovadora y el poderoso vocal de Curt Smith, siendo considerada una de las canciones más icónicas de la década de los 80.
+#### [Guns N' Roses - November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
+Una poderosa balada de rock épica que se convirtió en uno de los mayores éxitos de Guns N' Roses. Destaca por su emotivo solo de guitarra de Slash, su orquestación y la representación de la fragilidad de las relaciones, manteniéndose como un himno perdurable del rock.
 
