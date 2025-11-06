@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de noviembre de 1991, Microsoft y HP anunciaron un acuerdo para desarrollar conjuntamente un nuevo sistema operativo basado en Unix para estaciones de trabajo de alto rendimiento, un proyecto que finalmente no llegó a buen puerto.
+El 7 de noviembre de 1962, la revista *New Scientist* publicó un artículo mencionando por primera vez el concepto de "software" como un elemento distinto del "hardware", marcando un hito en la conceptualización de la programación.
 
 ## El temazo de hoy
-#### [Guns N' Roses - November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
-Una poderosa balada de rock épica que se convirtió en uno de los mayores éxitos de Guns N' Roses. Destaca por su emotivo solo de guitarra de Slash, su orquestación y la representación de la fragilidad de las relaciones, manteniéndose como un himno perdurable del rock.
+#### [Britney Spears - Oops!... I Did It Again](https://www.youtube.com/watch?v=CduA0TULnow)
+Este icónico éxito de Britney Spears fue lanzado como sencillo el 7 de noviembre de 2000, convirtiéndose en un fenómeno global. La canción mezcla pop irresistible con una actitud juguetona, consolidando a Britney como princesa del pop y definiendo el sonido de la era.
 
