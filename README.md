@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de noviembre de 1967, en un simposio, Douglas Engelbart presentó por primera vez en público su invento "X-Y Position Indicator for a Display System", que el mundo conoció después como el **ratón de computadora**.
+El 10 de noviembre de 1983, el informático estadounidense Fred Cohen demostró por primera vez un virus informático en un sistema UNIX, definiendo formalmente el concepto de "virus informático" y sentando las bases de la ciberseguridad moderna.
 
 ## El temazo de hoy
-#### [Bon Jovi - Always](https://www.youtube.com/watch?v=9BMwcO6_hyA)
-Este power ballad de 1994 se convirtió en uno de los mayores éxitos de Bon Jovi, destacando por su emotiva letra sobre el amor perdido y su característico solo de piano. Aunque fue lanzado como single el 9 de noviembre de 1994, la canción originalmente fue escrita para la banda sonora de la película 'Romeo Is Bleeding'.
+#### [George Michael - Jesus to a Child](https://www.youtube.com/watch?v=zNBj4EV_hAo)
+Este emotivo single de George Michael, lanzado el 10 de noviembre de 1995, es una elegía soul con influencias de bossa nova dedicada a su pareja fallecida. La canción se convirtió en un éxito mundial, destacando por su delicada instrumentación y la vulnerable interpretación vocal que refleja el dolor y la elegante melancolía característica de su obra.
 
