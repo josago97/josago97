@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de noviembre de 1983, el informático estadounidense Fred Cohen demostró por primera vez un virus informático en un sistema UNIX, definiendo formalmente el concepto de "virus informático" y sentando las bases de la ciberseguridad moderna.
+El primer virus informático, el "gusano de Morris", fue lanzado el 2 de noviembre de 1988, no el 11. Sin embargo, sus efectos destructivos, que colapsaron el 10% de Internet, aún se sentían fuertemente el 11 de noviembre, convirtiéndolo en una fecha clave en la historia de la ciberseguridad.
 
 ## El temazo de hoy
-#### [George Michael - Jesus to a Child](https://www.youtube.com/watch?v=zNBj4EV_hAo)
-Este emotivo single de George Michael, lanzado el 10 de noviembre de 1995, es una elegía soul con influencias de bossa nova dedicada a su pareja fallecida. La canción se convirtió en un éxito mundial, destacando por su delicada instrumentación y la vulnerable interpretación vocal que refleja el dolor y la elegante melancolía característica de su obra.
+#### [Bryan Adams - (Everything I Do) I Do It For You](https://www.youtube.com/watch?v=Y0pdQU87dc8)
+Este power ballad icónico fue parte de la banda sonora de Robin Hood: Príncipe de los Ladrones. Se convirtió en un éxito mundial en 1991, manteniéndose 16 semanas en el número uno del UK Singles Chart y ganando un Grammy por Mejor Canción de Cine.
 
