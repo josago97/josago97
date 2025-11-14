@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de noviembre de 2006, Microsoft lanzó Windows Vista para empresas, un sistema operativo muy criticado por sus altos requisitos de hardware y el polémico sistema de permisos UAC (User Account Control).
+La primera versión del lenguaje de programación Python (0.9.0) fue lanzada en 1991, aunque no fue un 15 de noviembre. Por otra parte, el 15 de noviembre de 1971, Intel lanzó el primer microprocesador de un solo chip, el Intel 4004, sentando las bases físicas para el software moderno.
 
 ## El temazo de hoy
-#### [Spice Girls - Holler](https://www.youtube.com/watch?v=gFBWbH5CeRE)
-Lanzado como parte de su tercer álbum 'Forever' en 2000, 'Holler' marcó un cambio hacia sonidos más R&B y urbanos para el grupo. Aunque mantuvo el empoderamiento característico de las Spice Girls, la canción mostró una evolución musical más madura en su ya icónica carrera.
+#### [Ace of Base - The Sign](https://www.youtube.com/watch?v=iqu132vTl5Y)
+Lanzado como single el 15 de noviembre de 1993, 'The Sign' se convirtió en un fenómeno global que definió el sonido pop de los 90s. Su fusión de pop, reggae y dance, junto con su coro irresistible, la convirtió en un himno atemporal que aún resuena en las pistas de baile.
 
