@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-La primera versión del lenguaje de programación Python (0.9.0) fue lanzada en 1991, aunque no fue un 15 de noviembre. Por otra parte, el 15 de noviembre de 1971, Intel lanzó el primer microprocesador de un solo chip, el Intel 4004, sentando las bases físicas para el software moderno.
+El 16 de noviembre de 1979, IBM lanzó el IBM 4300, una serie de mainframes que popularizó el procesamiento de datos empresariales e hizo el poder computacional más accesible y económico.
 
 ## El temazo de hoy
-#### [Ace of Base - The Sign](https://www.youtube.com/watch?v=iqu132vTl5Y)
-Lanzado como single el 15 de noviembre de 1993, 'The Sign' se convirtió en un fenómeno global que definió el sonido pop de los 90s. Su fusión de pop, reggae y dance, junto con su coro irresistible, la convirtió en un himno atemporal que aún resuena en las pistas de baile.
+#### [Madonna - Erotica](https://www.youtube.com/watch?v=WyhdvRWEWRw)
+Lanzado el 16 de noviembre de 1992, este controvertido single marcó un cambio radical en la imagen de Madonna hacia lo explícitamente sensual. La canción, con su ritmo hip-hop y letras audaces, generó tanto fascinación como polémica, consolidando su reinado como la reina del pop transgresor.
 
