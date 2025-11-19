@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de noviembre de 1973, el programador Bob Metcalfe dibujó el primer diagrama de Ethernet, una tecnología de red que se convirtió en el estándar fundamental para conectar computadoras e internet.
+El 20 de noviembre de 1985, Microsoft lanzó Windows 1.0, su primer sistema operativo gráfico, que introdujo el uso del ratón y sentó las bases para el futuro dominio de la plataforma Windows.
 
 ## El temazo de hoy
-#### [Jennifer Lopez - Waiting for Tonight](https://www.youtube.com/watch?v=_66jPJVS4JE)
-Este éxito dance-pop de 1999 se convirtió en un himno de las fiestas y discotecas a nivel mundial. Con su ritmo contagioso y letra sobre anticipación y celebración, la canción showcases la transición de JLo hacia una superestrella internacional de la música.
+#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
+Lanzada como sencillo el 20 de noviembre de 1989, esta canción se convirtió en un himno instantáneo que fusiona pop con elementos gospel. Su polémico videoclip y su potente mensaje sobre la espiritualidad y la redención la consolidaron como uno de los hits más emblemáticos de la década.
 
