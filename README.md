@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de noviembre de 1985, Microsoft lanzó Windows 1.0, su primer sistema operativo gráfico, que introdujo el uso del ratón y sentó las bases para el futuro dominio de la plataforma Windows.
+El 21 de noviembre de 2006 se lanzó la primera versión de Windows Vista para fabricantes de hardware, un sistema operativo que, a pesar de su gran despliegue de marketing, fue ampliamente criticado por su alto consumo de recursos y los molestos cuadros de diálogo del Control de Cuentas de Usuario (UAC).
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada como sencillo el 20 de noviembre de 1989, esta canción se convirtió en un himno instantáneo que fusiona pop con elementos gospel. Su polémico videoclip y su potente mensaje sobre la espiritualidad y la redención la consolidaron como uno de los hits más emblemáticos de la década.
+#### [Björk - All Is Full of Love](https://www.youtube.com/watch?v=K5hMHLwqPR4)
+Este icónico single de Björk, lanzado como último sencillo de su álbum 'Homogenic', es celebrado por su innovador video musical dirigido por Chris Cunningham que presenta robots enamorados. La canción combina arreglos orquestales etéreos con beats electrónicos, creando una atmósfera emotiva y futurista que se ha convertido en un himno de amor atemporal.
 
