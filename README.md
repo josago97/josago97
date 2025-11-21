@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 21 de noviembre de 2006 se lanzó la primera versión de Windows Vista para fabricantes de hardware, un sistema operativo que, a pesar de su gran despliegue de marketing, fue ampliamente criticado por su alto consumo de recursos y los molestos cuadros de diálogo del Control de Cuentas de Usuario (UAC).
+El 22 de noviembre de 1995 se lanzó la versión 2.0 de **Java**, un hitto fundamental que popularizó el lenguaje con características clave como la biblioteca *Swing* para interfaces gráficas.
 
 ## El temazo de hoy
-#### [Björk - All Is Full of Love](https://www.youtube.com/watch?v=K5hMHLwqPR4)
-Este icónico single de Björk, lanzado como último sencillo de su álbum 'Homogenic', es celebrado por su innovador video musical dirigido por Chris Cunningham que presenta robots enamorados. La canción combina arreglos orquestales etéreos con beats electrónicos, creando una atmósfera emotiva y futurista que se ha convertido en un himno de amor atemporal.
+#### [Scorpions - Wind of Change](https://www.youtube.com/watch?v=n4RjJKxsamQ)
+Este icónico power ballad de la banda alemana se convirtió en el himno no oficial de la reunificación europea tras la caída del Muro de Berlín. Publicado como single el 22 de noviembre de 1991, su característico silbido y letras esperanzadoras simbolizaron el fin de la Guerra Fría y el comienzo de una nueva era de paz.
 
