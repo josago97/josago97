@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de noviembre de 1976, se concedió la patente US 3,996,564 para la "Memoria de burbuja magnética", un primitivo pero innovador tipo de almacenamiento de datos no volátil, precursora de las memorias flash modernas.
+El 24 de noviembre de 1859, Charles Darwin publicó "El Origen de las Especies", sentando una base conceptual que, siglos después, influiría en algoritmos genéticos y la programación evolutiva.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Publicado como sencillo el 23 de noviembre de 1988, este icónico tema de Madonna fusiona pop con elementos gospel y generó gran controversia por su videoclip. Se convirtió en uno de sus mayores éxitos, aclamado por la crítica como una obra maestra musical que explora temas espirituales y terrenales.
+#### [Madonna - Hung Up](https://www.youtube.com/watch?v=EDwb9jOVRtU)
+Lanzado como el primer sencillo de su álbum 'Confessions on a Dance Floor' en 2005, este tema samplea el icónico riff de 'Gimme! Gimme! Gimme! (A Man After Midnight)' de ABBA. 'Hung Up' marcó el regreso triunfal de Madonna a la música disco y se convirtió en un himno global, liderando las listas de más de 40 países.
 
