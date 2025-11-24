@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de noviembre de 1859, Charles Darwin publicó "El Origen de las Especies", sentando una base conceptual que, siglos después, influiría en algoritmos genéticos y la programación evolutiva.
+El **25 de noviembre de 2009**, Linus Torvalds lanzó la versión 2.6.32 del kernel de Linux, la primera que incluyó la implementación de Google del **protocolo BBR** para mejorar el rendimiento de la red en internet.
 
 ## El temazo de hoy
-#### [Madonna - Hung Up](https://www.youtube.com/watch?v=EDwb9jOVRtU)
-Lanzado como el primer sencillo de su álbum 'Confessions on a Dance Floor' en 2005, este tema samplea el icónico riff de 'Gimme! Gimme! Gimme! (A Man After Midnight)' de ABBA. 'Hung Up' marcó el regreso triunfal de Madonna a la música disco y se convirtió en un himno global, liderando las listas de más de 40 países.
+#### [George Michael - Fastlove](https://www.youtube.com/watch?v=SHAQlFq6TFg)
+Este éxito de 1996 del álbum 'Older' combina sofisticados ritmos de R&B con letras que exploran temas de relaciones casuales y la búsqueda de conexión genuina. La canción muestra la madurez artística de George Michael tras su etapa con Wham! y se convirtió en uno de sus mayores éxitos en solitario.
 
