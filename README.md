@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **25 de noviembre de 2009**, Linus Torvalds lanzó la versión 2.6.32 del kernel de Linux, la primera que incluyó la implementación de Google del **protocolo BBR** para mejorar el rendimiento de la red en internet.
+El 26 de noviembre de 2008, la Free Software Foundation publicó la versión 3 de la **Licencia Pública General de Affero (AGPLv3)**, diseñada específicamente para software como servicio y que cierra el «agujero de la nube».
 
 ## El temazo de hoy
-#### [George Michael - Fastlove](https://www.youtube.com/watch?v=SHAQlFq6TFg)
-Este éxito de 1996 del álbum 'Older' combina sofisticados ritmos de R&B con letras que exploran temas de relaciones casuales y la búsqueda de conexión genuina. La canción muestra la madurez artística de George Michael tras su etapa con Wham! y se convirtió en uno de sus mayores éxitos en solitario.
+#### [Madonna - Erotica](https://www.youtube.com/watch?v=WyhdvRWEWRw)
+Lanzado como sencillo principal de su álbum homónimo en 1992, 'Erotica' causó gran controversia por su explícito contenido lírico y sensual. La canción, con su ritmo house y susurros seductores, se convirtió en un icono de la era dorada de Madonna desafiando convenciones sociales.
 
