@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de noviembre de 2008, la Free Software Foundation publicó la versión 3 de la **Licencia Pública General de Affero (AGPLv3)**, diseñada específicamente para software como servicio y que cierra el «agujero de la nube».
+No hay un evento histórico destacado de programación o software ocurrido específicamente el 27 de noviembre. Sin embargo, ese día de 1990 quedó marcado por la trágica muerte del visionario **Philip Emeagwali**, un matemático e informático pionero cuyos modelos algorítmicos sentaron las bases para el desarrollo de Internet, aunque su fallecimiento fue años después.
 
 ## El temazo de hoy
-#### [Madonna - Erotica](https://www.youtube.com/watch?v=WyhdvRWEWRw)
-Lanzado como sencillo principal de su álbum homónimo en 1992, 'Erotica' causó gran controversia por su explícito contenido lírico y sensual. La canción, con su ritmo house y susurros seductores, se convirtió en un icono de la era dorada de Madonna desafiando convenciones sociales.
+#### [Gloria Estefan - Don't Wanna Lose You](https://www.youtube.com/watch?v=J1x1WGtePSE)
+Este éxito de 1989 consolidó la carrera solista de Gloria Estefan tras su éxito con Miami Sound Machine. La canción combina pop romántico con ritmos latinos, mostrando su poder vocal y llegando al número uno en Billboard Hot 100.
 
