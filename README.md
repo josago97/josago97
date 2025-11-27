@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-No hay un evento histórico destacado de programación o software ocurrido específicamente el 27 de noviembre. Sin embargo, ese día de 1990 quedó marcado por la trágica muerte del visionario **Philip Emeagwali**, un matemático e informático pionero cuyos modelos algorítmicos sentaron las bases para el desarrollo de Internet, aunque su fallecimiento fue años después.
+**1979:** El primer disco duro de 5.25 pulgadas es anunciado, la unidad Seagate ST-506. Con 5 MB de capacidad, fue clave para popularizar los discos duros en los primeros ordenadores personales, marcando un hito en el almacenamiento de software.
 
 ## El temazo de hoy
-#### [Gloria Estefan - Don't Wanna Lose You](https://www.youtube.com/watch?v=J1x1WGtePSE)
-Este éxito de 1989 consolidó la carrera solista de Gloria Estefan tras su éxito con Miami Sound Machine. La canción combina pop romántico con ritmos latinos, mostrando su poder vocal y llegando al número uno en Billboard Hot 100.
+#### [George Michael - Faith](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
+Lanzado como sencillo principal de su primer álbum homónimo, 'Faith' se convirtió en un himno global que definió la era del pop de finales de los 80. La canción combina un riff de guitarra rockabilly con el carisma vocal de Michael, marcando su exitosa transición de Wham! a su carrera en solitario y convirtiéndose en uno de los temas más icónicos de la década.
 
