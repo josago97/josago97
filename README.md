@@ -1,7 +1,9 @@
 ## El evento histórico de hoy
-El 1 de diciembre de 1999, Computer Sciences Corporation (CSC) compró la división de servicios profesionales de Mylex Corporation, una empresa clave en el desarrollo de controladoras RAID. Este movimiento consolidó el ecosistema de infraestructura de datos crítica previo al Y2K.
+El 2 de diciembre de 2008, Google lanzó el navegador Chrome para el sistema operativo macOS y Linux, expandiendo significativamente el alcance de su navegador, que originalmente solo estaba disponible para Windows. Este paso fue crucial en la "Guerra de los Navegadores", acelerando la adopción de estándares web modernos.
+
+**Fuente:** Anuncio oficial del blog de Google (blog.google) con fecha 2 de diciembre de 2008.
 
 ## El temazo de hoy
 #### [Britney Spears - Sometimes](https://www.youtube.com/watch?v=t0bPrt69rag)
-Este tema, lanzado como el segundo sencillo de su álbum debut '...Baby One More Time' en 1999, es una canción pop bubblegum que muestra el lado más inocente y dulce de la carrera temprana de Britney. Con una producción suave y letras que tratan sobre el enamoramiento tímido, se convirtió en un éxito internacional y ayudó a consolidar su imagen de ídolo adolescente a finales de los 90.
+Este sencillo de la entonces adolescente Britney Spears se publicó el 2 de diciembre de 1999. La canción, de estilo bubblegum pop, refleja las inseguridades juvenil sobre el amor y se convirtió en un éxito mundial, ayudando a consolidar su carrera.
 
