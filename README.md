@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 3 de diciembre de 1992 se envió el primer mensaje de texto (SMS) de la historia. El texto decía "Merry Christmas" y fue enviado por el ingeniero Neil Papworth desde su ordenador a un teléfono móvil Vodafone en el Reino Unido.
+La primera demostración pública del ratón de computadora y la interfaz gráfica de usuario (GUI) fue el 9 de diciembre de 1968, por Douglas Engelbart. El 4 de diciembre de ese mismo año, su equipo realizó la crucial "presentación de ensayo general", perfeccionando la histórica demo que revolucionaría la interacción humano-computadora.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Sweet Child O' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Una de las baladas de rock más icónicas de todos los tiempos, famosa por su intro de guitarra reconocible al instante. La canción, que muestra una faceta más melódica de la banda, se convirtió en un himno global y su mayor éxito comercial.
+#### [Jay-Z - Empire State of Mind](https://www.youtube.com/watch?v=vk6014HuxcE)
+Aunque el éxito masivo de 'Empire State of Mind' con Alicia Keys llegó en 2009, una versión inicial de Jay-Z sin el hook característico fue lanzada precisamente un 4 de diciembre de 2009 como avance del álbum 'The Blueprint 3'. El tema se convirtió en un himno moderno para Nueva York, combinando el flow característico de Jay-Z con el poderoso coro de Keys para crear una oda a la ambición y la resiliencia de la ciudad.
 
