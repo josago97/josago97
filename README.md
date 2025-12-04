@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-La primera demostración pública del ratón de computadora y la interfaz gráfica de usuario (GUI) fue el 9 de diciembre de 1968, por Douglas Engelbart. El 4 de diciembre de ese mismo año, su equipo realizó la crucial "presentación de ensayo general", perfeccionando la histórica demo que revolucionaría la interacción humano-computadora.
+El 5 de diciembre de 1968, Douglas Engelbart realizó "La Madre de Todas las Demostraciones", presentando por primera vez el ratón, el hipertexto, la interfaz gráfica y la videoconferencia, sentando las bases de la computación moderna. Este evento seminal cambió para siempre la forma en que los humanos interactúan con las computadoras.
 
 ## El temazo de hoy
-#### [Jay-Z - Empire State of Mind](https://www.youtube.com/watch?v=vk6014HuxcE)
-Aunque el éxito masivo de 'Empire State of Mind' con Alicia Keys llegó en 2009, una versión inicial de Jay-Z sin el hook característico fue lanzada precisamente un 4 de diciembre de 2009 como avance del álbum 'The Blueprint 3'. El tema se convirtió en un himno moderno para Nueva York, combinando el flow característico de Jay-Z con el poderoso coro de Keys para crear una oda a la ambición y la resiliencia de la ciudad.
+#### [The Kooks - Always Where I Need to Be](https://www.youtube.com/watch?v=wh_-IoHD6oM)
+Este éxito indie rock de la banda británica The Kooks se publicó como sencillo el 5 de diciembre de 2008. La canción se caracteriza por su riff de guitarra pegadizo y ritmo energético, convirtiéndose en uno de los temas más reconocibles del álbum 'Konk'.
 
