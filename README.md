@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 5 de diciembre de 1968, Douglas Engelbart realizó "La Madre de Todas las Demostraciones", presentando por primera vez el ratón, el hipertexto, la interfaz gráfica y la videoconferencia, sentando las bases de la computación moderna. Este evento seminal cambió para siempre la forma en que los humanos interactúan con las computadoras.
+El 6 de diciembre de 1994, **Netscape Communications Corporation lanzó el navegador Netscape Navigator 1.0**, una pieza de software revolucionaria que popularizó la web y aceleró la adopción masiva de Internet. Marcó el inicio de la "Guerra de los Navegadores" contra Microsoft.
 
 ## El temazo de hoy
-#### [The Kooks - Always Where I Need to Be](https://www.youtube.com/watch?v=wh_-IoHD6oM)
-Este éxito indie rock de la banda británica The Kooks se publicó como sencillo el 5 de diciembre de 2008. La canción se caracteriza por su riff de guitarra pegadizo y ritmo energético, convirtiéndose en uno de los temas más reconocibles del álbum 'Konk'.
+#### [The Smiths - I Know It's Over](https://www.youtube.com/watch?v=M6o1SEj02t0)
+Esta desgarradora balada de The Smiths, publicada como lado B del single 'Shoplifters of the World Unload' el 6 de diciembre de 1988, es un profundo lamento sobre la soledad y la desesperanza. La emotiva voz de Morrissey y la melancólica instrumentación crean una atmósfera intensa que la convierte en un himno atemporal para los corazones rotos.
 
