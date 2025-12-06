@@ -1,7 +1,9 @@
 ## El evento histórico de hoy
-El 6 de diciembre de 1994, **Netscape Communications Corporation lanzó el navegador Netscape Navigator 1.0**, una pieza de software revolucionaria que popularizó la web y aceleró la adopción masiva de Internet. Marcó el inicio de la "Guerra de los Navegadores" contra Microsoft.
+El 7 de diciembre de 1968, Douglas Engelbart realizó "The Mother of All Demos", presentando por primera vez el ratón, el hipertexto, las videoconferencias y la interfaz gráfica, sentando las bases de la computación moderna.
+
+Esta presentación revolucionaria en la Fall Joint Computer Conference mostró por primera vez un sistema interactivo en tiempo real, cambiando para siempre la relación entre el ser humano y la computadora.
 
 ## El temazo de hoy
-#### [The Smiths - I Know It's Over](https://www.youtube.com/watch?v=M6o1SEj02t0)
-Esta desgarradora balada de The Smiths, publicada como lado B del single 'Shoplifters of the World Unload' el 6 de diciembre de 1988, es un profundo lamento sobre la soledad y la desesperanza. La emotiva voz de Morrissey y la melancólica instrumentación crean una atmósfera intensa que la convierte en un himno atemporal para los corazones rotos.
+#### [The Rolling Stones - She Was Hot](https://www.youtube.com/watch?v=VQh8oh0rj3s)
+Este tema de rock clásico fue lanzado como lado B del single 'Undercover of the Night' pero ganó popularidad por derecho propio. La canción combina el característico sonido blues-rock de la banda con una energía cruda y letras sugerentes típicas de su estilo.
 
