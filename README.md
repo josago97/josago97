@@ -1,9 +1,7 @@
 ## El evento histórico de hoy
-El 7 de diciembre de 1968, Douglas Engelbart realizó "The Mother of All Demos", presentando por primera vez el ratón, el hipertexto, las videoconferencias y la interfaz gráfica, sentando las bases de la computación moderna.
-
-Esta presentación revolucionaria en la Fall Joint Computer Conference mostró por primera vez un sistema interactivo en tiempo real, cambiando para siempre la relación entre el ser humano y la computadora.
+El 8 de diciembre de 1995, Sun Microsystems presentó oficialmente el lenguaje de programación Java y el navegador web HotJava, marcando un antes y un después en el desarrollo de aplicaciones web interactivas con su lema "Write Once, Run Anywhere".
 
 ## El temazo de hoy
-#### [The Rolling Stones - She Was Hot](https://www.youtube.com/watch?v=VQh8oh0rj3s)
-Este tema de rock clásico fue lanzado como lado B del single 'Undercover of the Night' pero ganó popularidad por derecho propio. La canción combina el característico sonido blues-rock de la banda con una energía cruda y letras sugerentes típicas de su estilo.
+#### [John Lennon - Imagine](https://www.youtube.com/watch?v=VOgFZfRVaww)
+Aunque 'Imagine' fue lanzada originalmente en 1971, su relanzamiento como single tras el asesinato de Lennon el 8 de diciembre de 1980 la convirtió en un himno atemporal. La canción es un poderoso mensaje de paz y esperanza que sigue resonando como un legado perdurable del artista.
 
