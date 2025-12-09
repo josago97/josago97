@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El **9 de diciembre de 1968**, Douglas Engelbart realizó la llamada **"madre de todas las demostraciones"**, en la que presentó por primera vez el ratón, el hipertexto, la interfaz gráfica y las videoconferencias, sentando bases clave de la computación moderna.
+El 10 de diciembre de 1815, nació Ada Lovelace, considerada la primera programadora de la historia por su trabajo en la máquina analítica de Babbage, donde describió el primer algoritmo destinado a ser procesado por una máquina.
 
 ## El temazo de hoy
-#### [Michael Jackson - Smooth Criminal](https://www.youtube.com/watch?v=h_D3VFfhvs4)
-'Smooth Criminal' es uno de los éxitos más emblemáticos de Michael Jackson, lanzado como sencillo el 9 de diciembre de 1988. La canción es famosa por su ritmo funk energético, su distintivo bajo y el innovador 'anti-gravity lean' que Jackson popularizó en sus presentaciones en vivo.
+#### [Mecano - Mujer Contra Mujer](https://www.youtube.com/watch?v=7WCGu9FEjZk)
+Este icónico tema del grupo español Mecano, lanzado como single el 10 de diciembre de 1990, fue pionero por abordar abiertamente una relación lésbica en sus letras. La canción se convirtió en un himno de libertad y tolerancia, destacando por su melodía pegadiza y la valentía de tratar temas tabú en la música pop de la época.
 
