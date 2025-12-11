@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-La programadora Grace Hopper, pionera en computación, murió el 1 de enero de 1992. La fecha que mencionas, 11 de diciembre, no coincide con hitos destacados como esos.
+El 12 de diciembre de 1968, Douglas Engelbart realizó "La madre de todas las demos", presentando por primera vez el ratón, la interfaz gráfica, el hipertexto y las videoconferencias. Este evento revolucionó para siempre la interacción humano-computadora y sentó las bases del software moderno.
 
 ## El temazo de hoy
-#### [Jamiroquai - Virtual Insanity](https://www.youtube.com/watch?v=4JkIs37a2JE)
-Lanzada el 11 de diciembre de 1996, este éxito de Jamiroquai se convirtió en un himno funk con su icónico vídeo de suelos móviles. La canción critica la dependencia tecnológica moderna con un groove irresistible que definió el sonido acid jazz de los 90.
+#### [Jennifer Lopez - If You Had My Love](https://www.youtube.com/watch?v=lYfkl-HXfuU)
+Este éxito de 1999 marcó el debut musical de J.Lo después de su fama como actriz. La canción mezcla pop con R&B y estableció su carrera en la música, convirtiéndose en un éxito internacional que definió su estilo característico.
 
