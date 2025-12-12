@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 12 de diciembre de 1968, Douglas Engelbart realizó "La madre de todas las demos", presentando por primera vez el ratón, la interfaz gráfica, el hipertexto y las videoconferencias. Este evento revolucionó para siempre la interacción humano-computadora y sentó las bases del software moderno.
+El 13 de diciembre de 1989, el CERN internal report #1 presentó la propuesta de Tim Berners-Lee para un sistema de gestión de información, que se convirtió en el documento fundacional de la World Wide Web.
 
 ## El temazo de hoy
-#### [Jennifer Lopez - If You Had My Love](https://www.youtube.com/watch?v=lYfkl-HXfuU)
-Este éxito de 1999 marcó el debut musical de J.Lo después de su fama como actriz. La canción mezcla pop con R&B y estableció su carrera en la música, convirtiéndose en un éxito internacional que definió su estilo característico.
+#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+Este éxito monumental de 1987 se convirtió en el himno de una generación gracias a su inconfundible riff de guitarra y la voz única de Axl Rose. La canción, un emotivo tributo a su entonces novia Erin Everly, muestra el lado más melódico y sentimental de la banda de hard rock.
 
