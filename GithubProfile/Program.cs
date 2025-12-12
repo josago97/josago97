@@ -37,7 +37,10 @@ internal class Program
 
     private static async Task<string> GetHistoricalEventAsync(string today)
     {
-        string request = $"En dos líneas dime un hecho histórico sobre la programación y el software que haya sucedido en un día como {today}";
+        string request = $"""
+            En dos líneas dime solamente un hecho histórico sobre la programación y el software que haya sucedido en un día como {today}.
+            Dame solamente el hecho, sin saludos ni despedidas.
+        """;
         string historicalEvent = await _deepseek.SendMessageAsync(request);
 
         return historicalEvent;
