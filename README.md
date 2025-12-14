@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de diciembre de 1960, se ejecutó con éxito el primer programa en la computadora IBM 1401, un modelo que se popularizó por su uso de cintas magnéticas y que fue fundamental para la adopción comercial de la informática.
+El 15 de diciembre de 1972, los astronautas del Apolo 17 desplegaron el Surface Electrical Properties (SEP), cuyo software, aunque primitivo, fue crucial para analizar el subsuelo lunar y es uno de los primeros ejemplos de software desplegado en otro cuerpo celeste.
 
 ## El temazo de hoy
-#### [Michael Jackson - Earth Song](https://www.youtube.com/watch?v=XAi3VTSdTxU)
-Lanzado como single el 14 de diciembre de 1995, 'Earth Song' es una poderosa balada ambientalista que muestra el lado más comprometido de Michael Jackson. La canción aborda temas ecológicos y sociales con una intensidad vocal extraordinaria, convirtiéndose en uno de sus temas más emotivos y con mensaje.
+#### [Mecano - Hijo de la Luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
+Esta icónica canción del grupo español Mecano, aunque compuesta años antes, tuvo su lanzamiento como single el 15 de diciembre de 1986. La canción cuenta la trágica leyenda de una gitana que ruega a la Luna por un amor, ofreciéndole a cambio a su primogénito. Con la misteriosa voz de Ana Torroja y una instrumentación que mezcla pop y sonidos étnicos, se convirtió en un éxito atemporal en el mundo de habla hispana.
 
