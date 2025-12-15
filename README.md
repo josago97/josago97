@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de diciembre de 1972, los astronautas del Apolo 17 desplegaron el Surface Electrical Properties (SEP), cuyo software, aunque primitivo, fue crucial para analizar el subsuelo lunar y es uno de los primeros ejemplos de software desplegado en otro cuerpo celeste.
+El 16 de diciembre de 1960, el cohete Atlas misil intercontinental despegó con éxito por primera vez utilizando un sistema de guía controlado enteramente por un ordenador y software desarrollado por IBM.
 
 ## El temazo de hoy
-#### [Mecano - Hijo de la Luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
-Esta icónica canción del grupo español Mecano, aunque compuesta años antes, tuvo su lanzamiento como single el 15 de diciembre de 1986. La canción cuenta la trágica leyenda de una gitana que ruega a la Luna por un amor, ofreciéndole a cambio a su primogénito. Con la misteriosa voz de Ana Torroja y una instrumentación que mezcla pop y sonidos étnicos, se convirtió en un éxito atemporal en el mundo de habla hispana.
+#### [The Jackson 5 - Santa Claus Is Coming to Town](https://www.youtube.com/watch?v=HhiUOCo8LYQ)
+Este clásico navideño de The Jackson 5, con la icónica voz infantil de Michael Jackson, fue relanzado como single el 16 de diciembre de 1970. La versión se convirtió en un éxito atemporal que sigue sonando en las fiestas navideñas por su energía contagiosa y espíritu festivo.
 
