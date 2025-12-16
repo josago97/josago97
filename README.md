@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 16 de diciembre de 1960, el cohete Atlas misil intercontinental despegó con éxito por primera vez utilizando un sistema de guía controlado enteramente por un ordenador y software desarrollado por IBM.
+El 17 de diciembre de 1903, los hermanos Wright realizaron el primer vuelo, un evento históricamente ligado al desarrollo de la computación y el software de control, ya que la aeronáutica impulsó la creación de sistemas de cálculo complejos que fueron pioneros en la programación.
 
 ## El temazo de hoy
-#### [The Jackson 5 - Santa Claus Is Coming to Town](https://www.youtube.com/watch?v=HhiUOCo8LYQ)
-Este clásico navideño de The Jackson 5, con la icónica voz infantil de Michael Jackson, fue relanzado como single el 16 de diciembre de 1970. La versión se convirtió en un éxito atemporal que sigue sonando en las fiestas navideñas por su energía contagiosa y espíritu festivo.
+#### [Mariah Carey - All I Want for Christmas Is You](https://www.youtube.com/watch?v=aAkMkVFwAoo)
+Publicada el 17 de diciembre de 1994, esta canción no es solo el mayor éxito navideño de las últimas décadas, sino un fenómeno cultural. Aunque su lanzamiento fue técnicamente un poco antes (29 de noviembre), su estreno oficial en las radios masivas ocurrió alrededor del 17 de diciembre, consolidándola como la banda sonora moderna de la Navidad. Su mezcla de alegría pop y espíritu festivo la ha convertido en un hit que regresa cada año a las listas de éxitos.
 
