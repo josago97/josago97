@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de diciembre de 1974, ALTOS publicó el primer anuncio comercial de una computadora personal con el lenguaje de programación BASIC de Microsoft incluido como estándar.
+El 20 de diciembre de 1982, la revista *TIME* nombró a la computadora personal como "Máquina del Año" en lugar de elegir a una persona, reconociendo el impacto masivo del software y la tecnología en la sociedad.
 
 ## El temazo de hoy
 #### [Wham! - Last Christmas](https://www.youtube.com/watch?v=E8gmARGvPlI)
-Este clásico navideño de 1984 se convirtió en uno de los mayores éxitos de Wham! y en una canción icónica de las fiestas. A pesar de no alcanzar el número uno en su lanzamiento original el 19 de diciembre de 1984, se ha mantenido como un favorito perdurable que marca el espíritu navideño con su mezcla de melancolía y alegría.
+Este clásico navideño de 1984 se ha convertido en una de las canciones más icónicas de las fiestas. La canción combina una melodía pegadiza con letras sobre el desamor durante la Navidad, creando una paradoja emocional que perdura generación tras generación.
 
