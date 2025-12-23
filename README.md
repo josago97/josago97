@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de diciembre de 1970, las primeras operaciones de la red CYCLADES, un precursor fundamental de Internet que introdujo el concepto clave de "datagrama", fueron establecidas en Francia.
+El 24 de diciembre de 1980, Tim Paterson entregó el primer prototipo completo del Sistema Operativo DOS 1.0 a Microsoft, un software que luego sería adquirido por IBM y se convertiría en PC DOS.
 
 ## El temazo de hoy
-#### [Da Brat - Ghetto Love](https://www.youtube.com/watch?v=p3Z-tzX-jWs)
-Este tema, lanzado justo antes de Navidad en 1993, es un claro ejemplo del estilo confiado y lleno de actitud de Da Brat, quien se consolidó como una de las principales figuras femeninas del hip-hop. La canción mezcla un funk suave con sus letras características, demostrando su versatilidad para rimar sobre romance desde una perspectiva callejera y auténtica.
+#### [Wham! - Last Christmas](https://www.youtube.com/watch?v=E8gmARGvPlI)
+Publicada originalmente en 1984 pero relanzada en múltiples ocasiones incluyendo Navidades posteriores, 'Last Christmas' se convirtió en el himno navideño por excelencia. Con su melancólica historia de amor y desamor durante las fiestas, combina una pegadiza melodía pop con letras que reflejan la nostalgia típica de estas fechas.
 
