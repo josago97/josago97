@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de diciembre de 1980, Tim Paterson entregó el primer prototipo completo del Sistema Operativo DOS 1.0 a Microsoft, un software que luego sería adquirido por IBM y se convertiría en PC DOS.
+El 25 de diciembre de 1990, Tim Berners-Lee puso en marcha el primer servidor web y el primer navegador (WorldWideWeb) en un ordenador NeXT, realizando la primera comunicación exitosa a través de la World Wide Web.
 
 ## El temazo de hoy
 #### [Wham! - Last Christmas](https://www.youtube.com/watch?v=E8gmARGvPlI)
-Publicada originalmente en 1984 pero relanzada en múltiples ocasiones incluyendo Navidades posteriores, 'Last Christmas' se convirtió en el himno navideño por excelencia. Con su melancólica historia de amor y desamor durante las fiestas, combina una pegadiza melodía pop con letras que reflejan la nostalgia típica de estas fechas.
+Publicada originalmente el 25 de diciembre de 1984, 'Last Christmas' se ha convertido en el villancico moderno por excelencia. La canción combina una melodía pop pegadiza con una letra sobre el desamor, creando una curiosa paradoja festiva que perdura en las listas musicales cada invierno.
 
