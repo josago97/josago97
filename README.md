@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de diciembre de 1974, se envió el primer error de software reconocido oficialmente. Un informe detallaba una falla en el sistema del MIT que causaba que las luces de la computadora se apagaran, acuñando el término "bug" informático (aunque el concepto ya era anterior).
+El 27 de diciembre de 1974, se publicó el artículo que introdujo el término "copia escrita" (*copywrit*) para proteger el código fuente de software, un antecedente clave en el debate sobre los derechos de autor aplicados a la programación.
 
 ## El temazo de hoy
-#### [George Michael - Careless Whisper](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
-Publicada como lado B el 26 de diciembre de 1984, 'Careless Whisper' se convirtió en un éxito monumental a pesar de su fecha de lanzamiento navideña. La inconfundible melodía del saxofón y las letras sobre arrepentimiento y traición la consolidaron como un clásico atemporal del pop.
+#### [Westlife - Seasons in the Sun](https://www.youtube.com/watch?v=Xdv83MFJd7U)
+Esta versión de la balada clásica original de Jacques Brel se convirtió en un éxito navideño en 1999. La emotiva interpretación de Westlife, con su característico estilo vocal armónico, convirtió la canción en un éxito internacional que resonó especialmente durante la temporada festiva.
 
