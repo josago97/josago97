@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de diciembre de 1974, se publicó el artículo que introdujo el término "copia escrita" (*copywrit*) para proteger el código fuente de software, un antecedente clave en el debate sobre los derechos de autor aplicados a la programación.
+El 28 de diciembre de 2005, Linden Lab liberó el código cliente de Second Life como software de código abierto, en un paso pionero para la metaverso.
 
 ## El temazo de hoy
-#### [Westlife - Seasons in the Sun](https://www.youtube.com/watch?v=Xdv83MFJd7U)
-Esta versión de la balada clásica original de Jacques Brel se convirtió en un éxito navideño en 1999. La emotiva interpretación de Westlife, con su característico estilo vocal armónico, convirtió la canción en un éxito internacional que resonó especialmente durante la temporada festiva.
+#### [Nirvana - Smells Like Teen Spirit](https://www.youtube.com/watch?v=hTWKbfoikeg)
+Aunque no fue lanzada el 28 de diciembre (su fecha de lanzamiento fue el 10 de septiembre de 1991), esta canción es un himno generacional que definió el sonido grunge de los 90s. Con sus dinámicas cambiantes entre versos tranquilos y estribillos explosivos, se convirtió en un símbolo de la rebeldía adolescente y catapultó al éxito masivo a la banda.
 
