@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de diciembre de 1999, Linus Torvalds lanzó el núcleo de Linux versión 2.2.0, una actualización mayor que mejoró significativamente el soporte para sistemas multiprocesador y el rendimiento en servidores.
+El 30 de diciembre de 1969, se envió el primer mensaje de una red a otra en ARPANET, desde la UCLA al SRI, sentando un precedente crucial para el desarrollo de Internet. Este hito demostró la viabilidad de la conmutación de paquetes entre redes independientes.
 
 ## El temazo de hoy
-#### [Garth Brooks - The Dance](https://www.youtube.com/watch?v=lzuS1r0zFf0)
-Publicada originalmente en 1990 pero relanzada como single el 29 de diciembre de 1998, esta balada country se convirtió en un himno sobre la aceptación de los riesgos y pérdidas de la vida. Con su emotiva letra y la poderosa voz de Brooks, la canción reflexiona sobre cómo incluso el dolor forma parte de la belleza de vivir experiencias significativas.
+#### [The Smashing Pumpkins - The Everlasting Gaze](https://www.youtube.com/watch?v=LWJYaep-0sg)
+Este tema, lanzado como el primer sencillo de su álbum 'MACHINA/The Machines of God', es una muestra del rock alternativo y shoegaze característico de la banda. Con su guitarra distorsionada y la voz intensa de Billy Corgan, la canción explora temas de identidad y percepción, manteniendo la complejidad lírica y sonora que definió al grupo en los 90.
 
