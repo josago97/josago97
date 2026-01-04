@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de enero de 1984, Steve Jobs lanzó la Apple Macintosh 128K, la primera computadora personal exitosa con una interfaz gráfica de usuario (GUI) y un mouse, cambiando para siempre la forma en que los humanos interactúan con el software.
+El 5 de enero de 1925, nace Jean Bartik, una de las seis programadoras originales de la computadora ENIAC, quien fue clave en el desarrollo de la primera generación de software de propósito general.
 
 ## El temazo de hoy
-#### [Madonna - Live to Tell](https://www.youtube.com/watch?v=IzAO9A9GjgI)
-Este profundo tema de Madonna fue lanzado como el primer single de su álbum 'True Blue' el 4 de enero de 1986. La canción muestra un lado más introspectivo y maduro de la artista, con letras sobre secretos y vulnerabilidad, marcando un punto de inflexión en su carrera artística.
+#### [Kylie Minogue - Spinning Around](https://www.youtube.com/watch?v=t1DWBKk5xHQ)
+Lanzado el 5 de enero de 2000, este tema marcó el regreso triunfal de Kylie Minogue a la música pop. Con su icónica coreografía con pantalones dorados, se convirtió en un himno dance y en uno de los mayores éxitos de su carrera, revitalizando completamente su imagen artística.
 
