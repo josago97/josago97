@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de enero de 1992, IBM anuncia la primera pérdida anual en su historia (casi $5 mil millones), un punto de inflexión que forzó a la compañía a reestructurarse por completo y centrarse en el software y servicios, ayudando a reinventar la industria.
+El 7 de enero de 1984, Microsoft anunció el desarrollo de Windows 1.0, su primer sistema operativo con una interfaz gráfica de usuario.
 
 ## El temazo de hoy
-#### [Lionel Richie - All Night Long (All Night)](https://www.youtube.com/watch?v=nqAvFx3NxUM)
-Este éxito icónico de Lionel Richie, lanzado el 6 de enero de 1984, se convirtió en un himno de celebración con su mezcla de pop, R&B y ritmos caribeños. La canción fue un éxito mundial que destacó por su energía contagiosa y su coro memorable, consolidando a Richie como solista tras su salida de The Commodores.
+#### [David Bowie - Space Oddity](https://www.youtube.com/watch?v=iYYRH4apXDo)
+Aunque la canción se lanzó originalmente en 1969, su relanzamiento más exitoso fue el 7 de enero de 1973, llegando al top 5 en UK. Este relanzamiento capitalizó el éxito de Bowie tras el surgimiento de Ziggy Stardust y coincidió con la misión espacial Apollo 17, renovando el impacto de esta icónica balada sobre el astronauta Major Tom.
 
