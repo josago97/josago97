@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de enero de 2001, Apple presentó públicamente iTunes, un software que revolucionó la forma de gestionar y comprar música digital, sentando las bases para el éxito futuro del iPod y la iTunes Store.
+El 10 de enero de 1984, la revista _Byte_ anunció públicamente el ordenador Apple Macintosh, cuya interfaz gráfica y ratón revolucionaron la interacción humano-computadora.
 
 ## El temazo de hoy
-#### [Christina Aguilera - Genie in a Bottle](https://www.youtube.com/watch?v=kIDWgqDBNXA)
-Lanzado como su sencillo debut el 9 de enero de 1999, este tema se convirtió en un éxito mundial que definió la era del pop adolescente. La canción combina un ritmo bubblegum pop con una letra que juega con la metáfora de un genio que solo se libera cuando se frota la lámpara, mostrando el empoderamiento femenino de manera sutil.
+#### [David Bowie - Space Oddity](https://www.youtube.com/watch?v=iYYRH4apXDo)
+Aunque 'Space Oddity' se lanzó originalmente en 1969, su relanzamiento más exitoso en el Reino Unido ocurrió el 10 de enero de 1975, donde alcanzó el número 1. La canción, que cuenta la historia del astronauta Major Tom, se convirtió en un himno atemporal gracias a su narrativa emocionante y su atmósfera psicodélica, consolidando el genio artístico de Bowie.
 
