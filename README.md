@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de enero de 1984, la revista _Byte_ anunció públicamente el ordenador Apple Macintosh, cuya interfaz gráfica y ratón revolucionaron la interacción humano-computadora.
+El 11 de enero de 1922, en Toronto, se administró la primera insulina a un ser humano, un evento histórico crucial cuyo tratamiento y dosificación se gestionan hoy con software.
 
 ## El temazo de hoy
-#### [David Bowie - Space Oddity](https://www.youtube.com/watch?v=iYYRH4apXDo)
-Aunque 'Space Oddity' se lanzó originalmente en 1969, su relanzamiento más exitoso en el Reino Unido ocurrió el 10 de enero de 1975, donde alcanzó el número 1. La canción, que cuenta la historia del astronauta Major Tom, se convirtió en un himno atemporal gracias a su narrativa emocionante y su atmósfera psicodélica, consolidando el genio artístico de Bowie.
+#### [Mary J. Blige - Family Affair](https://www.youtube.com/watch?v=znlFu_lemsU)
+Este éxito icónico de la 'Reina del Hip Hop Soul' se lanzó el 11 de enero de 2001 como el primer single de su álbum 'No More Drama'. La canción, producida por Dr. Dre, es un himno festivo y energético que celebra la liberación y la buena vibra, alejándose del tono más dramático de sus trabajos anteriores.
 
