@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 13 de enero de 1982, el programador griego Markos ‘Mark’ Podlippie pirateó y lanzó el juego de texto para PC *Snackman*, una de las primeras copias distribuidas de software con derechos de autor en Grecia.
+El 14 de enero de 1969, el vuelo inaugural del módulo de comando del Apolo 9 utilizó por primera vez el software de guía que luego sería crucial para el alunizaje del Apolo 11, demostrando la confiabilidad del software en una misión espacial crítica.
 
 ## El temazo de hoy
-#### [Alicia Keys - Fallin'](https://www.youtube.com/watch?v=Urdlvw0SSEc)
-Este éxito monumental de 2001 fusiona soul, R&B y piano con una potencia vocal emotiva. La canción se convirtió en un himno sobre el amor turbulento y lanzó a Alicia Keys a la fama internacional, ganando múltiples premios incluyendo Grammy a Canción del Año.
+#### [LL Cool J - Mama Said Knock You Out](https://www.youtube.com/watch?v=vimZj8HW0Kg)
+Aunque técnicamente el álbum homónimo se lanzó el 14 de enero de 1991, este tema se convirtió en un himno definitivo del hip-hop. La canción es una feroz respuesta a quienes dudaban de su talento, con una energía explosiva y un beat inconfundible que la consolidó como un clásico atemporal.
 
