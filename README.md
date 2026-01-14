@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de enero de 1969, el vuelo inaugural del módulo de comando del Apolo 9 utilizó por primera vez el software de guía que luego sería crucial para el alunizaje del Apolo 11, demostrando la confiabilidad del software en una misión espacial crítica.
+El 15 de enero de 2001, se lanzó la versión 1.0 de Wikipedia, sentando las bases para el desarrollo colaborativo de software y contenido de código abierto a escala global.
 
 ## El temazo de hoy
-#### [LL Cool J - Mama Said Knock You Out](https://www.youtube.com/watch?v=vimZj8HW0Kg)
-Aunque técnicamente el álbum homónimo se lanzó el 14 de enero de 1991, este tema se convirtió en un himno definitivo del hip-hop. La canción es una feroz respuesta a quienes dudaban de su talento, con una energía explosiva y un beat inconfundible que la consolidó como un clásico atemporal.
+#### [Backstreet Boys - Quit Playing Games (With My Heart)](https://www.youtube.com/watch?v=Ug88HO2mg44)
+Este éxito de 1997 se convirtió en uno de los mayores hits del grupo, mostrando su característico sonido pop con armonías vocales. La canción aborda las frustraciones de una relación donde los juegos emocionales causan dolor, resonando con audiencias globales y consolidando a la banda como ícono del pop adolescente de los 90s.
 
