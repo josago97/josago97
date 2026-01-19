@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de enero de 1983, Apple Inc. presentó la computadora personal Lisa, la primera en utilizar una interfaz gráfica de usuario (GUI) comercial, sentando las bases para la interacción con computadoras modernas.
+El 20 de enero de 1983, Apple Inc. lanzó "Lisa", uno de los primeros computadores personales en ofrecer una interfaz gráfica de usuario (GUI) y un mouse, conceptos que revolucionaron la interacción humano-computadora.
 
 ## El temazo de hoy
-#### [Mecano - Hijo de la luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
-La canción 'Hijo de la luna', uno de los mayores éxitos del grupo español Mecano, fue lanzada como single el 19 de enero de 1987. Esta balada cuenta la trágica leyenda de una gitana que le pide a la luna que le conceda un esposo a cambio de darle su primer hijo, resultando en una historia dramática sobre el amor, el sacrificio y el destino, con una melodía inolvidable.
+#### [Roxette - The Look](https://www.youtube.com/watch?v=LlVI7ZNiFlI)
+Este éxito global es un ejemplo perfecto del pop rock infectioso de finales de los 80. Con su riff de guitarra pegadizo y la voz poderosa de Marie Fredriksson, la canción llegó a lo más alto de las listas en más de 25 países, consolidando a la banda sueca como un fenómeno internacional.
 
