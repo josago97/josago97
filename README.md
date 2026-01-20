@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de enero de 1983, Apple Inc. lanzó "Lisa", uno de los primeros computadores personales en ofrecer una interfaz gráfica de usuario (GUI) y un mouse, conceptos que revolucionaron la interacción humano-computadora.
+El 21 de enero de 1978, se ejecutó por primera vez el histórico juego de aventuras de texto "Colossal Cave Adventure" en una red de computadoras, demostrando el potencial de los videojuegos como una aplicación de red distribuida.
 
 ## El temazo de hoy
-#### [Roxette - The Look](https://www.youtube.com/watch?v=LlVI7ZNiFlI)
-Este éxito global es un ejemplo perfecto del pop rock infectioso de finales de los 80. Con su riff de guitarra pegadizo y la voz poderosa de Marie Fredriksson, la canción llegó a lo más alto de las listas en más de 25 países, consolidando a la banda sueca como un fenómeno internacional.
+#### [Phil Collins - Another Day in Paradise](https://www.youtube.com/watch?v=Qt2mbGP6vFI)
+Este emotivo single de Phil Collins, lanzado originalmente en 1989 pero promocionado como single el 21 de enero de 1992, aborda la indiferencia social hacia las personas sin hogar. Con su característico sonido pop-rock y letras con conciencia social, se convirtió en uno de sus mayores éxitos y ganó un Grammy a Grabación del Año.
 
