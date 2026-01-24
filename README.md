@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de enero de 1984, Apple Inc. presentó el Macintosh 128K durante el Super Bowl XVIII, un hito que popularizó la interfaz gráfica de usuario (GUI) y el mouse, cambiando para siempre la interacción humano-computadora.
+El 25 de enero de 1998, Netscape Communications Corporation anunció el lanzamiento del código fuente de su navegador, dando origen al proyecto de Mozilla, que más tarde se convertiría en Firefox.
 
 ## El temazo de hoy
-#### [Roxette - The Look](https://www.youtube.com/watch?v=LlVI7ZNiFlI)
-Este éxito icónico de 1989 lanzado el 24 de enero se convirtió en un fenómeno global con su irresistible mezcla de pop rock y new wave. La potente voz de Marie Fredriksson y el característico riff de guitarra hicieron de este tema un himno atemporal que dominó las listas musicales de todo el mundo.
+#### [Alicia Keys - Fallin'](https://www.youtube.com/watch?v=Urdlvw0SSEc)
+Este éxito monumental de 2001 combina el soul clásico con el R&B contemporáneo, destacando por su poderosa voz y el icónico piano. Ganó tres premios Grammy incluyendo Canción del Año y se convirtió en un himno de amor y vulnerabilidad que definió una era.
 
