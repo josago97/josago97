@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de enero de 1934, Konrad Zuse presentó una solicitud de patente para su "Z1", considerada la primera computadora moderna de programa almacenado, aunque mecánica, estableciendo un principio fundamental para el desarrollo del software.
+El 27 de enero de 2010, Apple presentó el primer iPad, un dispositivo que popularizó masivamente el desarrollo de aplicaciones móviles y redefinió el mercado del software para tablets.
 
 ## El temazo de hoy
-#### [Alicia Keys - Fallin'](https://www.youtube.com/watch?v=Urdlvw0SSEc)
-Este impactante debut de Alicia Keys, lanzado como single el 26 de enero de 2001, combina soul clásico con un piano emotivo y letras sobre las contradicciones del amor. Ganó tres premios Grammy incluyendo Canción del Año y se convirtió en un himno instantáneo que catapultó su carrera.
+#### [Michael Jackson - Man in the Mirror](https://www.youtube.com/watch?v=PivWY9wn5ps)
+Este icónico single de Michael Jackson, lanzado como parte del álbum 'Bad', se convirtió en un himno de cambio personal y responsabilidad social. Con su potente mensaje sobre la transformación interior y su espectacular producción gospel, la canción sigue inspirando a generaciones con su llamado a hacer del mundo un lugar mejor.
 
