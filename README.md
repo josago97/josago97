@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 28 de enero de 1986, el desastre del Transbordador Espacial **Challenger** reveló la crítica importancia del software de control de vuelo, cuyos sistemas funcionaron correctamente hasta el final, intentando recuperar la nave incluso después de la explosión.
+El 29 de enero de 2001 la empresa PGP Corp. anunció el lanzamiento comercial de PGP (Pretty Good Privacy), revolucionando la criptografía de clave pública al hacerla accesible para el público general.
 
 ## El temazo de hoy
-#### [Michael Jackson - Man in the Mirror](https://www.youtube.com/watch?v=PivWY9wn5ps)
-Este icónico single de Michael Jackson, lanzado como parte de su álbum 'Bad', se convirtió en un himno de cambio personal y responsabilidad social. Con su poderoso mensaje de reflexión y su característico gospel, la canción sigue siendo una de las más inspiradoras de su carrera.
+#### [Pat Benatar - We Belong](https://www.youtube.com/watch?v=qxZInIyOBXk)
+Lanzada originalmente en 1984, 'We Belong' se convirtió en uno de los mayores éxitos de Pat Benatar, alcanzando el top 5 en Billboard. La canción es un himno power pop sobre la conexión inquebrantable en una relación, destacando la poderosa voz de Benatar y un coro inolvidable que la mantiene como un clásico perdurable.
 
