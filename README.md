@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 3 de febrero de 1994, Linus Torvalds lanzó la versión 1.0 del núcleo de Linux, marcando un hito crucial para el software de código abierto.
+El 4 de febrero de 2004, Mark Zuckerberg lanzó "Thefacebook" desde su dormitorio en la Universidad de Harvard, un evento que revolucionó las redes sociales y el desarrollo de software a escala global.
 
 ## El temazo de hoy
-#### [The Rembrandts - I'll Be There for You](https://www.youtube.com/watch?v=S8PNXgLhkT0)
-Este icónico tema es mundialmente conocido como la sintonía principal de la serie Friends. Publicado como single en 1995, se convirtió en un himno generacional que captura perfectamente el espíritu de amistad y complicidad que caracterizaba a la serie.
+#### [Alice Cooper - Poison](https://www.youtube.com/watch?v=Qq4j1LtCdww)
+Publicado como single el 4 de febrero de 1989, 'Poison' es uno de los mayores éxitos de Alice Cooper que combina hard rock con un gancho pop irresistible. La canción trata sobre una relación tóxica y adictiva, representando el lado oscuro del amor con el característico estilo teatral del artista.
 
