@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de febrero de 2004, Mark Zuckerberg lanzó "Thefacebook" desde su dormitorio en la Universidad de Harvard, un evento que revolucionó las redes sociales y el desarrollo de software a escala global.
+El 5 de febrero de 1979, Jean Ichbiah y su equipo presentaron la especificación final del lenguaje de programación Ada al Departamento de Defensa de los Estados Unidos, nombrado en honor a Ada Lovelace.
 
 ## El temazo de hoy
-#### [Alice Cooper - Poison](https://www.youtube.com/watch?v=Qq4j1LtCdww)
-Publicado como single el 4 de febrero de 1989, 'Poison' es uno de los mayores éxitos de Alice Cooper que combina hard rock con un gancho pop irresistible. La canción trata sobre una relación tóxica y adictiva, representando el lado oscuro del amor con el característico estilo teatral del artista.
+#### [Jennifer Lopez - Ain't It Funny](https://www.youtube.com/watch?v=GSLSwwkLRW0)
+Este éxito del 2001, con su fusión de pop y ritmos latinos, marcó el éxito comercial de J.Lo en la música. La canción combina un seductor gancho vocal con una producción que mezcla elementos de R&B y sonidos urbanos, consolidando su transición de actriz a estrella musical.
 
