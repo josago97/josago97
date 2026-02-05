@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 5 de febrero de 1979, Jean Ichbiah y su equipo presentaron la especificación final del lenguaje de programación Ada al Departamento de Defensa de los Estados Unidos, nombrado en honor a Ada Lovelace.
+El 6 de febrero de 1959, el científico de la computación británico Christopher Strachey presentó la "Código de Programación de Strachey", que contenía la primera versión funcional del conocido juego de ajedrez para computadora.
 
 ## El temazo de hoy
-#### [Jennifer Lopez - Ain't It Funny](https://www.youtube.com/watch?v=GSLSwwkLRW0)
-Este éxito del 2001, con su fusión de pop y ritmos latinos, marcó el éxito comercial de J.Lo en la música. La canción combina un seductor gancho vocal con una producción que mezcla elementos de R&B y sonidos urbanos, consolidando su transición de actriz a estrella musical.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Lanzada en 2000, esta canción se convirtió en un himno generacional sobre la autenticidad y vivir la vida en tus propios términos. Con su potente riff de guitarra y letras inspiradoras, consolidó el regreso de Bon Jovi con un sonido más moderno pero manteniendo su esencia rockera.
 
