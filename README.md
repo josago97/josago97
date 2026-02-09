@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de febrero de 1999, se reportó el primer virus macro para la plataforma Linux, conocido como "Linux.Staog", marcando un hito en la evolución del malware hacia sistemas operativos basados en Unix.
+El 10 de febrero de 1996, la supercomputadora Deep Blue de IBM se convirtió en la primera máquina en derrotar a un campeón mundial de ajedrez, Garry Kasparov, en una partida bajo condiciones de torneo estándar.
 
 ## El temazo de hoy
-#### [The Beatles - All My Loving](https://www.youtube.com/watch?v=LdajVoRgx3w)
-Aunque The Beatles son más conocidos por su éxito en los 60, 'All My Loving' fue lanzado como single promocional en EE.UU. el 9 de febrero de 1964, coincidiendo con su primera aparición en el Ed Sullivan Show. Esta canción, escrita por Paul McCartney, se convirtió en un éxito instantáneo y mostró la evolución del grupo hacia composiciones más sofisticadas, marcando el inicio de la 'Beatlemanía' en América.
+#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
+Uno de los mayores éxitos de Madonna, lanzado como single el 10 de febrero de 1985. Esta canción icónica de pop dance se convirtió en un himno generacional y consolidó a Madonna como una superestrella internacional, caracterizándose por su atrevida lírica y su irresistible ritmo.
 
