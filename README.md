@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de febrero de 1996, la supercomputadora Deep Blue de IBM se convirtió en la primera máquina en derrotar a un campeón mundial de ajedrez, Garry Kasparov, en una partida bajo condiciones de torneo estándar.
+El 11 de febrero de 1936 se patentó la primera computadora programable, la Z1, concebida por el ingeniero alemán Konrad Zuse, cuyo diseño incluía por primera vez un lenguaje de programación con cinta perforada.
 
 ## El temazo de hoy
-#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
-Uno de los mayores éxitos de Madonna, lanzado como single el 10 de febrero de 1985. Esta canción icónica de pop dance se convirtió en un himno generacional y consolidó a Madonna como una superestrella internacional, caracterizándose por su atrevida lírica y su irresistible ritmo.
+#### [Jennifer Lopez - Ain't It Funny](https://www.youtube.com/watch?v=GSLSwwkLRW0)
+Este éxito de Jennifer Lopez, lanzado originalmente en 2001 pero relanzado como remix con Ja Rule el 11 de febrero de 2002, fusiona pop con ritmos latinos y hip hop. La versión Murder Remix se convirtió en un himno internacional que consolidó a J.Lo como fuerza dominante en la música pop del nuevo milenio.
 
