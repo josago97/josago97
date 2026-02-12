@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 12 de febrero de 1993, cuatro estudiantes de la universidad de Buffalo lanzaron el "Mosaico de virus", considerado el primer virus de macro para Microsoft Word, que se propagaba infectando documentos en lugar de archivos ejecutables.
+El 13 de febrero de 1946, J. Presper Eckert y John Mauchly presentaron por primera vez el ENIAC (Electronic Numerical Integrator and Computer), la primera computadora digital electrónica de propósito general, aunque su presentación formal fue al día siguiente.
 
 ## El temazo de hoy
-#### [Christina Aguilera, Lil' Kim, Mýa, Pink - Lady Marmalade](https://www.youtube.com/watch?v=RQa7SvVCdZk)
-Este éxito masivo es un cover de la canción original de Labelle de 1974, grabado para la banda sonora de la película 'Moulin Rouge!'. La versión, conocida por su contagioso estribillo 'Voulez-vous coucher avec moi ce soir?', se convirtió en un himno de empoderamiento y ganó el Grammy a la Mejor Colaboración Vocal Pop.
+#### [TLC - Creep](https://www.youtube.com/watch?v=LlZydtG3xqI)
+Lanzada el 13 de febrero de 1995, 'Creep' se convirtió en el primer éxito de TLC en llegar al número uno en el Billboard Hot 100. La canción, con su distinctive drum machine y bajo pesado, explora temas de infidelidad desde la perspectiva de una mujer que se rebela contra su pareja, reflejando el sonido R&B innovador y las actitudes desafiantes del grupo.
 
