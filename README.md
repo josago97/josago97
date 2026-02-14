@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de febrero de 1946, se presentó públicamente la ENIAC, la primera computadora digital electrónica de propósito general, programada por las pioneras Betty Snyder Holberton y Jean Jennings Bartik.
+El 15 de febrero de 1946, se presentó al mundo el ENIAC, la primera computadora digital electrónica de propósito general, cuyas programadoras, conocidas como las "mujeres del ENIAC, resolvían problemas complejos reconectando cables y manipulando interruptores.
 
 ## El temazo de hoy
-#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
-Publicada como single el 14 de febrero de 1985, esta canción se convirtió en uno de los mayores éxitos de Madonna y un himno de los 80. Con su provocativo mensaje de renovación emocional y sexual, la canción ayudó a definir la era del pop moderno y consolidó a Madonna como un icono cultural.
+#### [Britney Spears - Oops!... I Did It Again](https://www.youtube.com/watch?v=CduA0TULnow)
+Este icónico éxito de Britney Spears, lanzado como sencillo el 15 de febrero de 2000, se convirtió en un himno del pop adolescente y consolidó su estrellato mundial. La canción, con su inconfundible coro y su vídeo espacial, es una representación perfecta del pop bubblegum de principios de los 2000.
 
