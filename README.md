@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de febrero de 1946, se presentó al mundo el ENIAC, la primera computadora digital electrónica de propósito general, cuyas programadoras, conocidas como las "mujeres del ENIAC, resolvían problemas complejos reconectando cables y manipulando interruptores.
+La primera versión de Python 3.8.0 fue lanzada el 16 de febrero de 2019, introduciendo características como las expresiones de asignación (operador walrus `:=`) y parámetros solo posicionales.
 
 ## El temazo de hoy
-#### [Britney Spears - Oops!... I Did It Again](https://www.youtube.com/watch?v=CduA0TULnow)
-Este icónico éxito de Britney Spears, lanzado como sencillo el 15 de febrero de 2000, se convirtió en un himno del pop adolescente y consolidó su estrellato mundial. La canción, con su inconfundible coro y su vídeo espacial, es una representación perfecta del pop bubblegum de principios de los 2000.
+#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
+Este icónico éxito de 1984 se convirtió en himno de una generación y catapultó a Madonna al estrellato mundial. Con la canción revolucionó la música pop y se mantiene como un clásico atemporal de los 80s.
 
