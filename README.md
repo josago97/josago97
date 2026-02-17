@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 17 de febrero de 1946, se presentó públicamente ENIAC, la primera computadora digital electrónica de propósito general, cuyas programadoras, en su mayoría mujeres, configuraban manualmente sus programas mediante cables e interruptores.
+El 18 de febrero de 1964, el Departamento de Defensa de EE.UU. estableció el 'Informe 310' que estandarizó el código ASCII, el sistema de codificación de caracteres que se convirtió en el estándar fundamental para la informática moderna.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Este icónico single de Madonna se lanzó el 17 de febrero de 1989 como tema principal de su cuarto álbum. La canción combinaba gospel pop con letras espirituales y polémicas, acompañada de un controvertido videoclave que se convirtió en un hito cultural de la época.
+#### [Gwen Stefani - What You Waiting For?](https://www.youtube.com/watch?v=f5qICl3Fr3w)
+Este éxito del 2004 marcó el debut como solista de la cantante de No Doubt. La canción combina new wave y dance pop, con letras que reflejan la ansiedad creativa y presión que sentía Stefani al iniciar su carrera en solitario.
 
