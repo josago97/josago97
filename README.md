@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 18 de febrero de 1964, el Departamento de Defensa de EE.UU. estableció el 'Informe 310' que estandarizó el código ASCII, el sistema de codificación de caracteres que se convirtió en el estándar fundamental para la informática moderna.
+El 19 de febrero de 1985, la oficina de patentes de EE. UU. otorgó a Microsoft la patente #4,499,543 por un método simple para guardar archivos en discos, un concepto tan básico que se convirtió en un ejemplo clásico de controversia sobre la patentabilidad del software.
 
 ## El temazo de hoy
-#### [Gwen Stefani - What You Waiting For?](https://www.youtube.com/watch?v=f5qICl3Fr3w)
-Este éxito del 2004 marcó el debut como solista de la cantante de No Doubt. La canción combina new wave y dance pop, con letras que reflejan la ansiedad creativa y presión que sentía Stefani al iniciar su carrera en solitario.
+#### [Cher - Believe](https://www.youtube.com/watch?v=nZXRV4MezEw)
+Este icónico tema de 1998 fue pionero en el uso del efecto Auto-Tune, creando el característico sonido 'Cher effect'. Se convirtió en un himno dance global y es uno de los singles más vendidos de todos los tiempos por una artista femenina.
 
