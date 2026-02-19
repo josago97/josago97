@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de febrero de 1985, la oficina de patentes de EE. UU. otorgó a Microsoft la patente #4,499,543 por un método simple para guardar archivos en discos, un concepto tan básico que se convirtió en un ejemplo clásico de controversia sobre la patentabilidad del software.
+El 20 de febrero de 1952, Emmett Leith y Juris Upatnieks crearon la primera imagen holográfica, un proceso que dependió por completo de un programa de computadora (un algoritmo) para calcular los patrones de interferencia necesarios.
 
 ## El temazo de hoy
-#### [Cher - Believe](https://www.youtube.com/watch?v=nZXRV4MezEw)
-Este icónico tema de 1998 fue pionero en el uso del efecto Auto-Tune, creando el característico sonido 'Cher effect'. Se convirtió en un himno dance global y es uno de los singles más vendidos de todos los tiempos por una artista femenina.
+#### [Nirvana - Heart-Shaped Box](https://www.youtube.com/watch?v=n6P0SitRwy8)
+Lanzada como single el 20 de febrero de 1994, esta icónica canción de Nirvana es considerada una de las más representativas del grunge. Con su potente guitarra y letras cargadas de simbolismo, refleja la intensidad emocional característica de Kurt Cobain.
 
