@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de febrero de 1952, Emmett Leith y Juris Upatnieks crearon la primera imagen holográfica, un proceso que dependió por completo de un programa de computadora (un algoritmo) para calcular los patrones de interferencia necesarios.
+El 21 de febrero de 1986, se publicó la primera versión del lenguaje de programación Objective-C, creado por Brad Cox y Tom Love, que décadas después se convertiría en la base fundamental para el desarrollo de aplicaciones en macOS e iOS de Apple.
 
 ## El temazo de hoy
 #### [Nirvana - Heart-Shaped Box](https://www.youtube.com/watch?v=n6P0SitRwy8)
-Lanzada como single el 20 de febrero de 1994, esta icónica canción de Nirvana es considerada una de las más representativas del grunge. Con su potente guitarra y letras cargadas de simbolismo, refleja la intensidad emocional característica de Kurt Cobain.
+Aunque el álbum 'In Utero' se lanzó en septiembre de 1993, el primer sencillo 'Heart-Shaped Box' se publicó de manera anticipada el 21 de febrero de 1993 en Australia y algunos mercados europeos. Esta poderosa canción, con sus riff abrasadores y letras cargadas de simbolismo, se convirtió en un himno del grunge y una de las composiciones más icónicas de la banda.
 
