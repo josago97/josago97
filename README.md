@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de febrero de 1986, Apple presentó HyperCard, una revolucionaria aplicación que combinaba bases de datos simples con una interfaz gráfica y sentó las bases conceptuales para la World Wide Web.
+El 23 de febrero de 2005, se lanzó inicialmente el sistema de control de versiones Git, creado por Linus Torvalds para gestionar el desarrollo del kernel de Linux, tras la controversia con BitKeeper.
 
 ## El temazo de hoy
-#### [Bon Jovi - Bad Medicine](https://www.youtube.com/watch?v=eOUtsybozjg)
-Este exitazo de 1988 compara el amor con una medicina adictiva, con la característica energía del rock de Bon Jovi. Se convirtió en uno de los mayores hits de la banda, llegando al número uno en el Billboard Hot 100 y demostrando su poder en los escenarios con impresionantes performances en vivo.
+#### [Green Day - Boulevard of Broken Dreams](https://www.youtube.com/watch?v=Soa3gO7tL-c)
+Este icónico single de Green Day, lanzado el 23 de febrero de 2005, se convirtió en un himno generacional sobre la soledad y el sentimiento de alienación. Con su melancólica melodía y letras introspectivas, la canción define el sonido del rock alternativo de los 2000s y ganó un Grammy por Grabación del Año.
 
