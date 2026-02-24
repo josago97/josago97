@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de febrero de 2008, se lanzó oficialmente el primer prototipo de la **lengua de programación Go** (o Golang) en Google, desarrollada por Robert Griesemer, Rob Pike y Ken Thompson.
+El 25 de febrero de 1991, Linus Torvalds anunció en un foro de Usenet que estaba trabajando en un sistema operativo libre, lo que marcaría el inicio del desarrollo del kernel de Linux.
 
 ## El temazo de hoy
-#### [Wham! - Everything She Wants](https://www.youtube.com/watch?v=Yf_Lwe6p-Cg)
-Este éxito de 1985 combina un ritmo contagioso de synth-pop con una letra que explora las tensiones en una relación materialista. La canción se convirtió en uno de los mayores éxitos del dúo y refleja perfectamente el sonido característico de la era MTV.
+#### [George Harrison - Got My Mind Set on You](https://www.youtube.com/watch?v=_71w4UA2Oxo)
+Este éxito de George Harrison, versionado originalmente de James Ray, se convirtió en su tercer número uno en Billboard. Publicado el 25 de febrero de 1988, el tema destaca por su catchy ritmo rockabilly y el icónico video musical donde objetos cobran vida mágicamente.
 
