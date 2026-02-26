@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de febrero de 1991, Tim Berners-Lee presentó oficialmente el software WorldWideWeb, el primer navegador web y editor de páginas, sentando las bases de la web moderna.
+El 27 de febrero de 1986, IBM anunció el Sistema de Aplicaciones de Office (SAA), un intento temprano y crucial por crear un marco unificado y coherente para el software en todas sus plataformas.
 
 ## El temazo de hoy
-#### [Aqua - Barbie Girl](https://www.youtube.com/watch?v=ZyhrYis509A)
-Irónico himno pop de 1997 que satiriza los estereotipos de género a través de la icónica muñeca Barbie. Su pegadizo estribillo y provocativa letra generaron controversia pero lo convirtieron en un éxito mundial duradero.
+#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
+Este icónico single de Michael Jackson, lanzado el 27 de febrero de 1992, se convirtió en un himno global contra el racismo. Destacó por su innovador videoclip con efectos especiales pioneros y su mensaje de unidad racial que resonó en todo el mundo.
 
