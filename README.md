@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de febrero de 1986, IBM anunció el Sistema de Aplicaciones de Office (SAA), un intento temprano y crucial por crear un marco unificado y coherente para el software en todas sus plataformas.
+El 28 de febrero de 1953, James Watson y Francis Crick descubrieron la estructura de doble hélice del ADN, un avance fundamental que décadas después se convertiría en la base de la programación bioinformática.
 
 ## El temazo de hoy
-#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
-Este icónico single de Michael Jackson, lanzado el 27 de febrero de 1992, se convirtió en un himno global contra el racismo. Destacó por su innovador videoclip con efectos especiales pioneros y su mensaje de unidad racial que resonó en todo el mundo.
+#### [Van Halen - Jump](https://www.youtube.com/watch?v=SwYN7mTi6HM)
+Este icónico tema de Van Halen, publicado el 28 de febrero de 1984, se convirtió en el mayor éxito de la banda gracias a su pegadizo sintetizador y la energía del rock característico del grupo. La canción encabezó las listas Billboard y se mantiene como un himno atemporal que fusiona el rock arena con los nuevos sonidos electrónicos de los 80s.
 
