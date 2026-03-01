@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 1 de marzo de 1976, Bill Gates escribió la "Carta Abierta a los Aficionados", acusando a la comunidad de usuarios de compartir software ilegalmente y sentando las bases del software comercial de pago.
+El 2 de marzo de 2004, Valve Corporation lanzó Steam, su plataforma de distribución digital, que revolucionó la forma de comprar y gestionar videojuegos en PC.
 
 ## El temazo de hoy
-#### [U2 - Beautiful Day](https://www.youtube.com/watch?v=co6WMzDOh1o)
-Publicada como sencillo principal del álbum 'All That You Can't Leave Behind', 'Beautiful Day' marcó el regreso triunfal de U2 a su sonido rock característico tras experimentar con electrónica. La canción, con su mensaje optimista sobre encontrar esperanza en medio de la adversidad, se convirtió en un himno global y ganó tres premios Grammy en 2001.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este himno de rock lanzado en el año 2000 se convirtió en uno de los mayores éxitos de la banda, resumiendo perfectamente su filosofía de vivir la vida al máximo y con determinación. Con una producción poderosa y un coro inolvidable, la canción sigue siendo un clásico en sus conciertos y una referencia de la música rock-pop de principios del milenio.
 
