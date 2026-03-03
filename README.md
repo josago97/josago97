@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 3 de marzo de 2005, la comunidad de desarrollo tuvo uno de sus primeros conflictos legales de alto perfil cuando se demandó por primera vez a un usuario por violar la licencia GPL, un caso que fortaleció la aplicación legal del software libre.
+El 4 de marzo de 1977 se fundó Apple Computer Company (hoy Apple Inc.) de manera formal, cuando Steve Jobs, Steve Wozniak y Ronald Wayne firmaron el contrato de asociación para crear y vender la computadora personal Apple II.
 
 ## El temazo de hoy
-#### [The Soundtrack of Our Lives - Sister Surround](https://www.youtube.com/watch?v=9DgyeIm2CQ4)
-Fue lanzada como sencillo el 3 de marzo de 2002. Esta canción es un excelente ejemplo del rock psicodélico y garage revival de la banda sueca, caracterizado por sus poderosos riffs de guitarra y una energía contagiosa que rinde homenaje al rock clásico.
+#### [Queen - We Are the Champions](https://www.youtube.com/watch?v=04854XqcfCY)
+Este himno icónico de 1977 se convirtió en uno de los mayores éxitos de Queen y fue publicado como single en varios países el 4 de marzo de 1978. La canción, escrita por Freddie Mercury, es un canto universal de triunfo y resiliencia que ha perdurado como banda sonora de celebraciones y victorias en todo el mundo.
 
