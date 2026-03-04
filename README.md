@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de marzo de 1977 se fundó Apple Computer Company (hoy Apple Inc.) de manera formal, cuando Steve Jobs, Steve Wozniak y Ronald Wayne firmaron el contrato de asociación para crear y vender la computadora personal Apple II.
+El 5 de marzo de 1979, Gary Kildall demostró públicamente CP/M-86, el primer sistema operativo para el nuevo microprocesador Intel 8086, que se convertiría en un estándar crucial para las primeras PCs antes del dominio de MS-DOS.
 
 ## El temazo de hoy
-#### [Queen - We Are the Champions](https://www.youtube.com/watch?v=04854XqcfCY)
-Este himno icónico de 1977 se convirtió en uno de los mayores éxitos de Queen y fue publicado como single en varios países el 4 de marzo de 1978. La canción, escrita por Freddie Mercury, es un canto universal de triunfo y resiliencia que ha perdurado como banda sonora de celebraciones y victorias en todo el mundo.
+#### [The Corrs - Breathless](https://www.youtube.com/watch?v=-e_IuYgvdf8)
+Este tema lanzado en 2000 combina el pop rock característico de la banda irlandesa con elementos de música celta. 'Breathless' se convirtió en uno de sus mayores éxitos internacionales, destacando por sus enérgicos violines y la voz de Andrea Corr.
 
