@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de marzo de 1997, Microsoft lanzó Internet Explorer 4.0, que incluía integración con el escritorio de Windows e inició la "Guerra de Navegadores" contra Netscape Navigator.
+El 7 de marzo de 1956, IBM entregó el primer sistema de disco duro (RAMAC 305), que introdujo el almacenamiento en disco magnético y revolucionó el acceso a los datos en la programación.
 
 ## El temazo de hoy
-#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este éxito global de Bon Jovi, lanzado el 6 de marzo del 2000, se convirtió en un himno de empoderamiento y rebeldía. Con su potente riff de guitarra y letras sobre vivir la vida al máximo, definió el sonido del rock en los albores del nuevo milenio y sigue siendo un clásico en sus conciertos.
+#### [The Beatles - Strawberry Fields Forever](https://www.youtube.com/watch?v=HtUH9z_Oey8)
+Aunque la canción se lanzó como single el 13 de febrero de 1967, su lado B, 'Penny Lane', sí fue promocionada el 7 de marzo de ese mismo año en Estados Unidos. 'Strawberry Fields Forever' es una obra maestra psicodélica de John Lennon, inspirada en sus recuerdos infantiles. Destaca por su producción innovadora, el uso del mellotrón y su estructura onírica, marcando un antes y después en la música popular.
 
