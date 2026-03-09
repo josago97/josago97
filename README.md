@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de marzo de 1959, Grace Hopper y su equipo realizaron la primera demostración pública de COBOL (Common Business-Oriented Language), un hito fundamental que popularizó los lenguajes de programación de alto nivel en el ámbito empresarial.
+El 10 de marzo de 1876, Alexander Graham Bell realizó la primera transmisión telefónica exitosa con la frase "Sr. Watson, venga aquí, quiero verlo", sentando las bases conceptuales para la comunicación digital que permite el software actual.
 
 ## El temazo de hoy
-#### [Ricky Martin - Livin' la Vida Loca](https://www.youtube.com/watch?v=p47fEXGabaY)
-Este éxito global de 1999 lanzado el 9 de marzo se convirtió en el himno que catapultó a Ricky Martin a la fama internacional. La canción fusiona pop latino con rock, marcando el inicio del 'boom latino' y es recordada por su energía contagiosa y su influencia en la música pop.
+#### [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)
+Lanzada como single principal de su seminal álbum 'Out of Time', esta canción catapultó a R.E.M. al estrellato mundial en 1991. Su inconfundible mandolina, la voz introspectiva de Michael Stipe y su videoclip de corte artístico la consolidaron como un himno de la ansiedad existencial y un ícono absoluto del rock alternativo de los 90.
 
