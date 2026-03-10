@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de marzo de 1876, Alexander Graham Bell realizó la primera transmisión telefónica exitosa con la frase "Sr. Watson, venga aquí, quiero verlo", sentando las bases conceptuales para la comunicación digital que permite el software actual.
+El 11 de marzo de 2011, el kernel de Linux alcanzó su versión 2.6.38, que introdujo mejoras significativas en el planificador de procesos y el manejo de la memoria.
 
 ## El temazo de hoy
-#### [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)
-Lanzada como single principal de su seminal álbum 'Out of Time', esta canción catapultó a R.E.M. al estrellato mundial en 1991. Su inconfundible mandolina, la voz introspectiva de Michael Stipe y su videoclip de corte artístico la consolidaron como un himno de la ansiedad existencial y un ícono absoluto del rock alternativo de los 90.
+#### [George Michael - Fastlove](https://www.youtube.com/watch?v=SHAQlFq6TFg)
+Lanzado como segundo single de su álbum 'Older', 'Fastlove' es un tema sofisticado de funk y soul que critica la búsqueda de relaciones superficiales y efímeras. Con su característico estilo elegante y un groove irresistible, la canción se convirtió en uno de los mayores éxitos de George Michael en los 90, mostrando su madurez artística tras su etapa con Wham!.
 
