@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 12 de marzo de 1989, Tim Berners-Lee publicó el documento "Information Management: A Proposal", que sentó las bases conceptuales de la World Wide Web.
+El primer virus informático, Creeper, fue detectado en ARPANET en 1971. Fue creado como un experimento que mostró por primera vez cómo un programa podía autoreplicarse y propagarse entre computadoras.
 
 ## El temazo de hoy
-#### [The Bangles - Manic Monday](https://www.youtube.com/watch?v=SsmVgoXDq2w)
-Este éxito de 1986, escrito por Prince bajo el seudónimo Christopher, captura perfectamente la sensación de la monotonía laboral. Con la voz dulce de Susanna Hoffs, se convirtió en un himno pop que refleja el deseo de escapar de la rutina de los lunes.
+#### [Mecano - Hijo de la Luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
+Esta icónica canción de Mecano cuenta la trágica leyenda de una gitana que le pide a la Luna que le conceda un marido a cambio de su primer hijo. Con su melodía mesmerizante y letra poética, se convirtió en uno de los mayores éxitos del pop español y un clásico atemporal de los 80.
 
