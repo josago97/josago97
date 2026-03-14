@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de marzo de 1994, Linus Torvalds liberó la versión 1.0 del kernel de Linux, un hito crucial que consolidó el sistema operativo de código abierto.
+El 15 de marzo de 1985, se registró el primer nombre de dominio '.com' de la historia: symbolics.com, perteneciente a una empresa fabricante de ordenadores.
 
 ## El temazo de hoy
-#### [Green Day - Basket Case](https://www.youtube.com/watch?v=NUTGr5t3MoY)
-Lanzada como single el 14 de marzo de 1995, 'Basket Case' es un himno del punk rock que explora abiertamente la ansiedad y los ataques de pánico. Con su energía frenética y letras crudamente honestas, se convirtió en uno de los mayores éxitos de la banda y un símbolo generacional que ayudó a llevar el punk a las masas.
+#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
+Este éxito global de 1991 de Michael Jackson fusiona rock y pop con un mensaje contra el racismo. Su innovador video musical con efectos de morphing revolucionó la industria y se convirtió en un fenómeno cultural.
 
