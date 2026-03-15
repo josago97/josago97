@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de marzo de 1985, se registró el primer nombre de dominio '.com' de la historia: symbolics.com, perteneciente a una empresa fabricante de ordenadores.
+El 16 de marzo de 1995, Robert McMillan lanzó la primera versión de `PWLib`, una colección de librerías de C++ que serían la base del software de VoIP y videollamadas Ekiga.
 
 ## El temazo de hoy
-#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
-Este éxito global de 1991 de Michael Jackson fusiona rock y pop con un mensaje contra el racismo. Su innovador video musical con efectos de morphing revolucionó la industria y se convirtió en un fenómeno cultural.
+#### [Tears for Fears - Shout](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
+Lanzado como single el 16 de marzo de 1985, 'Shout' es un himno del synth-pop que combina potentes percusiones con letras sobre protesta social y liberación emocional. La canción se convirtió en un éxito mundial y sigue siendo un icono de la música de los años 80.
 
