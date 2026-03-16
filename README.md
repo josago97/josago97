@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 16 de marzo de 1995, Robert McMillan lanzó la primera versión de `PWLib`, una colección de librerías de C++ que serían la base del software de VoIP y videollamadas Ekiga.
+El primer bug informático fue documentado el 17 de marzo de 1947, cuando los operadores de la computadora Harvard Mark II encontraron una polilla real atascada en un relé, originando el término "debugging".
 
 ## El temazo de hoy
-#### [Tears for Fears - Shout](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
-Lanzado como single el 16 de marzo de 1985, 'Shout' es un himno del synth-pop que combina potentes percusiones con letras sobre protesta social y liberación emocional. La canción se convirtió en un éxito mundial y sigue siendo un icono de la música de los años 80.
+#### [The Bangles - Manic Monday](https://www.youtube.com/watch?v=SsmVgoXDq2w)
+Publicado el 17 de marzo de 1986, este icónico tema de los 80s captura perfectamente la sensación de melancolía y rutina de los lunes. Escrito originalmente por Prince bajo el seudónimo de Christopher, se convirtió en un éxito internacional que definió la carrera de The Bangles.
 
