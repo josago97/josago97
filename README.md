@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 18 de marzo de 1990, en el Museo Guggenheim de Nueva York, diez ladrones fueron arrestados en el mayor allanamiento de la historia, orquestado para robar software de Apple; el grupo "Nu Prometheus League" planeaba filtrar código fuente del sistema Macintosh.
+El 19 de marzo de 2004, Linus Torvalds lanzó la versión 2.6.4 del kernel de Linux, continuando con el desarrollo de uno de los núcleos de software libre más importantes del mundo.
 
 ## El temazo de hoy
-#### [Van Halen - Jump](https://www.youtube.com/watch?v=SwYN7mTi6HM)
-Este icónico tema de 1984 es quizás el mayor éxito de Van Halen, destacando por su característico sintetizador Oberheim OB-Xa y el explosivo solo de Eddie Van Halen. 'Jump' se convirtió en un himno de superación personal con su mensaje optimista y su energía contagiosa que definió la era del rock arena.
+#### [Gloria Estefan - Don't Wanna Lose You](https://www.youtube.com/watch?v=J1x1WGtePSE)
+Este éxito de 1989 combina pop con ritmos latinos, mostrando el característico estilo de Gloria Estefan. La canción llegó al número uno en Billboard Hot 100 y se convirtió en uno de sus mayores éxitos como solista.
 
