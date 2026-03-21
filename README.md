@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 21 de marzo de 1963 se inauguró el Centro de Cómputo Electrónico de la UNAM en México, uno de los primeros en América Latina, marcando un hito en la adopción de la computación para la investigación y la docencia en la región.
+El 22 de marzo de 1993, Intel lanzó el primer procesador Pentium, el P5, que introdujo una nueva arquitectura superescalar y se convirtió en un nombre icónico en la historia de la computación personal.
 
 ## El temazo de hoy
-#### [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)
-Lanzada como single el 21 de marzo de 1991, esta canción se convirtió en el mayor éxito de R.E.M. y un himno del rock alternativo. Con su distintivo riff de mandolina y letras sobre angustia existencial, alcanzó el top 10 en múltiples países y ganó dos premios Grammy.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este himno de rock de 2000 se convirtió en un éxito mundial y uno de los temas más emblemáticos de Bon Jovi. La canción, con su mensaje de vivir la vida al máximo y su potente coro, representa el sonido característico de la banda y sigue sonando en estadios y radios hasta hoy.
 
