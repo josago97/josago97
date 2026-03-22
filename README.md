@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de marzo de 1993, Intel lanzó el primer procesador Pentium, el P5, que introdujo una nueva arquitectura superescalar y se convirtió en un nombre icónico en la historia de la computación personal.
+El 23 de marzo de 1994, la empresa Netscape Communications Corporation fue fundada, lo que llevó al desarrollo del navegador Netscape Navigator, un software que popularizó la World Wide Web.
 
 ## El temazo de hoy
-#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este himno de rock de 2000 se convirtió en un éxito mundial y uno de los temas más emblemáticos de Bon Jovi. La canción, con su mensaje de vivir la vida al máximo y su potente coro, representa el sonido característico de la banda y sigue sonando en estadios y radios hasta hoy.
+#### [Kyrie Eleison - The Victory](https://www.youtube.com/watch?v=OojLJm9Flus)
+Este tema hyper eurodance de 1996 es un ejemplo perfecto de la era de los 90s, con su ritmo contagioso y coros pegadizos. Aunque no alcanzó fama mundial, se convirtió en un himno dentro de la escena europea de clubes gracias a su energía vibrante y espíritu optimista.
 
