@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 25 de marzo de 1995, Ward Cunningham puso en línea el WikiWikiWeb, el primer wiki de la historia, diseñado para compartir patrones de programación y sentar las bases de la colaboración colectiva en internet.
+El 26 de marzo de 1997, el programador alemán Timo Schulz lanzó la primera versión pública del antivirus Avast, un software que se convertiría en uno de los más utilizados del mundo.
 
 ## El temazo de hoy
-#### [Elton John - I'm Still Standing](https://www.youtube.com/watch?v=ZHwVBirqD2s)
-Este éxito de 1983 se convirtió en un himno de resiliencia y superación personal. Con su contagioso ritmo synth-pop y el videoclip colorido filmado en Cannes, la canción demostró la capacidad de Elton John para reinventarse y mantenerse relevante en la industria musical.
+#### [Madonna - Frozen](https://www.youtube.com/watch?v=XS088Opj9o0)
+Lanzado como el primer single de su álbum 'Ray of Light' en 1998, 'Frozen' marcó un cambio artístico significativo para Madonna hacia un sonido más electrónico y atmosférico. La canción, con su vídeo innovador y su ambiente misterioso, se convirtió en un éxito mundial y es considerada una de sus obras más icónicas y perdurables.
 
