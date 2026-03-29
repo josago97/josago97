@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El publicaron la primera versión de 'The Internet Movie Database (IMDb)', que comenzó como una base de datos colaborativa en Usenet y se convirtió en el recurso cinematográfico online más grande del mundo.
+El 30 de marzo de 1993, CERN publicó el código fuente de la World Wide Web en el dominio público, lo que permitió su adopción global y gratuita.
 
 ## El temazo de hoy
-#### [Madonna - Sorry](https://www.youtube.com/watch?v=rdccTOcX7o4)
-Lanzado como segundo single del álbum 'Confessions on a Dance Floor' en 2006, 'Sorry' es un himno dance-electrónico con. La canción combines ritmos contagiosos con letras empoderadas, convirtiéndose en un éxito instantáneo en clubs y listas de éxitos internacionales.
+#### [Céline Dion - That's the Way It Is](https://www.youtube.com/watch?v=T6wbugWrfLU)
+Lanzada como single el 30 de marzo de 2000, esta canción se convirtió en un himno pop inspiracional característico del poderoso vocal de Dion. Con un mensaje optimista sobre perseverar en el amor y la vida, destacó por su producción elegante y se mantuvo como un clásico de la era adult contemporary.
 
