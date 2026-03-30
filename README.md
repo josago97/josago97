@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 30 de marzo de 1993, CERN publicó el código fuente de la World Wide Web en el dominio público, lo que permitió su adopción global y gratuita.
+ 31 de marzo de 1976, Apple Computer Company fue fundada la historia.
 
 ## El temazo de hoy
-#### [Céline Dion - That's the Way It Is](https://www.youtube.com/watch?v=T6wbugWrfLU)
-Lanzada como single el 30 de marzo de 2000, esta canción se convirtió en un himno pop inspiracional característico del poderoso vocal de Dion. Con un mensaje optimista sobre perseverar en el amor y la vida, destacó por su producción elegante y se mantuvo como un clásico de la era adult contemporary.
+#### [AC/DC - Thunderstruck](https://www.youtube.com/watch?v=v2AC41dglnM)
+Lanzada el 31 de marzo de 1990, 'Thunderstruck' es uno de los himnos más icónicos del hard rock. Su memorable riff de guitarra y la energía electrizante la convirtieron en un clásico instantáneo que sigue sonando en estadios y arenas alrededor del mundo.
 
