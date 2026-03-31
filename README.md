@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
- 31 de marzo de 1976, Apple Computer Company fue fundada la historia.
+El 1 de abril de 1976, Steve Jobs, Steve Wozniak y Ronald Wayne fundaron Apple Computer Company, dando inicio a una
 
 ## El temazo de hoy
-#### [AC/DC - Thunderstruck](https://www.youtube.com/watch?v=v2AC41dglnM)
-Lanzada el 31 de marzo de 1990, 'Thunderstruck' es uno de los himnos más icónicos del hard rock. Su memorable riff de guitarra y la energía electrizante la convirtieron en un clásico instantáneo que sigue sonando en estadios y arenas alrededor del mundo.
+#### [The Prodigy - Firestarter](https://www.youtube.com/watch?v=wmin5WkOuPw)
+L en un himno del electronic dance y catapultó a la banda al éxito internacional. Con su energía agresiva, samples distorsionados y la actitud desafiante de Keith Flint ícono de la música electrónica de los 90.
 
