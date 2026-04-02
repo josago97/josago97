@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 2 de abril de 2005, se lanzó la versión 0.9 del framework Ruby on Rails, revolucionando el desarrollo web al popularizar las convenciones sobre la configuración.
+El 3 de abril de 1973, Martin Cooper de Motorola realizó la primera llamada desde un teléfono móvil celular, un DynaTAC, lo que fue el germen del desarrollo del software de comunicaciones que usarían millones de dispositivos.
 
 ## El temazo de hoy
-#### [Nirvana - Lithium](https://www.youtube.com/watch?v=pkcJEvMcnEg)
-Publicada como single el 2 de abril de 1992, 'Lithium' es una de las canciones más icónicas del álbum Nevermind. Combina versos tranquilos con un estruendoso estribillo, reflejando la característica dinámica de quietud y explosión del grunge, con letras que exploran temas de religión y crisis emocional.
+#### [Nirvana - Heart-Shaped Box](https://www.youtube.com/watch?v=n6P0SitRwy8)
+Publicada como sencillo el 3 de abril de 1993, esta icónica canción de Nirvana combina potentes riff de guitarra con letras cargadas de simbolismo. Considerada una de las mejores composiciones de Kurt Cobain, explora temas como el dolor, la comercialización y las luchas personales, convirtiéndose en un himno del movimiento grunge.
 
