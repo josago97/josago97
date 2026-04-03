@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 3 de abril de 1973, Martin Cooper de Motorola realizó la primera llamada desde un teléfono móvil celular, un DynaTAC, lo que fue el germen del desarrollo del software de comunicaciones que usarían millones de dispositivos.
+El 4 de abril de 1975, Bill Gates y Paul gigante del software y definiría la industria de la computación personal.
 
 ## El temazo de hoy
-#### [Nirvana - Heart-Shaped Box](https://www.youtube.com/watch?v=n6P0SitRwy8)
-Publicada como sencillo el 3 de abril de 1993, esta icónica canción de Nirvana combina potentes riff de guitarra con letras cargadas de simbolismo. Considerada una de las mejores composiciones de Kurt Cobain, explora temas como el dolor, la comercialización y las luchas personales, convirtiéndose en un himno del movimiento grunge.
+#### [R.E.M. - The Great Beyond](https://www.youtube.com/watch?v=k_JnCWT-_O8)
+Lanzada como single el 4 de abril de 2000, esta canción formó parte de la banda sonora de la película 'Man on the Moon' sobre Andy Kaufman. Con su característico sonido melancólico y letras introspectivas, la canción explora temas de trascendencia y la búsqueda de significado más allá de lo terrenal, representando el estilo único de la banda alternativo.
 
