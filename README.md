@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de abril de 1975, Bill Gates y Paul gigante del software y definiría la industria de la computación personal.
+El 5 de abril de 1994, Linus Torvalds lanzó oficialmente la versión 1.0 del kernel de Linux, un hito crucial que consolidó el software de código abierto.
 
 ## El temazo de hoy
-#### [R.E.M. - The Great Beyond](https://www.youtube.com/watch?v=k_JnCWT-_O8)
-Lanzada como single el 4 de abril de 2000, esta canción formó parte de la banda sonora de la película 'Man on the Moon' sobre Andy Kaufman. Con su característico sonido melancólico y letras introspectivas, la canción explora temas de trascendencia y la búsqueda de significado más allá de lo terrenal, representando el estilo único de la banda alternativo.
+#### [Madonna - Hung Up](https://www.youtube.com/watch?v=EDwb9jOVRtU)
+Lanzado como primer single de su álbum 'Confessions on a Dance Floor' en 2005, 'Hung Up' es un himno disco que samplea el éxito de ABBA 'Gimme! Gimme! Gimme!'. Madonna fusiona el sonido clásico de los 70 con electrónica moderna, creando una pista adictiva sobre la ansiedad y la obsesión en el amor que dominó las pistas de baile mundialmente.
 
