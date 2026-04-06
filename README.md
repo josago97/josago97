@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de abril de 1992, Microsoft lanzó Windows 3.1, que popularizó el formato de audio multimedia al incluir por primera vez el reproductor de archivos de sonido WAV de forma nativa.
+El 7 de abril de 1964, IBM anunció el System/360, una familia de mainframes que estableció el concepto de arquitectura compatible, revolucionando la industria al permitir que el software funcionara en múltiples máquinas.
 
 ## El temazo de hoy
-#### [Bon Jovi - Always](https://www.youtube.com/watch?v=9BMwcO6_hyA)
-Este power ballad de Bon Jovi se convirtió en uno de los mayores éxitos de la banda. Publicado como single el 6 de abril de 1994, es una emotiva canción sobre el amor perdido que ha perdurado como himno romántico durante décadas.
+#### [The Rasmus - In the Shadows](https://www.youtube.com/watch?v=7gwO8-oqwFw)
+Este éxito internacional de 2003 se convirtió en el himno del rock alternativo europeo. Con su riff de guitarra icónico y la voz distintiva de Lauri Ylönen, la canción aborda temas de alienación y búsqueda de conexión en la oscuridad.
 
