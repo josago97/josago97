@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 7 de abril de 1964, IBM anunció el System/360, una familia de mainframes que estableció el concepto de arquitectura compatible, revolucionando la industria al permitir que el software funcionara en múltiples máquinas.
+El 8 de abril de 1964, IBM anunció el System/360, una familia de mainframes que estableció la arquitectura de 8 bits por byte y la compatibilidad de software entre diferentes modelos, revolucionando la industria.
 
 ## El temazo de hoy
 #### [The Rasmus - In the Shadows](https://www.youtube.com/watch?v=7gwO8-oqwFw)
-Este éxito internacional de 2003 se convirtió en el himno del rock alternativo europeo. Con su riff de guitarra icónico y la voz distintiva de Lauri Ylönen, la canción aborda temas de alienación y búsqueda de conexión en la oscuridad.
+Este éxito internacional de la banda finlandesa The Rasmus, lanzado el 8 de abril de 2003, se convirtió en un himno del rock alternativo de los 2000s. Con su distintivo riff de guitarra y la voz profunda de Lauri Ylönen, la canción explora temas de soledad y aislamiento con una energía oscura y melódica que conquistó las radios mundiales.
 
