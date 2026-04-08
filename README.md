@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 8 de abril de 1964, IBM anunció el System/360, una familia de mainframes que estableció la arquitectura de 8 bits por byte y la compatibilidad de software entre diferentes modelos, revolucionando la industria.
+El 9 de abril de 1964, IBM presentó el System/360, una familia de mainframes que definió la arquitectura de computación estándar y es considerada una de las decisiones comerciales más importantes en la historia de la informática.
 
 ## El temazo de hoy
-#### [The Rasmus - In the Shadows](https://www.youtube.com/watch?v=7gwO8-oqwFw)
-Este éxito internacional de la banda finlandesa The Rasmus, lanzado el 8 de abril de 2003, se convirtió en un himno del rock alternativo de los 2000s. Con su distintivo riff de guitarra y la voz profunda de Lauri Ylönen, la canción explora temas de soledad y aislamiento con una energía oscura y melódica que conquistó las radios mundiales.
+#### [The Prodigy - Firestarter](https://www.youtube.com/watch?v=wmin5WkOuPw)
+Lanzada el 9 de abril de 1996, 'Firestarter' se convirtió en un himno del electronic rock que definió una era. Con su energía agresiva y el carisma de Keith Flint, la canción rompió esquemas musicales y se mantiene como un ícono de los 90s.
 
