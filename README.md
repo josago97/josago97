@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de abril de 1964, IBM presentó el System/360, una familia de mainframes que definió la arquitectura de computación estándar y es considerada una de las decisiones comerciales más importantes en la historia de la informática.
+El 10 de abril de 1972, se presentó en el MIT el primer prototipo funcional de la computadora Xerox Alto, pionera por utilizar una interfaz gráfica de usuario (GUI) con ventanas, íconos y un mouse, sentando las bases de la informática moderna.
 
 ## El temazo de hoy
-#### [The Prodigy - Firestarter](https://www.youtube.com/watch?v=wmin5WkOuPw)
-Lanzada el 9 de abril de 1996, 'Firestarter' se convirtió en un himno del electronic rock que definió una era. Con su energía agresiva y el carisma de Keith Flint, la canción rompió esquemas musicales y se mantiene como un ícono de los 90s.
+#### [The Black Eyed Peas - Where Is The Love?](https://www.youtube.com/watch?v=WpYeekQkAdc)
+Este impactante éxito de 2003 se convirtió en un himno generacional que aborda temas sociales como la violencia, el racismo y la intolerancia. Con su mezcla de rap y pop, la canción destaca por su mensaje de paz y unidad, manteniéndose relevante por su potente crítica social y su contagiosa melodía.
 
