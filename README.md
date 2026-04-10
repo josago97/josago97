@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de abril de 1972, se presentó en el MIT el primer prototipo funcional de la computadora Xerox Alto, pionera por utilizar una interfaz gráfica de usuario (GUI) con ventanas, íconos y un mouse, sentando las bases de la informática moderna.
+El 11 de abril de 1997, IBM lanzó la versión 1.3 de su software de ajedrez Deep Blue, la misma que el mes siguiente se convertiría en la primera computadora en ganar un match contra un campeón mundial reinante, Gari Kaspárov.
 
 ## El temazo de hoy
-#### [The Black Eyed Peas - Where Is The Love?](https://www.youtube.com/watch?v=WpYeekQkAdc)
-Este impactante éxito de 2003 se convirtió en un himno generacional que aborda temas sociales como la violencia, el racismo y la intolerancia. Con su mezcla de rap y pop, la canción destaca por su mensaje de paz y unidad, manteniéndose relevante por su potente crítica social y su contagiosa melodía.
+#### [Alicia Keys - Fallin'](https://www.youtube.com/watch?v=Urdlvw0SSEc)
+Este éxito monumental de Alicia Keys, lanzado como segundo single de su álbum debut 'Songs in A Minor', combinaba soul, R&B y piano de manera magistral. La canción se convirtió en un himneo internacional, ganó tres Grammy Awards y estableció a Keys como una fuerza musical innovadora en la industria.
 
