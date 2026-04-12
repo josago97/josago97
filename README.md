@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 12 de abril de 1955, en un comunicado de prensa, IBM presentó la IBM 704, la primera computadora en utilizar el lenguaje FORTRAN, revolucionario por ser el primer lenguaje de programación de alto nivel ampliamente utilizado.
+El 13 de abril de 1970, un fallo en el software del Apolo 13 provocó una explosión en el módulo de servicio, forzando a la NASA a crear una solución de software de emergencia para salvar a la misión y a la tripulación.
 
 ## El temazo de hoy
-#### [Avril Lavigne - Girlfriend](https://www.youtube.com/watch?v=Bg59q4puhmg)
-Este tema del 2007 se convirtió en un himno pop-punk adolescente, característico del sonido de Avril Lavigne. Con su estribillo pegadizo y actitud rebelde, la canción fue un éxito mundial y llegó al número uno en múltiples países.
+#### [Good Charlotte - The Anthem](https://www.youtube.com/watch?v=desJKYvdq9A)
+Este éxito del 2003 se convirtió en un himno de la rebeldía adolescente de la década. Con su mezcla de pop punk y letras sobre romper con las expectativas sociales, la canción representa perfectamente el espíritu de la escena alternativa de principios de los 2000.
 
