@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 13 de abril de 1970, un fallo en el software del Apolo 13 provocó una explosión en el módulo de servicio, forzando a la NASA a crear una solución de software de emergencia para salvar a la misión y a la tripulación.
+El 14 de abril de 2005, se lanzó la versión 1.3 de Subversion, un sistema de control de versiones que se convirtió en un estándar crucial para el desarrollo colaborativo de software.
 
 ## El temazo de hoy
-#### [Good Charlotte - The Anthem](https://www.youtube.com/watch?v=desJKYvdq9A)
-Este éxito del 2003 se convirtió en un himno de la rebeldía adolescente de la década. Con su mezcla de pop punk y letras sobre romper con las expectativas sociales, la canción representa perfectamente el espíritu de la escena alternativa de principios de los 2000.
+#### [Blur - Girls & Boys](https://www.youtube.com/watch?v=WDswiT87oo8)
+Lanzado el 14 de abril de 1994, este éxito de Blur es una crítica satírica a la cultura de vacaciones y la ambigüedad sexual de los jóvenes europeos. Con su pegadizo riff de bajo y letras ingeniosas, se convirtió en uno de los himnos definitorios del Britpop de los 90.
 
