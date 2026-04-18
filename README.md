@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 18 de abril de 1955, un tribunal de justicia levantó la orden de inhabilitación de Alan Turing, reconocido como uno de los padres de la ciencia de la computación, hasta 2013.
+El 19 de abril de 2021, se lanzó la versión 2.7 de RHEL (Red Hat Enterprise Linux), un hito importante para uno de los sistemas operativos de código abierto más críticos en entornos empresariales y de servidor.
 
 ## El temazo de hoy
 #### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzado como sencillo el 18 de abril de 1989, ' Combina elementos pop con gospel y generó controversia por consolidándose como un himno de empowerment personal y espiritual.
+Lanzada como sencillo el 19 de abril de 1989, 'Like a Prayer' es una de las canciones más icónicas de Madonna. Combinando pop con elementos gospel y letras que exploran temas espirituales y sensuales, causó controversia pero se convirtió en un himno instantáneo que definió su carrera.
 
