@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de abril de 2021, se lanzó la versión 2.7 de RHEL (Red Hat Enterprise Linux), un hito importante para uno de los sistemas operativos de código abierto más críticos en entornos empresariales y de servidor.
+El 20 de abril de 1972, Apollo 16 alunizó, una misión controlada por el software desarrollado por Margaret Hamilton, cuyo trabajo sentó las bases de la ingeniería de software moderna.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada como sencillo el 19 de abril de 1989, 'Like a Prayer' es una de las canciones más icónicas de Madonna. Combinando pop con elementos gospel y letras que exploran temas espirituales y sensuales, causó controversia pero se convirtió en un himno instantáneo que definió su carrera.
+#### [Guns N' Roses - Since I Don't Have You](https://www.youtube.com/watch?v=IYOYlqOitDA)
+Versión power ballad de Guns N' Roses del clásico doo-wop de 1958, publicada como single en 1994. La interpretación emocional de Axl Rose y el potente arreglo rockero convirtieron esta cover en un éxito que demostró la versatilidad de la banda beyond el hard rock tradicional.
 
