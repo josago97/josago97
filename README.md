@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de abril de 1972, Apollo 16 alunizó, una misión controlada por el software desarrollado por Margaret Hamilton, cuyo trabajo sentó las bases de la ingeniería de software moderna.
+El 21 de abril de 1964, la empresa americana IBM presentó el Sistema/360, una familia de mainframes que introdujo la arquitectura de conjunto de instrucciones (ISA) estandarizada, permitiendo que el mismo software funcionara en máquinas de diferentes capacidades. Este concepto revolucionario sentó las bases para la compatibilidad del software que conocemos hoy.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Since I Don't Have You](https://www.youtube.com/watch?v=IYOYlqOitDA)
-Versión power ballad de Guns N' Roses del clásico doo-wop de 1958, publicada como single en 1994. La interpretación emocional de Axl Rose y el potente arreglo rockero convirtieron esta cover en un éxito que demostró la versatilidad de la banda beyond el hard rock tradicional.
+#### [Queen - Radio Ga Ga](https://www.youtube.com/watch?v=azdwsXLmrHE)
+Lanzada como single el 21 de abril de 1984, esta icónica canción de Queen es una crítica a la creciente influencia de la televisión sobre la radio, pero también un homenaje al poder de la música. Con su característico coro y la producción de Reinhold Mack, se convirtió en uno de los himnos más memorables de la banda y un favorito en sus legendarios conciertos en vivo.
 
