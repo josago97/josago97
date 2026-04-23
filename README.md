@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de abril de 1985, Adobe Systems hizo pública su oferta inicial de acciones (IPO), un evento crucial que capitalizó el éxito de PostScript y proporcionó los fondos para desarrollar software icónico como Adobe Illustrator y Photoshop.
+El 24 de abril de 1990, el transbordador espacial Discovery puso en órbita el telescopio Hubble, cuyo software de control y corrección óptica es uno de los más críticos y complejos jamás lanzados al espacio.
 
 ## El temazo de hoy
-#### [Avril Lavigne - Girlfriend](https://www.youtube.com/watch?v=Bg59q4puhmg)
-Este éxito de 2007 se convirtió en el primer número uno de Avril Lavigne en Billboard Hot 100. La canción fusiona pop punk con un irresistible estribillo pegadizo que refleja actitud desafiante y un sonido más comercial que marcó su regreso triunfal.
+#### [Jamiroquai - Virtual Insanity](https://www.youtube.com/watch?v=OeTFAiYbR9o)
+Lanzada como single el 24 de abril de 1996, esta icónica canción de funk acid jazz criticaba la dependencia tecnológica y la alienación moderna. Destacó por su innovador video musical con suelo móvil que ganó varios premios MTV y se convirtió en un himno generacional.
 
