@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 25 de abril de 1974, John Kemeny y Thomas Kurtz ejecutaron con éxito el primer programa en el lenguaje BASIC (Beginner's All-purpose Symbolic Instruction Code), que diseñaron para que fuera fácil de aprender y usar por estudiantes no técnicos.
+El 26 de abril de 1984, Apple Inc. lanzó el Apple IIc, una computadora personal que popularizó el uso de software en disquetes de 5.25 pulgadas y se convirtió en un ícono de la era de la computación doméstica.
 
 ## El temazo de hoy
-#### [Avril Lavigne - Nobody's Home](https://www.youtube.com/watch?v=NGFSNE18Ywc)
-Este emotivo single del álbum 'Under My Skin' aborda temas de alienación y vulnerabilidad. Con su potente voz y letras introspectivas, Lavigne captura la sensación de sentirse perdido y sin hogar emocional.
+#### [Avril Lavigne - Girlfriend](https://www.youtube.com/watch?v=Bg59q4puhmg)
+Este éxito de 2007 se convirtió en un himno pop-punk con su actitud desafiante y su contagioso estribillo. La canción fue un éxito mundial que encabezó las listas de más de 10 países y se convirtió en uno de los mayores hits de la década.
 
