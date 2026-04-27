@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de abril de 2004, los desarrolladores de Ubuntu lanzaron la primera versión del sistema operativo, la 4.04 "Warty Warthog", un hito crucial para el software libre y de código abierto.
+El 28 de abril de 2014, Google lanzó oficialmente el lenguaje de programación Go (Golang) versión 1.0, marcando su salida estable y listo para producción.
 
 ## El temazo de hoy
-#### [Ace of Base - The Sign](https://www.youtube.com/watch?v=iqu132vTl5Y)
-Este éxito icónico de 1993 se convirtió en un fenómeno global con su mezcla de pop, reggae y electrónica. La canción, llena de optimismo y ritmo contagioso, lideró las listas Billboard y definió el sonido del pop europeo de los 90s.
+#### [Mariah Carey - Fantasy](https://www.youtube.com/watch?v=qq09UkPRdFY)
+Lanzado el 28 de abril de 1995, este tema samplea el éxito "Genius of Love" de Tom Tom Club y se convirtió en uno de los mayores hits de Mariah Carey. Fue el primer single de una artista femenina en debutar directamente en el número uno del Billboard Hot 100.
 
