@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 28 de abril de 2014, Google lanzó oficialmente el lenguaje de programación Go (Golang) versión 1.0, marcando su salida estable y listo para producción.
+El 29 de abril de 2011, se lanzó Visual Studio 2010 Service Pack 1, una actualización crucial que resolvió problemas de estabilidad e introdujo nuevas herramientas para el desarrollo en C++ y la paralelización.
 
 ## El temazo de hoy
-#### [Mariah Carey - Fantasy](https://www.youtube.com/watch?v=qq09UkPRdFY)
-Lanzado el 28 de abril de 1995, este tema samplea el éxito "Genius of Love" de Tom Tom Club y se convirtió en uno de los mayores hits de Mariah Carey. Fue el primer single de una artista femenina en debutar directamente en el número uno del Billboard Hot 100.
+#### [Moby - Porcelain](https://www.youtube.com/watch?v=IJWlBfo5Oj0)
+Este tema icónico del álbum 'Play' (1999) es una pieza emblemática de música electrónica ambiental. Con su melancólica melodía y sampleos etéreos, se convirtió en un éxito global que definió la escena musical de finales de los 90.
 
