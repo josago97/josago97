@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de abril de 2011, se lanzó Visual Studio 2010 Service Pack 1, una actualización crucial que resolvió problemas de estabilidad e introdujo nuevas herramientas para el desarrollo en C++ y la paralelización.
+El 30 de abril de 1993, el CERN puso el software del World Wide Web, incluido el navegador/web editor "WorldWideWeb", en el dominio público, una decisión crucial que permitió su expansión global y gratuita.
 
 ## El temazo de hoy
-#### [Moby - Porcelain](https://www.youtube.com/watch?v=IJWlBfo5Oj0)
-Este tema icónico del álbum 'Play' (1999) es una pieza emblemática de música electrónica ambiental. Con su melancólica melodía y sampleos etéreos, se convirtió en un éxito global que definió la escena musical de finales de los 90.
+#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
+Lanzada el 30 de abril de 1991, 'Black or White' es un himno contra el racismo que fusiona rock y pop. Destacó por su innovador videoclip con efectos de morphing y su mensaje de unidad racial que sigue siendo relevante hoy.
 
