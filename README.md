@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 30 de abril de 1993, el CERN puso el software del World Wide Web, incluido el navegador/web editor "WorldWideWeb", en el dominio público, una decisión crucial que permitió su expansión global y gratuita.
+El 1 de mayo de 1964, John Kemeny ejecutó el primer programa en el lenguaje BASIC, que él mismo co-creó para hacer la programación más accesible a los estudiantes.
 
 ## El temazo de hoy
-#### [Michael Jackson - Black or White](https://www.youtube.com/watch?v=F2AitTPI5U0)
-Lanzada el 30 de abril de 1991, 'Black or White' es un himno contra el racismo que fusiona rock y pop. Destacó por su innovador videoclip con efectos de morphing y su mensaje de unidad racial que sigue siendo relevante hoy.
+#### [Rihanna - Umbrella](https://www.youtube.com/watch?v=CvBfHwUxHIk)
+Lanzado el 1 de mayo de 2007, este éxito icónico de Rihanna con participación de Jay-Z se convirtió en un himno global. La canción destacó por su pegadizo estribillo 'ella-na-na' y metáforas sobre protección y lealtad, marcando el ascenso definitivo de Rihanna como superestrella internacional.
 
