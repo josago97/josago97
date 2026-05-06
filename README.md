@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
- 6 de mayo de 1949, un equipo dirigido por Maurice Wilkes ejecutó el primer programa almacenado en la memoria de una computadora (EDSAC), marcando el nacimiento de la programación moderna.
+El 7 de mayo de 1946, se presentó públicamente la ENIAC, la primera computadora digital electrónica de propósito general, marcando el nacimiento de la informática moderna.
 
 ## El temazo de hoy
-#### [Roxette - The Look](https://www.youtube.com/watch?v=LlVI7ZNiFlI)
-Este éxito icónico de 1988 se convirtió en un himno global con su mezcla de pop rock y new wave. Caracterizado por el poderoso vocal de Marie Fredriksson y el riff de guitarra contagioso, 'The Look' llevó a Roxette al estrellato internacional y sigue siendo un símbolo del sonido pop sueco de los 80s.
+#### [Avril Lavigne - Girlfriend](https://www.youtube.com/watch?v=Bg59q4puhmg)
+Este éxito mundial de 2007 se convirtió en el primer número uno de Avril Lavigne en Billboard Hot 100. Con su actitud rebelde y un pegadizo coro, la canción fusiona pop punk con hooks irresistibles que definieron la era del pop rock de los 2000s.
 
