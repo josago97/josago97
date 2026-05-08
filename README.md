@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 8 de mayo de 1941, Konrad Zuse presentó la Z3 en Berlín, considerada la primera computadora programable y completamente automática del mundo.
+El 9 de mayo de 1962, se patentó el primer videojuego, *Spacewar!*, creado por Steve Russell y sus colegas del MIT para la PDP-1, un hito fundamental en la historia del software interactivo.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada el 8 de mayo de 1989, 'Like a Prayer' es uno de los temas más icónicos de Madonna que fusiona pop con elementos gospel. La canción generó controversia por su videoclip con simbolismo religioso, pero se convirtió en un himno mundial y en un ejemplo del poder artístico de la artista.
+#### [John Lennon - Imagine](https://www.youtube.com/watch?v=VOgFZfRVaww)
+Aunque 'Imagine' fue originalmente lanzada en 1971, tuvo un relanzamiento significativo el 9 de mayo de 1988 como parte del álbum recopilatorio 'Imagine: John Lennon'. Esta icónica balada de paz se convirtió en un himno atemporal que trascendió generaciones con su poderoso mensaje de unidad mundial y esperanza.
 
