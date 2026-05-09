@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de mayo de 1962, se patentó el primer videojuego, *Spacewar!*, creado por Steve Russell y sus colegas del MIT para la PDP-1, un hito fundamental en la historia del software interactivo.
+El 10 de mayo de 1996, un fallo de software en la red de AT&T provocó la interrupción masiva del servicio de larga distancia, dejando sin comunicación a millones de usuarios.
 
 ## El temazo de hoy
-#### [John Lennon - Imagine](https://www.youtube.com/watch?v=VOgFZfRVaww)
-Aunque 'Imagine' fue originalmente lanzada en 1971, tuvo un relanzamiento significativo el 9 de mayo de 1988 como parte del álbum recopilatorio 'Imagine: John Lennon'. Esta icónica balada de paz se convirtió en un himno atemporal que trascendió generaciones con su poderoso mensaje de unidad mundial y esperanza.
+#### [Bananarama - Venus](https://www.youtube.com/watch?v=d4-1ASpdT1Y)
+Lanzada originalmente por Shocking Blue, Bananarama versionó este tema icónico en 1986 y lo convirtió en un éxito mundial. Su ritmo contagioso, sintetizadores característicos y coros pegadizos la convirtieron en un himno de la década, alcanzando el número uno en múltiples países y definiendo el sonido pop de los 80.
 
