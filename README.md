@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 11 de mayo de 1997, la supercomputadora de IBM, Deep Blue, se convirtió en la primera máquina en derrotar a un campeón mundial de ajedrez, Garry Kasparov, en un match bajo condiciones de torneo estándar.
+El 12 de mayo de 1941, Konrad Zuse presentó la Z3, considerada la primera computadora programable y automática funcional del mundo.
 
 ## El temazo de hoy
-#### [Gloria Estefan - Oye Mi Canto (Hear My Voice)](https://www.youtube.com/watch?v=6wndUbpSV6M)
-Este éxito de 1990 fusiona ritmos latinos con pop dance, convirtiéndose en un himno de empoderamiento cultural. La canción destacó por su mensaje de orgullo hispano y su contagioso ritmo que dominó las pistas de baile internacionalmente.
+#### [Kim Wilde - You Keep Me Hangin' On](https://www.youtube.com/watch?v=cFivv99t3-Q)
+Esta versión de 1986 del clásico de The Supremes se convirtió en un éxito mundial, alcanzando el número 1 en Billboard Hot 100. Con su potente sintetizador y la voz característica de Kim Wilde, la canción se ha mantenido como un icono del sonido pop de los 80s.
 
