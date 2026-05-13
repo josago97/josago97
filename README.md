@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 13 de mayo de 1952 se publicó el primer artículo sobre el concepto de software, escrito por el computerólogo Richard R. Carhart, sentando las bases para el desarrollo de la industria del software.
+El 14 de mayo de 1949, se presentó el EDSAC, la primera computadora con un programa almacenado en funcionamiento, ejecutando su primer programa que calculó una tabla de cuadrados.
 
 ## El temazo de hoy
-#### [Stevie Wonder - You Will Know](https://www.youtube.com/watch?v=Bk62olgWxCI)
-Este tema soul de Stevie Wonder, publicado en 1985 como parte del álbum 'In Square Circle', combina su característico estilo vocal con arreglos funk y de synth pop típicos de los 80s. La canción transmite un mensaje de esperanza y certeza emocional, mostrando la versatilidad del artista más allá de sus éxitos más comerciales.
+#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
+Este icónico tema de Madonna, lanzado como sencillo el 14 de mayo de 1989, fusiona pop con elementos gospel y letras que exploran temas espirituales y sensuales. El polémico videoclip y su potente vocal la consolidaron como una artista innovadora que desafió convenciones en la industria musical.
 
