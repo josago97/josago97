@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de mayo de 1948, el término "bug" para referirse a un error de software fue documentado por primera vez de forma pública tras encontrar una polilla en el ordenador Mark II de la Universidad de Harvard.
+El 16 de mayo de 1997, IBM Deep Blue se convirtió en el primer sistema informático en derrotar a un campeón mundial reinante de ajedez, Gary Kaspárov, en un match bajo condiciones de torneo.
 
 ## El temazo de hoy
-#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
-Este éxito de 1999 forma parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me'. La canción combina el pop característico de Madonna con influencias psicodélicas, convirtiéndose en uno de sus mayores éxitos de finales de los 90 y ganando un Grammy a Mejor Canción Escrita para Medios Visuales.
+#### [Limp Bizkit - Rollin' (Air Raid Vehicle)](https://www.youtube.com/watch?v=RYnFIRc0k6E)
+Single icónico del nu-metal que mezcla rap y rock, lanzado originalmente en 2000 pero relanzado como single el 16 de mayo de 2001. Su enérgico riff de guitarra y el característico flow de Fred Durst lo convirtieron en un himno de la época, representando la esencia rebelde del género.
 
