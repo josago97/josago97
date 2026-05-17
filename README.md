@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 17 de mayo de 1992, Microsoft lanzó Windows 3.1, que popularizó la interfaz gráfica y la gestión de memoria mejorada, convirtiéndose en un éxito masivo.
+El 18 de mayo de 1974, el Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) publicó el estándar 802, que sentó las bases técnicas para las redes de área local (LAN), incluyendo Ethernet.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Lanzada como sencillo el 17 de mayo de 1989, 'Like a Prayer' es uno de los temas más icónicos de Madonna que combina pop con elementos gospel. La canción generó controversia por su videoclip pero se convirtió en un himno cultural y musical de la época, mostrando la evolución artística de la cantante.
+#### [Enrique Iglesias - Bailamos](https://www.youtube.com/watch?v=5sye_VxmNZA)
+Lanzado como single el 18 de mayo de 1999, 'Bailamos' se convirtió en un éxito mundial que catapultó la carrera internacional de Enrique Iglesias. Esta canción de ritmo latino y romántica letra capturó la esencia del pop latino de finales de los 90 y sigue siendo un himno festivo en la actualidad.
 
