@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 18 de mayo de 1974, el Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) publicó el estándar 802, que sentó las bases técnicas para las redes de área local (LAN), incluyendo Ethernet.
+El 19 de mayo de 1976, David J. Wheeler, Maurice Wilkes y Stanley Gill recibieron el primer premio "Premio Pioneer" de la IEEE Computer Society por su trabajo en el EDSAC, la primera computadora con un programa almacenado en memoria operativa.
 
 ## El temazo de hoy
-#### [Enrique Iglesias - Bailamos](https://www.youtube.com/watch?v=5sye_VxmNZA)
-Lanzado como single el 18 de mayo de 1999, 'Bailamos' se convirtió en un éxito mundial que catapultó la carrera internacional de Enrique Iglesias. Esta canción de ritmo latino y romántica letra capturó la esencia del pop latino de finales de los 90 y sigue siendo un himno festivo en la actualidad.
+#### [Shakira - She Wolf](https://www.youtube.com/watch?v=booKP974B0k)
+Lanzado el 19 de mayo de 2009, 'She Wolf' marcó un cambio radical en el sonido de Shakira hacia el electropop. La canción, con sus aullidos característicos y letras en inglés y español, se convirtió en un éxito mundial que mostraba su versatilidad artística y su capacidad para reinventarse musicalmente.
 
