@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de mayo de 1976, David J. Wheeler, Maurice Wilkes y Stanley Gill recibieron el primer premio "Premio Pioneer" de la IEEE Computer Society por su trabajo en el EDSAC, la primera computadora con un programa almacenado en memoria operativa.
+El 20 de mayo de 1965, el programador y analista de sistemas Ted Nelson acuñó los términos "hipertexto" e "hipermedia" en una conferencia, sentando las bases conceptuales para la futura World Wide Web.
 
 ## El temazo de hoy
-#### [Shakira - She Wolf](https://www.youtube.com/watch?v=booKP974B0k)
-Lanzado el 19 de mayo de 2009, 'She Wolf' marcó un cambio radical en el sonido de Shakira hacia el electropop. La canción, con sus aullidos característicos y letras en inglés y español, se convirtió en un éxito mundial que mostraba su versatilidad artística y su capacidad para reinventarse musicalmente.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este icónico tema de Bon Jovi se lanzó como single el 23 de mayo de 2000, aunque existen ediciones y relanzamientos alrededor del 20 de mayo en distintos años. La canción se convirtió en un himno generacional sobre vivir la vida con intensidad y autenticidad. Con su potente riff de guitarra y el carismático vocal de Jon Bon Jovi, el tema sigue siendo un clásico en conciertos y radios worldwide.
 
