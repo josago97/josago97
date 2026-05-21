@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 21 de mayo de 1952, el equipo de UNIVAC presentó el primer compilador de la historia, el A-0 System, creado por Grace Hopper, lo que sentó las bases de la programación moderna.
+El 22 de mayo de 1973, se publicó RFC 454, que definió la primera especificación oficial para la transferencia de archivos (FTP), sentando una base crítica para el intercambio de datos en redes.
 
 ## El temazo de hoy
-#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
-Lanzada como parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me', esta canción fusiona el pop con toques psicodélicos característicos de los 60s. Se convirtió en un éxito global y ganó el Grammy a Mejor Canción Escrita para Medios Visuales en el año 2000.
+#### [Ricky Martin - Livin' la Vida Loca](https://www.youtube.com/watch?v=p47fEXGabaY)
+Este éxito mundial de 1999 se convirtió en el himno del pop latino que catapultó a Ricky Martin al estrellato internacional. Con su ritmo contagioso y energía explosiva, la canción fusiona rock, salsa y pop creando un fenómeno cultural que dominó las radios durante más de un año.
 
