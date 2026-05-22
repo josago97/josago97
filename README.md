@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de mayo de 1973, se publicó RFC 454, que definió la primera especificación oficial para la transferencia de archivos (FTP), sentando una base crítica para el intercambio de datos en redes.
+El 23 de mayo de 1962, el videojuego *Spacewar!*, creado para el PDP-1, se presentó de forma pública en una exhibición científica del MIT, convirtiéndose en uno de los primeros videojuegos digitales influyentes.
 
 ## El temazo de hoy
-#### [Ricky Martin - Livin' la Vida Loca](https://www.youtube.com/watch?v=p47fEXGabaY)
-Este éxito mundial de 1999 se convirtió en el himno del pop latino que catapultó a Ricky Martin al estrellato internacional. Con su ritmo contagioso y energía explosiva, la canción fusiona rock, salsa y pop creando un fenómeno cultural que dominó las radios durante más de un año.
+#### [Daft Punk - One More Time](https://www.youtube.com/watch?v=FGBhQbmPwH8)
+Este icónico tema de house francés fue lanzado como single el 23 de mayo de 2000. Con su característico vocoder y ritmo contagioso, se convirtió en un himno global que definió el sonido electro de la época y llevó a Daft Punk al estrellato internacional.
 
