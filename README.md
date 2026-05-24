@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de mayo de 1995, el equipo de desarrollo de Java en Sun Microsystems, liderado por James Gosling, lanzó la versión 1.0a2 del JDK (Java Development Kit), disponible para su descarga pública, un hito crucial para la popularización del lenguaje.
+El 25 de mayo de 2001, Richard Stallman anunció oficialmente la creación de la Fundación del Software Libre (Free Software Foundation) para promover el desarrollo y uso del software libre a nivel mundial.
 
 ## El temazo de hoy
-#### [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)
-Uno de los mayores éxitos de R.E.M., lanzado como single en 1991. La canción se convirtió en un himno alternativo global, famosa por su distintivo mandolíneo y la letra que explora la obsesión y la duda existencial, ganando dos premios Grammy.
+#### [George Michael - Freedom! '90](https://www.youtube.com/watch?v=diYAc7gB-0A)
+Este icónico tema de George Michael se convirtió en un himno de liberación personal y artística. Destacó por su revolucionario videoclip dirigido por David Fincher, que mostraba supermodelos de los 90s sin la presencia del cantante, rompiendo con su imagen anterior.
 
