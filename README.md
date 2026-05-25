@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 25 de mayo de 2001, Richard Stallman anunció oficialmente la creación de la Fundación del Software Libre (Free Software Foundation) para promover el desarrollo y uso del software libre a nivel mundial.
+El 26 de mayo de 1995, Bill Gates escribió su famoso memorando interno "Internet Tidal Wave", que redirigió toda la estrategia de Microsoft hacia la web, marcando el inicio de la "Guerra de los Navegadores".
 
 ## El temazo de hoy
-#### [George Michael - Freedom! '90](https://www.youtube.com/watch?v=diYAc7gB-0A)
-Este icónico tema de George Michael se convirtió en un himno de liberación personal y artística. Destacó por su revolucionario videoclip dirigido por David Fincher, que mostraba supermodelos de los 90s sin la presencia del cantante, rompiendo con su imagen anterior.
+#### [Madonna - Vogue](https://www.youtube.com/watch?v=GuJQSAiODqI)
+Lanzada como single el 26 de mayo de 1990, 'Vogue' se convirtió en uno de los mayores éxitos de Madonna. La canción rinde homenaje a la cultura del ballroom y el voguing de la comunidad LGBTQ+ neoyorquina de los años 80, combinando un ritmo disco elegante con letras que celebran la autoexpresión y la actitud.
 
