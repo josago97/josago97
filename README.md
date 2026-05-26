@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 26 de mayo de 1995, Bill Gates escribió su famoso memorando interno "Internet Tidal Wave", que redirigió toda la estrategia de Microsoft hacia la web, marcando el inicio de la "Guerra de los Navegadores".
+El 27 de mayo de 1997, el virus informático Chernobyl (CIH) se activó por primera vez, causando daños masivos al sobrescribir el BIOS de computadoras con Windows, dejándolas inoperables.
 
 ## El temazo de hoy
-#### [Madonna - Vogue](https://www.youtube.com/watch?v=GuJQSAiODqI)
-Lanzada como single el 26 de mayo de 1990, 'Vogue' se convirtió en uno de los mayores éxitos de Madonna. La canción rinde homenaje a la cultura del ballroom y el voguing de la comunidad LGBTQ+ neoyorquina de los años 80, combinando un ritmo disco elegante con letras que celebran la autoexpresión y la actitud.
+#### [Duran Duran - A View to a Kill](https://www.youtube.com/watch?v=Fp4CR2HcHLQ)
+Este tema fue la banda sonora oficial de la película de James Bond 'Panorama para matar' (1985). Se convirtió en el único single de Bond en alcanzar el número 1 en Billboard Hot 100, mezclando el estilo new wave de la banda con el clásico sonido cinematográfico de espionaje.
 
