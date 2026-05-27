@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 27 de mayo de 1997, el virus informático Chernobyl (CIH) se activó por primera vez, causando daños masivos al sobrescribir el BIOS de computadoras con Windows, dejándolas inoperables.
+El 28 de mayo de 1995, Microsoft lanzó Internet Explorer 3.0, la primera versión en integrar la compatibilidad con CSS y ActiveX, lo que marcó el inicio de su "guerra de navegadores" con Netscape.
 
 ## El temazo de hoy
-#### [Duran Duran - A View to a Kill](https://www.youtube.com/watch?v=Fp4CR2HcHLQ)
-Este tema fue la banda sonora oficial de la película de James Bond 'Panorama para matar' (1985). Se convirtió en el único single de Bond en alcanzar el número 1 en Billboard Hot 100, mezclando el estilo new wave de la banda con el clásico sonido cinematográfico de espionaje.
+#### [Kylie Minogue - Spinning Around](https://www.youtube.com/watch?v=t1DWBKk5xHQ)
+Lanzado el 28 de mayo de 2000, este tema marcó el regreso triunfal de Kylie Minogue a la música pop. La canción, conocida por su icónico video donde muestra unos shorts dorados, se convirtió en un himno dance y relanzó su carrera a nivel internacional.
 
