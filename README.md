@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de mayo de 1914, el motor analítico de Charles Babbage, un concepto precursor de la computadora programable, fue finalmente construido y demostrado con éxito por su hijo, Henry P. Babbage, utilizando piezas originales.
+El 30 de mayo de 1987, Lotus Development Corporation lanzó la versión 3.0 de Lotus 1-2-3, una de las aplicaciones de hoja de cálculo más influyentes de la era de los PC.
 
 ## El temazo de hoy
-#### [Madonna - Vogue](https://www.youtube.com/watch?v=GuJQSAiODqI)
-Lanzado como single el 29 de mayo de 1990, 'Vogue' es un himno dance que popularizó el baile voguing de la cultura ballroom underground. La canción rinde homenaje a las estrellas de la Edad de Oro de Hollywood y se convirtió en uno de los mayores éxitos de Madonna, destacando por su icónico videoclip en blanco y negro.
+#### [Toto - I'll Be Over You](https://www.youtube.com/watch?v=r7XhWUDj-Ts)
+Este emotivo ballad de Toto, publicado como single en mayo de 1986, muestra el lado más melódico de la banda. Con la voz de lead de Joseph Williams y la característica guitarra de Steve Lukather, la canción explora temas de desamor y superación con una producción impecable típica de los 80s.
 
