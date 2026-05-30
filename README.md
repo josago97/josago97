@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 30 de mayo de 1987, Lotus Development Corporation lanzó la versión 3.0 de Lotus 1-2-3, una de las aplicaciones de hoja de cálculo más influyentes de la era de los PC.
+El 31 de mayo de 1976, David J. Wheeler, conocido por desarrollar el concepto de subrutina, falleció; su trabajo fue fundamental para la teoría de compiladores y la arquitectura de computadoras.
 
 ## El temazo de hoy
-#### [Toto - I'll Be Over You](https://www.youtube.com/watch?v=r7XhWUDj-Ts)
-Este emotivo ballad de Toto, publicado como single en mayo de 1986, muestra el lado más melódico de la banda. Con la voz de lead de Joseph Williams y la característica guitarra de Steve Lukather, la canción explora temas de desamor y superación con una producción impecable típica de los 80s.
+#### [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+Este icónico hit de 1985 combina una melodía new wave pegadiza con un innovador video musical en animación rotoscópica. La canción se convirtió en el éxito más reconocido de la banda noruega y sigue siendo un himno perdurable de los años 80.
 
