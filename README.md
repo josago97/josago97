@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 1 de junio de 1999, Intel lanzó el Pentium III con 550 MHz, el primer procesador en superar la barrera del GHz en su versión posterior, marcando un hito en el rendimiento de computadoras personales.
+El 2 de junio de 1966, el programa lunar Surveyor 1, controlado por software, realizó el primer aterrizaje suave estadounidense en la Luna, transmitiendo miles de imágenes.
 
 ## El temazo de hoy
-#### [Alanis Morissette - Ironic](https://www.youtube.com/watch?v=Jne9t8sHpUc)
-Este éxito de 1996 se convirtió en un himno generacional con su letra sobre las contradicciones de la vida. La canción formó parte del icónico álbum 'Jagged Little Pill' y destacó por su potente voz y estilo único que mezclaba rock alternativo con pop.
+#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
+Lanzada como parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me', esta canción combina el pop característico de Madonna con elementos de música disco. Se convirtió en un éxito mundial y ganó el Grammy a la Mejor Canción Escrita para Medios Visuales en el año 2000.
 
