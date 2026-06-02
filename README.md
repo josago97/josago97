@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 2 de junio de 1966, el programa lunar Surveyor 1, controlado por software, realizó el primer aterrizaje suave estadounidense en la Luna, transmitiendo miles de imágenes.
+El 3 de junio de 1949, los científicos ejecutaron con éxito el primer programa almacenado en una computadora electrónica de memoria, el EDSAC de la Universidad de Cambridge, marcando el nacimiento de la programación moderna.
 
 ## El temazo de hoy
-#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
-Lanzada como parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me', esta canción combina el pop característico de Madonna con elementos de música disco. Se convirtió en un éxito mundial y ganó el Grammy a la Mejor Canción Escrita para Medios Visuales en el año 2000.
+#### [Kylie Minogue - Can't Get You Out of My Head](https://www.youtube.com/watch?v=c18441Eh_WE)
+Este icónico tema de pop electrónico fue lanzado como single el 3 de junio de 2001 y se convirtió en uno de los mayores éxitos de la artista australiana. Con su pegadizo estribillo 'la-la-la' y su producción dance, la canción dominó las listas mundiales y se ha convertido en un himno atemporal de la música pop.
 
