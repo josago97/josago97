@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 4 de junio de 1996, el proyecto Mozilla (que más tarde se convertiría en Firefox) fue iniciado oficialmente por Netscape para crear un navegador de código abierto.
+El 5 de junio de 1980, se lanzó el sistema operativo Multics, un predecesor fundamental de Unix que introdujo conceptos pioneros como la memoria virtual y la seguridad multinivel.
 
 ## El temazo de hoy
-#### [Christina Aguilera - Beautiful](https://www.youtube.com/watch?v=eAfyFTzZDMM)
-Este icónico tema de 2002 se convirtió en un himno de autoaceptación y empoderamiento. Con su potente mensaje sobre la belleza interior y su impacto en la cultura pop, 'Beautiful' sigue inspirando a audiencias alrededor del mundo.
+#### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este himno de rock publicado en 2000 se convirtió en uno de los mayores éxitos de Bon Jovi. La canción es un poderoso manifiesto sobre vivir la vida al máximo y tomar el control del propio destino, con una energía que la ha mantenido como clásico atemporal.
 
