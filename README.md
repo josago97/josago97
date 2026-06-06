@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de junio de 1984, se lanzó el lenguaje de programación Turbol Pascal para el IBM PC, revolucionando el desarrollo de software al combinar un compilador veloz con un entorno de desarrollo integrado (IDE) a un precio asequible.
+El 7 de junio de 1983, el Instituto Tecnológico de Massachusetts (MIT) liberó el código fuente del sistema operativo ITS, un temprano ejemplo de software de código abierto que influyó en la cultura hacker.
 
 ## El temazo de hoy
 #### [Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este himno de rock publicado en 2000 se convirtió en uno de los mayores éxitos de Bon Jovi. La canción es un poderoso manifiesto sobre vivir la vida al máximo y tomar el control del propio destino, con un coro contagioso que sigue resonando en las generaciones.
+Lanzada el 7 de junio de 2000, esta canción se convirtió en un himno generacional sobre la autenticidad y vivir la vida en tus propios términos. Con su potente riff de guitarra y el carismático vocal de Jon Bon Jovi, la canción marcó el exitoso regreso de la banda al mainstream y sigue siendo un clásico en sus conciertos.
 
