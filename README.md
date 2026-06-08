@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 8 de junio de 1995, Jonas Lied publicó la primera versión del kernel de Linux bajo su propia licencia, que poco después cambiaría a la GPL de GNU, impulsando el software de código abierto.
+El 9 de junio de 1991, Linus Torvalds mencionó por primera vez en un foro de Usenet el desarrollo de su nuevo sistema operativo libre, lo que se convertiría en el núcleo Linux.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Este icónico single de Madonna revolucionó la música pop en 1989 con su fusión de sonidos gospel y pop. La canción generó controversia por su videoclip con simbolismo religioso, pero se consolidó como uno de los mayores éxitos de su carrera y un himno atemporal.
+#### [The Rolling Stones - Mixed Emotions](https://www.youtube.com/watch?v=loNey3n6uuE)
+Lanzada en 1989 como parte del álbum 'Steel Wheels', esta canción combina el rock clásico de los Stones con un sonido más contemporáneo de la época. La letra refleja las tensiones internas de la banda durante su reunión, explorando temas de conflicto y reconciliación con el característico estilo de Mick Jagger y Keith Richards.
 
