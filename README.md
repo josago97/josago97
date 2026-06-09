@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de junio de 1991, Linus Torvalds mencionó por primera vez en un foro de Usenet el desarrollo de su nuevo sistema operativo libre, lo que se convertiría en el núcleo Linux.
+El 10 de junio de 1993, Microsoft lanzó Visual Basic for Applications (VBA), integrado en Excel 5.0, revolucionando la automatización de tareas en las suites ofimáticas.
 
 ## El temazo de hoy
-#### [The Rolling Stones - Mixed Emotions](https://www.youtube.com/watch?v=loNey3n6uuE)
-Lanzada en 1989 como parte del álbum 'Steel Wheels', esta canción combina el rock clásico de los Stones con un sonido más contemporáneo de la época. La letra refleja las tensiones internas de la banda durante su reunión, explorando temas de conflicto y reconciliación con el característico estilo de Mick Jagger y Keith Richards.
+#### [Madonna - Get Together](https://www.youtube.com/watch?v=ObjtMmTRyrM)
+Lanzado como tercer single del álbum 'Confessions on a Dance Floor' en 2006, este tema electrónico-dance muestra a Madonna en su esencia clubera. La canción combina beats contagiosos con letras sobre conexión humana, convirtiéndose en un himno dance característico de su era de reinvención.
 
