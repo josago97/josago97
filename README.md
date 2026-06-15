@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de junio de 1991, Linus Torvalds anunció por primera vez su proyecto de sistema operativo libre, que más tarde se convertiría en el kernel de Linux.
+El 16 de junio de 2011, la Fundación Eclipse lanzó la versión 3.7 (Indigo) de su famoso IDE, que por primera vez liberó simultáneamente 62 proyectos para apoyar el desarrollo de Java y otras tecnologías.
 
 ## El temazo de hoy
-#### [Erasure - Always](https://www.youtube.com/watch?v=lWqJTKdznaM)
-Este icónico tema synthpop de 1994 es considerado uno de los mayores éxitos de Erasure. Con su pegadizo estribillo y la característica voz de Andy Bell, la canción combina melancolía y alegría dance de forma magistral, representando perfectamente el sonido electrónico de los 90s.
+#### [Madonna - Vogue](https://www.youtube.com/watch?v=GuJQSAiODqI)
+Lanzado como single el 16 de junio de 1990, 'Vogue' es un himno dance que rinde homenaje a la cultura ballroom y el estilo de baile nacido en Harlem. La canción se convirtió en un éxito mundial caracterizado por su ritmo house y el icónico rap que enumera estrellas de Hollywood clásicas.
 
