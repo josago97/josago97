@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de junio de 1970, se publicó el RFC 261 que definió el Protocolo de Inicio de Sesión (LOGIN), un precursor fundamental para el desarrollo de protocolos de red y comunicación que sentó las bases para el acceso remoto.
+El 20 de junio de 1997, la versión 1.0 del entorno de escritorio KDE fue lanzada, marcando un hito crucial para ofrecer una interfaz gráfica de usuario libre y amigable para los sistemas operativos basados en Unix.
 
 ## El temazo de hoy
-#### [Paula Abdul - Straight Up](https://www.youtube.com/watch?v=El1kgCqD7Xk)
-Este éxito de 1988 se convirtió en el primer número uno de Paula Abdul en el Billboard Hot 100. La canción, con su contagioso ritmo pop y coreografía icónica, consolidó su carrera como solista después de su trabajo como coreógrafa.
+#### [Lionel Richie - All Night Long (All Night)](https://www.youtube.com/watch?v=nqAvFx3NxUM)
+Este éxito icónico de 1983 se convirtió en un himno universal de celebración y fiesta. Con su irresistible ritmo caribeño y coros contagiosos, la canción captura perfectamente el espíritu alegre y despreocupado de los 80s.
 
