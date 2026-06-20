@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de junio de 1997, la versión 1.0 del entorno de escritorio KDE fue lanzada, marcando un hito crucial para ofrecer una interfaz gráfica de usuario libre y amigable para los sistemas operativos basados en Unix.
+El 21 de junio de 1970, la Oficina de Patentes de EE. UU. otorgó la patente No. 3,511,561 para un "sistema de memoria de transición de datos de múltiples campos", que es uno de los primeros y más fundamentales algoritmos de ordenación por mezcla natural para bases de datos.
 
 ## El temazo de hoy
-#### [Lionel Richie - All Night Long (All Night)](https://www.youtube.com/watch?v=nqAvFx3NxUM)
-Este éxito icónico de 1983 se convirtió en un himno universal de celebración y fiesta. Con su irresistible ritmo caribeño y coros contagiosos, la canción captura perfectamente el espíritu alegre y despreocupado de los 80s.
+#### [Eurythmics - Sweet Dreams (Are Made of This)](https://www.youtube.com/watch?v=qeMFqkcPYcg)
+Este icónico tema de synth-pop de 1983 se convirtió en himno generacional con su inconfundible sintetizador y la poderosa voz de Annie Lennox. La canción explora temas sobre la naturaleza de los sueños humanos y las ambiciones, con una estética visual vanguardista que definió la era new wave.
 
