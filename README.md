@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 21 de junio de 1970, la Oficina de Patentes de EE. UU. otorgó la patente No. 3,511,561 para un "sistema de memoria de transición de datos de múltiples campos", que es uno de los primeros y más fundamentales algoritmos de ordenación por mezcla natural para bases de datos.
+El 22 de junio de 1948, la Universidad de Mánchester ejecutó el primer programa almacenado electrónicamente en la computadora SSEM (Small-Scale Experimental Machine), popularmente conocida como 'Baby', marcando el nacimiento del software.
 
 ## El temazo de hoy
-#### [Eurythmics - Sweet Dreams (Are Made of This)](https://www.youtube.com/watch?v=qeMFqkcPYcg)
-Este icónico tema de synth-pop de 1983 se convirtió en himno generacional con su inconfundible sintetizador y la poderosa voz de Annie Lennox. La canción explora temas sobre la naturaleza de los sueños humanos y las ambiciones, con una estética visual vanguardista que definió la era new wave.
+#### [Wham! - The Edge of Heaven](https://www.youtube.com/watch?v=cCqEyJc-wdk)
+Publicado como el último single de la banda antes de su separación, este tema combina el característico pop brillante de Wham! con letras que exploran temas de amor y pérdida. La canción alcanzó el número 1 en el Reino Unido y se convirtió en un emblemático cierre de la carrera del dúo británico.
 
