@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de junio de 1961, se ratificó el Convenio de Estrasburgo, que estableció la Clasificación Internacional de Patentes, un sistema fundamental para organizar y buscar información tecnológica, incluido el software.
+El 24 de junio de 1997, la USENIX Association lanzó la primera versión del sistema operativo de código abierto OpenBSD 2.1, conocido por su énfasis en la seguridad y la criptografía.
 
 ## El temazo de hoy
-#### [Madonna - Vogue](https://www.youtube.com/watch?v=GuJQSAiODqI)
-Publicado como single el 23 de junio de 1990, 'Vogue' es uno de los mayores éxitos de Madonna que popularizó el baile del voguing originario de la cultura ballroom neoyorquina. La canción combina un ritmo disco elegante con letras que celebran la moda, el estilo y la actitud, convirtiéndose en un himno atemporal de empoderamiento y expresión personal.
+#### [The Corrs - Breathless](https://www.youtube.com/watch?v=-e_IuYgvdf8)
+Este éxito de 2000 combina el pop rock característico de The Corrs con un toque de folk irlandés. La canción se convirtió en un hit internacional gracias a su melodía pegadiza y la voz de Andrea Corr, siendo uno de los mayores éxitos de la banda.
 
