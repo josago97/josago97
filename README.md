@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 24 de junio de 1997, la USENIX Association lanzó la primera versión del sistema operativo de código abierto OpenBSD 2.1, conocido por su énfasis en la seguridad y la criptografía.
+El 25 de junio de 1998, Microsoft lanzó Windows 98, un sistema operativo que popularizó la integración del navegador Internet Explorer directamente en el escritorio.
 
 ## El temazo de hoy
-#### [The Corrs - Breathless](https://www.youtube.com/watch?v=-e_IuYgvdf8)
-Este éxito de 2000 combina el pop rock característico de The Corrs con un toque de folk irlandés. La canción se convirtió en un hit internacional gracias a su melodía pegadiza y la voz de Andrea Corr, siendo uno de los mayores éxitos de la banda.
+#### [Michael Jackson - You Are Not Alone](https://www.youtube.com/watch?v=pAyKJAtDNCw)
+Lanzado el 25 de junio de 1995, este tema se convirtió en el primer single en la historia en debutar directamente en el número uno del Billboard Hot 100. Una poderosa balada R&B que muestra el lado más vulnerable de Jackson, con una emotiva interpretación vocal que transmite consuelo y esperanza.
 
