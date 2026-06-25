@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 25 de junio de 1998, Microsoft lanzó Windows 98, un sistema operativo que popularizó la integración del navegador Internet Explorer directamente en el escritorio.
+El 26 de junio de 1974, se escaneó por primera vez un código de barras UPC en la venta de un paquete de chicles de la marca Wrigley's en un supermercado de Ohio, un hito fundamental para el desarrollo del software de gestión de inventarios y puntos de venta.
 
 ## El temazo de hoy
-#### [Michael Jackson - You Are Not Alone](https://www.youtube.com/watch?v=pAyKJAtDNCw)
-Lanzado el 25 de junio de 1995, este tema se convirtió en el primer single en la historia en debutar directamente en el número uno del Billboard Hot 100. Una poderosa balada R&B que muestra el lado más vulnerable de Jackson, con una emotiva interpretación vocal que transmite consuelo y esperanza.
+#### [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+Este icónico éxito de 1985, aunque lanzado originalmente antes, tuvo relanzamientos significativos. Combina sintetizadores new wave con la distintiva voz de Morten Harket y revolucionó con su innovador video musical en técnica de rotoscopia. Se convirtió en himno generacional y sigue siendo uno de los sencillos más reconocibles de la década de los 80.
 
