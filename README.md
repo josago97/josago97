@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de junio de 1995, Microsoft publicó la versión beta 1 de Internet Explorer 1.0, marcando el inicio de su entrada en la "Guerra de los Navegadores" contra Netscape.
+El 30 de junio de 1997, el equipo de desarrollo de GIMP lanzó la versión 1.0 de este editor de imágenes de código abierto, un hito crucial para el software libre.
 
 ## El temazo de hoy
-#### [Christina Aguilera - Come On Over Baby (All I Want Is You)](https://www.youtube.com/watch?v=0RQDIJ2CvbA)
-Este éxito del año 2000 consolidó a Christina Aguilera como una fuerza en el pop adolescente. Con su mezcla de pop y R&B, la canción muestra sus poderosas vocales y se convirtió en su tercer número uno en el Billboard Hot 100.
+#### [Limp Bizkit - Rollin' (Air Raid Vehicle)](https://www.youtube.com/watch?v=RYnFIRc0k6E)
+Este tema icónico del nu-metal fue lanzado como single el 30 de junio de 2000. Con su riff pesado y la actitud característica de Fred Durst, se convirtió en un himno que definió la escena rock de principios de los 2000 y alcanzó gran éxito internacional.
 
