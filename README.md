@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 30 de junio de 1997, el equipo de desarrollo de GIMP lanzó la versión 1.0 de este editor de imágenes de código abierto, un hito crucial para el software libre.
+El 1 de julio de 1972, se publicó el primer número de la revista "Dr. Dobb's Journal", una publicación pionera dedicada al software y la programación, que comenzó con el código fuente del lenguaje Tiny BASIC.
 
 ## El temazo de hoy
-#### [Limp Bizkit - Rollin' (Air Raid Vehicle)](https://www.youtube.com/watch?v=RYnFIRc0k6E)
-Este tema icónico del nu-metal fue lanzado como single el 30 de junio de 2000. Con su riff pesado y la actitud característica de Fred Durst, se convirtió en un himno que definió la escena rock de principios de los 2000 y alcanzó gran éxito internacional.
+#### [Blur - Song 2](https://www.youtube.com/watch?v=SSbBvKaM6sk)
+Este icónico tema de 1997 se convirtió en un himno del rock alternativo gracias a su riff explosivo y su característico grito de 'Woo-hoo!'.
+A pesar de su brevedad (apenas 2 minutos), la canción logró un impacto masivo siendo usada en películas, videojuegos y eventos deportivos.
 
