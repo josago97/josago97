@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 2 de julio de 1969, IBM anunció que, debido a preocupaciones anti-monopolio, comenzaría a vender software por separado del hardware, un evento crucial que marcó el nacimiento de la industria independiente del software.
+El 3 de julio de 1969, la nave soviética Luna 15, cuyo software de descenso falló, se estrelló en la Luna horas antes de que el Apolo 11 alunizara, en una crucial carrera tecnológica.
 
 ## El temazo de hoy
-#### [Sheryl Crow - All I Wanna Do](https://www.youtube.com/watch?v=ClbmWkbocoY)
-Este éxito de 1994 captura el espíritu despreocupado de un día en un bar de California. La canción combina un pop-rock accesible con letras inteligentes que pintan vívidas imágenes de la vida cotidiana y las relaciones casuales.
+#### [TLC - Waterfalls](https://www.youtube.com/watch?v=8WEtxJ4-sh4)
+Este icónico éxito de TLC, lanzado el 3 de julio de 1995, se convirtió en un himno generacional por su poderoso mensaje social. La canción aborda temas como el tráfico de drogas, el VIH/SIDA y la violencia urbana, combinando R&B con hip-hop en una producción innovadora que definió la era de los 90s.
 
