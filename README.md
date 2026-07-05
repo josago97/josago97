@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 5 de julio de 1996, nació Hotmail, el primer servicio de correo electrónico web gratuito y masivo, fundado por Sabeer Bhatia y Jack Smith, revolucionando la forma de comunicarse en línea.
+El 6 de julio de 1889 se publicó la patente de la máquina tabuladora de Herman Hollerith, el dispositivo de procesamiento de datos que utilizaba tarjetas perforadas y que fue el precursor fundamental de la industria de la computación.
 
 ## El temazo de hoy
-#### [Héroes del Silencio - Maldito duende](https://www.youtube.com/watch?v=SqB4FSettTI)
-Este tema icónico del rock español, publicado el 5 de julio de 1988 como parte de su álbum 'El mar no cesa', se convirtió en uno de los mayores éxitos de la banda. La canción combina potentes guitarras con la característica voz de Enrique Bunbury, creando un himno que refleja el espíritu del rock alternativo de finales de los 80s.
+#### [Jon Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este éxito del año 2000 se convirtió en un himno generacional con su mensaje de autonomía y determinación. Con su potente riff de guitarra y la voz característica de Bon Jovi, la canción sigue siendo un clásico del rock que inspira a vivir la vida sin arrepentimientos.
 
