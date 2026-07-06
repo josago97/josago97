@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de julio de 1889 se publicó la patente de la máquina tabuladora de Herman Hollerith, el dispositivo de procesamiento de datos que utilizaba tarjetas perforadas y que fue el precursor fundamental de la industria de la computación.
+El 7 de julio de 1981, Microsoft Inc. se reorganizó oficialmente y se incorporó en el estado de Washington, un paso crucial que sentó las bases legales y estructurales para su dominio futuro en la industria del software.
 
 ## El temazo de hoy
-#### [Jon Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este éxito del año 2000 se convirtió en un himno generacional con su mensaje de autonomía y determinación. Con su potente riff de guitarra y la voz característica de Bon Jovi, la canción sigue siendo un clásico del rock que inspira a vivir la vida sin arrepentimientos.
+#### [A-Ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
+Este icónico hit de 1985 combina sintetizadores new wave con la distintiva voz falsete de Morten Harket. Es especialmente recordado por su innovador video musical que mezclaba animación rotoscópica con acción real, convirtiéndose en un símbolo de los 80s.
 
