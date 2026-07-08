@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-La programadora Grace Hopper, pionera en computación, registró el primer bug de la historia el 9 de septiembre de 1947, no el 8 de julio. Para esta fecha, no hay un hito de software ampliamente documentado.
+El 9 de julio de 1997, la FSF publicó la primera versión de la Licencia Pública General de Affero (AGPL), diseñada específicamente para garantizar que las modificaciones de software libre utilizadas en servicios de red también se liberen a la comunidad.
 
 ## El temazo de hoy
-#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
-Lanzada como segundo single de su álbum 'True Blue', esta canción causó controversia por abordar el tema del embarazo adolescente. Con su potente mensaje y el característico estilo pop de los 80s, se convirtió en uno de los éxitos más icónicos de Madonna y en un himno de emancipación femenina.
+#### [Limp Bizkit - Nookie](https://www.youtube.com/watch?v=JTMVOzPPtiw)
+Este éxito de 1999 se convirtió en un himno del nu-metal con su riff característico y letras controvertidas. La canción reflejaba el estilo rebelde de la banda y se mantuvo como uno de sus mayores éxitos, definiendo el sonido del rock a finales de los 90.
 
