@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de julio de 1997, la FSF publicó la primera versión de la Licencia Pública General de Affero (AGPL), diseñada específicamente para garantizar que las modificaciones de software libre utilizadas en servicios de red también se liberen a la comunidad.
+El 10 de julio de 1962, AT&T lanzó el primer satélite de comunicaciones activo, Telstar 1, cuyo exitoso funcionamiento fue controlado por software pionero, demostrando por primera vez la transmisión transatlántica de señales de televisión.
 
 ## El temazo de hoy
-#### [Limp Bizkit - Nookie](https://www.youtube.com/watch?v=JTMVOzPPtiw)
-Este éxito de 1999 se convirtió en un himno del nu-metal con su riff característico y letras controvertidas. La canción reflejaba el estilo rebelde de la banda y se mantuvo como uno de sus mayores éxitos, definiendo el sonido del rock a finales de los 90.
+#### [Limp Bizkit - Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)
+Este emblemático tema del nu-metal fue lanzado como single el 10 de julio de 2000. Caracterizado por su agresiva energía y riff contundente, se convirtió en un himno de frustración generacional y una de las canciones más representativas del rock de principios de los 2000.
 
