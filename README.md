@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 10 de julio de 1962, AT&T lanzó el primer satélite de comunicaciones activo, Telstar 1, cuyo exitoso funcionamiento fue controlado por software pionero, demostrando por primera vez la transmisión transatlántica de señales de televisión.
+El 11 de julio de 2000, se lanzó la versión 1.0 beta del navegador web Firefox, entonces llamado Phoenix, marcando el inicio de un competidor de código abierto a Internet Explorer.
 
 ## El temazo de hoy
-#### [Limp Bizkit - Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)
-Este emblemático tema del nu-metal fue lanzado como single el 10 de julio de 2000. Caracterizado por su agresiva energía y riff contundente, se convirtió en un himno de frustración generacional y una de las canciones más representativas del rock de principios de los 2000.
+#### [Blur - Girls & Boys](https://www.youtube.com/watch?v=WDswiT87oo8)
+Este éxito de 1994 mezcla ritmos dance con letras que exploran la androginia y las relaciones casuales en la escena de vacaciones europeas. La canción se convirtió en un himno de los 90 y destacó por su bajo pegadizo y la actitud despreocupada que caracterizaba al Britpop.
 
