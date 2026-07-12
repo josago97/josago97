@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 12 de julio de 1984, Mark Gutzmann y Len Wanger desarrollaron el programa "PC-Write", uno de los primeros procesadores de texto shareware, que se distribuyó masivamente a través de BBSs y se convirtió en un éxito comercial.
+El 13 de julio de 2004, después de años de batallas legales, la Unión Europea ordenó a Microsoft desvincular Windows Media Player de su sistema operativo Windows, en una decisión antimonopolio histórica para la industria del software.
 
 ## El temazo de hoy
-#### [Van Halen - Why Can't This Be Love](https://www.youtube.com/watch?v=ybbfEzKfpts)
-Lanzado como el primer sencillo del álbum '5150' en 1986, esta canción marcó la era con Sammy Hagar como vocalista tras la salida de David Lee Roth. Combina el característico sonido rock de Van Halen con elementos más comerciales, incluyendo un icónico sintetizador y potentes riffs de guitarra que la convirtieron en un éxito instantáneo.
+#### [Vanilla Ice - Ice Ice Baby](https://www.youtube.com/watch?v=rog8ou-ZepE)
+Este éxito icónico de 1990 popularizó el hip hop en la cultura mainstream. Destaca por su inconfundible base sampleada de 'Under Pressure' de Queen y David Bowie, y se convirtió en el primer tema de rap en llegar al número 1 en el Billboard Hot 100.
 
