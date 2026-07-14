@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 14 de julio de 1960, surge COBOL (Common Business-Oriented Language), cuando un comité se reúne para crear el primer estándar del lenguaje de programación diseñado para ser legible por humanos y negocios.
+El 15 de julio de 2002, la Free Software Foundation lanzó oficialmente la versión 3 de la Licencia Pública General de GNU (GPLv3), una de las licencias de software libre más influyentes del mundo.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Este icónico tema de Madonna fue lanzado como single el 14 de julio de 1989. La canción combinaba elementos pop con coros gospel y letras que exploraban temas espirituales y sensuales, generando tanto elogios de la crítica como controversia por su videoclip provocativo.
+#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
+Lanzada el 15 de julio de 1984, este icónico tema de Madonna se convirtió en un himno de la década. La canción, con su provocativo mensaje y ritmo dance, catapultó a la artista al estrellato mundial y definió la era del pop de los 80s.
 
