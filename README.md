@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 15 de julio de 2002, la Free Software Foundation lanzó oficialmente la versión 3 de la Licencia Pública General de GNU (GPLv3), una de las licencias de software libre más influyentes del mundo.
+El 16 de julio de 1945, durante las pruebas del Proyecto Manhattan, la programadora Kay McNulty y su equipo utilizaron las primeras computadoras electrónicas, los ENIAC, para realizar cálculos complejos esenciales para la detonación de la primera bomba atómica, la "Prueba Trinity".
 
 ## El temazo de hoy
-#### [Madonna - Like a Virgin](https://www.youtube.com/watch?v=s__rX_WL100)
-Lanzada el 15 de julio de 1984, este icónico tema de Madonna se convirtió en un himno de la década. La canción, con su provocativo mensaje y ritmo dance, catapultó a la artista al estrellato mundial y definió la era del pop de los 80s.
+#### [Mariah Carey - Heartbreaker](https://www.youtube.com/watch?v=kMCGvtlL4fw)
+Lanzado en 1999, este tema fusiona pop y R&B con el característico estilo vocal de Mariah. Se convirtió en un éxito mundial y muestra su habilidad para crear hooks irresistibles y colaboraciones con raperos, en este caso con Jay-Z.
 
