@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 16 de julio de 1945, durante las pruebas del Proyecto Manhattan, la programadora Kay McNulty y su equipo utilizaron las primeras computadoras electrónicas, los ENIAC, para realizar cálculos complejos esenciales para la detonación de la primera bomba atómica, la "Prueba Trinity".
+El 17 de julio de 1975, Bill Gates publicó su "Carta Abierta a los Aficionados", acusando a la comunidad de crear y compartir software sin pagar, un momento fundamental para el inicio de la comercialización del software.
 
 ## El temazo de hoy
-#### [Mariah Carey - Heartbreaker](https://www.youtube.com/watch?v=kMCGvtlL4fw)
-Lanzado en 1999, este tema fusiona pop y R&B con el característico estilo vocal de Mariah. Se convirtió en un éxito mundial y muestra su habilidad para crear hooks irresistibles y colaboraciones con raperos, en este caso con Jay-Z.
+#### [Spice Girls - Wannabe](https://www.youtube.com/watch?v=gJLIiF15wjQ)
+Este icónico debut de las Spice Girls, lanzado el 17 de julio de 1996, se convirtió en un himno generacional con su mensaje de 'amistad antes que el romance'. Con su estribillo contagioso y actitud desenfadada, la canción llegó al número uno en 37 países y definió la era del 'Girl Power' en los 90s.
 
