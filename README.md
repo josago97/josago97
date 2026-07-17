@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 17 de julio de 1975, Bill Gates publicó su "Carta Abierta a los Aficionados", acusando a la comunidad de crear y compartir software sin pagar, un momento fundamental para el inicio de la comercialización del software.
+El 18 de julio de 1968, Gordon Moore y Robert Noyce fundaron Intel, empresa que se convertiría en el fabricante dominante de microprocesadores y un pilar fundamental de la industria del software.
 
 ## El temazo de hoy
-#### [Spice Girls - Wannabe](https://www.youtube.com/watch?v=gJLIiF15wjQ)
-Este icónico debut de las Spice Girls, lanzado el 17 de julio de 1996, se convirtió en un himno generacional con su mensaje de 'amistad antes que el romance'. Con su estribillo contagioso y actitud desenfadada, la canción llegó al número uno en 37 países y definió la era del 'Girl Power' en los 90s.
+#### [Madonna - Material Girl](https://www.youtube.com/watch?v=6p-lDYPR2P8)
+Este icónico éxito de 1985 se convirtió en himno de una era, criticando sutilmente el materialismo mientras Madonna consolidaba su imagen como estrella del pop. La canción, con su irresistible ritmo y memorable videoclip inspirado en 'Gentlemen Prefer Blondes', sigue siendo un símbolo perdurable de los años 80.
 
