@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 18 de julio de 1968, Gordon Moore y Robert Noyce fundaron Intel, empresa que se convertiría en el fabricante dominante de microprocesadores y un pilar fundamental de la industria del software.
+El 19 de julio de 1983 se reveló públicamente el primer virus informático para PC, creado por el estudiante Fred Cohen como un experimento, sentando las bases de la ciberseguridad moderna.
 
 ## El temazo de hoy
-#### [Madonna - Material Girl](https://www.youtube.com/watch?v=6p-lDYPR2P8)
-Este icónico éxito de 1985 se convirtió en himno de una era, criticando sutilmente el materialismo mientras Madonna consolidaba su imagen como estrella del pop. La canción, con su irresistible ritmo y memorable videoclip inspirado en 'Gentlemen Prefer Blondes', sigue siendo un símbolo perdurable de los años 80.
+#### [Jon Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
+Este emblemático tema de Bon Jovi se convirtió en un himno generacional sobre la autenticidad y vivir la vida en sus propios términos. Lanzado el 19 de julio de 2000, combinó el rock característico de la banda con elementos modernos que la reconectaron con nuevas audiencias, vendiendo más de 10 millones de copias mundialmente.
 
