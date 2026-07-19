@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 19 de julio de 1983 se reveló públicamente el primer virus informático para PC, creado por el estudiante Fred Cohen como un experimento, sentando las bases de la ciberseguridad moderna.
+El 20 de julio de 1969, el software del Apollo Guidance Computer (AGC) jugó un papel crucial, gestionando el aterrizaje lunar del módulo Eagle y resolviendo la alarma 1202 justo antes del alunizaje.
 
 ## El temazo de hoy
-#### [Jon Bon Jovi - It's My Life](https://www.youtube.com/watch?v=vx2u5uUu3DE)
-Este emblemático tema de Bon Jovi se convirtió en un himno generacional sobre la autenticidad y vivir la vida en sus propios términos. Lanzado el 19 de julio de 2000, combinó el rock característico de la banda con elementos modernos que la reconectaron con nuevas audiencias, vendiendo más de 10 millones de copias mundialmente.
+#### [Santana - Smooth](https://www.youtube.com/watch?v=6Whgn_iE5uc)
+Este éxito icónico de 1999 con Rob Thomas de Matchbox Twenty como vocalista, fusiona rock latino con sonidos pop. Ganó tres Premios Grammy, incluidos Grabación del Año y Canción del Año, convirtiéndose en uno de los sencillos más exitosos de todos los tiempos.
 
