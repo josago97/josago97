@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 20 de julio de 1969, el software del Apollo Guidance Computer (AGC) jugó un papel crucial, gestionando el aterrizaje lunar del módulo Eagle y resolviendo la alarma 1202 justo antes del alunizaje.
+El 21 de julio de 1983 se publicó el primer anuncio de Adobe, presentando el lenguaje PostScript, que revolucionó la impresión digital y la tipografía.
 
 ## El temazo de hoy
-#### [Santana - Smooth](https://www.youtube.com/watch?v=6Whgn_iE5uc)
-Este éxito icónico de 1999 con Rob Thomas de Matchbox Twenty como vocalista, fusiona rock latino con sonidos pop. Ganó tres Premios Grammy, incluidos Grabación del Año y Canción del Año, convirtiéndose en uno de los sencillos más exitosos de todos los tiempos.
+#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
+Lanzado el 21 de julio de 1986, este icónico tema de Madonna aborda el controvertido tema del embarazo adolescente desde la perspectiva de una joven que decide tener a su bebé. La canción combinó pop con elementos de rock y generó debates sociales, convirtiéndose en uno de los hits más emblemáticos de los 80s.
 
