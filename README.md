@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 21 de julio de 1983 se publicó el primer anuncio de Adobe, presentando el lenguaje PostScript, que revolucionó la impresión digital y la tipografía.
+El 22 de julio de 1969, Margaret Hamilton y su equipo en el MIT salvaron el alunizaje del Apolo 11 al solucionar un error de prioridad en el software del sistema de guía durante el descenso.
 
 ## El temazo de hoy
-#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
-Lanzado el 21 de julio de 1986, este icónico tema de Madonna aborda el controvertido tema del embarazo adolescente desde la perspectiva de una joven que decide tener a su bebé. La canción combinó pop con elementos de rock y generó debates sociales, convirtiéndose en uno de los hits más emblemáticos de los 80s.
+#### [David Bowie - Absolute Beginners](https://www.youtube.com/watch?v=iCJLOXqnT2I)
+Publicada como single principal de la banda sonora de la película homónima de 1986, 'Absolute Beginners' es una poderosa balada soul que muestra el lado más melódico de Bowie. La canción se convirtió en uno de sus mayores éxitos en el Reino Unido, llegando al número 2 en las listas, y destaca por su emotiva interpretación vocal y su producción cinematográfica.
 
