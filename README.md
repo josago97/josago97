@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 22 de julio de 1969, Margaret Hamilton y su equipo en el MIT salvaron el alunizaje del Apolo 11 al solucionar un error de prioridad en el software del sistema de guía durante el descenso.
+El 23 de julio de 1983, el FCC aprobó el estándar de televisión NTSC, que por primera vez incluyó la especificación para el teletexto, un sistema primitivo que permitía la transmisión de datos y software básico a través de la señal de televisión analógica.
 
 ## El temazo de hoy
-#### [David Bowie - Absolute Beginners](https://www.youtube.com/watch?v=iCJLOXqnT2I)
-Publicada como single principal de la banda sonora de la película homónima de 1986, 'Absolute Beginners' es una poderosa balada soul que muestra el lado más melódico de Bowie. La canción se convirtió en uno de sus mayores éxitos en el Reino Unido, llegando al número 2 en las listas, y destaca por su emotiva interpretación vocal y su producción cinematográfica.
+#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
+Lanzado el 23 de julio de 1986, este emblemático single de Madonna aborda el controvertido tema de un embarazo adolescente y la decisión de la protagonista de seguir adelante con él. La canción generó importante debate social y se convirtió en uno de los mayores éxitos de la artista, mostrando su capacidad para combinar pop comercial con temas sociales complejos.
 
