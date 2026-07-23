@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de julio de 1983, el FCC aprobó el estándar de televisión NTSC, que por primera vez incluyó la especificación para el teletexto, un sistema primitivo que permitía la transmisión de datos y software básico a través de la señal de televisión analógica.
+El 24 de julio de 1991, Linus Torvalds hizo una publicación en un foro de Usenet preguntando por estándares POSIX y anunciando que estaba trabajando en un sistema operativo libre, considerado el primer anuncio público de lo que se convertiría en el kernel de Linux.
 
 ## El temazo de hoy
-#### [Madonna - Papa Don't Preach](https://www.youtube.com/watch?v=G333Is7VPOg)
-Lanzado el 23 de julio de 1986, este emblemático single de Madonna aborda el controvertido tema de un embarazo adolescente y la decisión de la protagonista de seguir adelante con él. La canción generó importante debate social y se convirtió en uno de los mayores éxitos de la artista, mostrando su capacidad para combinar pop comercial con temas sociales complejos.
+#### [Backstreet Boys - Quit Playing Games (With My Heart)](https://www.youtube.com/watch?v=Ug88HO2mg44)
+Este éxito de los Backstreet Boys, lanzado como segundo single de su álbum debut, se convirtió en uno de los grandes hits del pop adolescente de los 90. Con su característica armonía vocal y una melodía pegadiza, la canción trata sobre las frustraciones y confusiones emocionales en una relación amorosa.
 
