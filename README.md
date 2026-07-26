@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-En 1956, IBM presentó Fortran (FORmula TRANslation), el primer lenguaje de programación de alto nivel exitoso y ampliamente utilizado, revolucionando el desarrollo de software al permitir escribir instrucciones con una sintaxis más cercana al lenguaje humano que al código máquina.
+El 27 de julio de 1972, Sega lanzó "Pong-Tron", una de las primeras consolas de videojuegos para el hogar, que popularizó el clásico juego de Pong y fue un hito en la comercialización del software de entretenimiento.
 
 ## El temazo de hoy
-#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
-Publicado exactamente el 26 de julio de 2000, este tema se convirtió en un himno dance global que celebra la alegría y el poder unificador de la música. Con su influencia disco y sonidos electrónicos, marcó el exitoso regreso de Madonna al primer plano de la escena musical del nuevo milenio.
+#### [Avril Lavigne - Complicated](https://www.youtube.com/watch?v=5NPBIwQyPWE)
+Este emblemático hit del 2002 se convirtió en el himno del pop punk adolescente y lanzó a Avril Lavigne al estrellato internacional. La canción critica la falsedad y las actitudes pretenciosas, resonando con una generación que buscaba autenticidad en un mundo lleno de pretensiones.
 
