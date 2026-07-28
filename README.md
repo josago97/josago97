@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 28 de julio de 1955, Bill Haley & His Comets' "Rock Around the Clock" se convirtió en la primera canción en ser utilizada como banda sonora de una película (Blackboard Jungle), un hito temprano en la convergencia del software de edición, el cine y la cultura digital.
+El 29 de julio de 2015 se lanzó Windows 10 al mercado, representando un cambio estratégico para Microsoft al ofrecer una actualización gratuita desde Windows 7 y 8.1 para unificar la experiencia en todos los dispositivos.
 
 ## El temazo de hoy
-#### [George Michael - Freedom! '90](https://www.youtube.com/watch?v=diYAc7gB-0A)
-Este icónico himno de George Michael, lanzado el 28 de julio de 1990, representa su lucha por la libertad creativa y personal tras su batalla legal con su discográfica. La canción, con su potente mensaje de autenticidad y liberación, fue acompañada por un innovador video dirigido por David Fincher que featured supermodelos en lugar del propio artista.
+#### [Paula Abdul - Knocked Out](https://www.youtube.com/watch?v=Y3gTLXpXxtk)
+Este single del álbum debut 'Forever Your Girl' combina pop bailable con el new jack swing característico de finales de los 80. Con su energía contagiosa y los característicos pasos de baile de Abdul, la canción ayudó a consolidar su carrera como estrella del pop después de su éxito como coreógrafa.
 
