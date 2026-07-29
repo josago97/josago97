@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 29 de julio de 2015 se lanzó Windows 10 al mercado, representando un cambio estratégico para Microsoft al ofrecer una actualización gratuita desde Windows 7 y 8.1 para unificar la experiencia en todos los dispositivos.
+El 30 de julio de 1992 se liberó la versión 0.13 de Linux, siendo la primera lo suficientemente estable y funcional como para poder ejecutar el entorno gráfico X Window System y el software GNU.
 
 ## El temazo de hoy
-#### [Paula Abdul - Knocked Out](https://www.youtube.com/watch?v=Y3gTLXpXxtk)
-Este single del álbum debut 'Forever Your Girl' combina pop bailable con el new jack swing característico de finales de los 80. Con su energía contagiosa y los característicos pasos de baile de Abdul, la canción ayudó a consolidar su carrera como estrella del pop después de su éxito como coreógrafa.
+#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
+Este tema icónico fue lanzado como parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me' en 1999. Combina el sonido pop característico de Madonna con influencias psicodélicas, convirtiéndose en un éxito global que revitalizó su carrera y demostró su capacidad para reinventarse musicalmente.
 
