@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 30 de julio de 1992 se liberó la versión 0.13 de Linux, siendo la primera lo suficientemente estable y funcional como para poder ejecutar el entorno gráfico X Window System y el software GNU.
+El 31 de julio de 2012, Nokia lanzó públicamente el código fuente del sistema operativo Symbian, tras descontinuar su desarrollo, en un intento final por perpetuarlo como un proyecto de código abierto.
 
 ## El temazo de hoy
-#### [Madonna - Beautiful Stranger](https://www.youtube.com/watch?v=Dsh0TfIKhoE)
-Este tema icónico fue lanzado como parte de la banda sonora de 'Austin Powers: The Spy Who Shagged Me' en 1999. Combina el sonido pop característico de Madonna con influencias psicodélicas, convirtiéndose en un éxito global que revitalizó su carrera y demostró su capacidad para reinventarse musicalmente.
+#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
+Lanzado el 31 de julio de 2000, este éxito electro-pop marcó el regreso de Madonna a sonidos más dance y futuristas. La canción se convirtió en un himno global que celebraba el poder unificador de la música, con una producción vanguardista que influenció la escena musical de la década.
 
