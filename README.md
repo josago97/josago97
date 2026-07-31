@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 31 de julio de 2012, Nokia lanzó públicamente el código fuente del sistema operativo Symbian, tras descontinuar su desarrollo, en un intento final por perpetuarlo como un proyecto de código abierto.
+El 1 de agosto de 1984, la revista BYTE anunció el lanzamiento del IBM PC AT, que introdujo la arquitectura de 16 bits del Intel 80286 y se convirtió en un estándar de la industria.
 
 ## El temazo de hoy
 #### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
-Lanzado el 31 de julio de 2000, este éxito electro-pop marcó el regreso de Madonna a sonidos más dance y futuristas. La canción se convirtió en un himno global que celebraba el poder unificador de la música, con una producción vanguardista que influenció la escena musical de la década.
+Lanzado el 1 de agosto del 2000, este tema se convirtió en un himno dance global que celebraba el poder unificador de la música. Con su sonido electrónico y futurista, la canción marcó la reinvención de Madonna para la nueva década y llegó al número 1 en más de 20 países.
 
