@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 1 de agosto de 1984, la revista BYTE anunció el lanzamiento del IBM PC AT, que introdujo la arquitectura de 16 bits del Intel 80286 y se convirtió en un estándar de la industria.
+El 2 de agosto de 1980, Digital Equipment Corporation lanzó VMS version 2.0 para su computadora VAX-11/780, un sistema operativo fundamental que influyó en el desarrollo de sistemas modernos.
 
 ## El temazo de hoy
-#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
-Lanzado el 1 de agosto del 2000, este tema se convirtió en un himno dance global que celebraba el poder unificador de la música. Con su sonido electrónico y futurista, la canción marcó la reinvención de Madonna para la nueva década y llegó al número 1 en más de 20 países.
+#### [R.E.M. - The Sidewinder Sleeps Tonite](https://www.youtube.com/watch?v=mgiCechWNCo)
+Este tema de su álbum 'Automatic for the People' (1992) muestra el característico sonido alternativo de la banda con letras enigmáticas. El título juega con el clásico 'The Lion Sleeps Tonight' y fue lanzado como single el 2 de agosto de 1993.
 
