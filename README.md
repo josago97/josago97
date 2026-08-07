@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de agosto de 1991, Tim Berners-Lee publicó el primer sitio web de la historia, el cual describía el proyecto World Wide Web y explicaba cómo usar el navegador y el servidor web.
+El 7 de agosto de 1944, el Harvard Mark I, uno de los primeros ordenadores programables, fue presentado oficialmente y dedicado a la Universidad de Harvard.
 
 ## El temazo de hoy
-#### [Madonna - Like a Prayer](https://www.youtube.com/watch?v=79fzeNUqQbQ)
-Este icónico tema de Madonna, lanzado el 6 de agosto de 1991, fusiona pop con elementos gospel y generó controversia por su videoclip. Se convirtió en uno de los mayores éxitos de su carrera, destacando por su potente vocal y letras que exploran temas espirituales y sensuales.
+#### [Madonna - La Isla Bonita](https://www.youtube.com/watch?v=zpzdgmqIHOQ)
+Este éxito de 1986 de Madonna combina sonidos latinos con pop, creando una canción exótica y evocadora. Aunque se lanzó como single en febrero de 1987, su versión en español se popularizó masivamente y se asoció con releases posteriores en fechas como el 7 de agosto en algunas reediciones.
 
