@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 9 de agosto de 1995, Netscape Communications Corporation realizó su Oferta Pública Inicial (IPO), un evento que no solo fue un éxito financiero abrumador sino que también marcó el comienzo de la era comercial de Internet y desató la fiebre de las "puntocom".
+El 10 de agosto de 1995, Microsoft lanzó Internet Explorer 1.0 como parte del paquete Microsoft Plus! para Windows 95, iniciando su entrada en la "Guerra de los Navegadores".
 
 ## El temazo de hoy
-#### [Whitney Houston - I Wanna Dance with Somebody (Who Loves Me)](https://www.youtube.com/watch?v=eH3giaIzONA)
-Este icónico tema de 1987 se convirtió en uno de los mayores éxitos de Whitney Houston, capturando la esencia alegre y optimista de los 80s. Con su irresistible ritmo disco-pop y los poderosos vocales característicos de Houston, la canción habla sobre la búsqueda de conexión y amor a través de la música y el baile.
+#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
+Este tema icónico de Madonna, lanzado el 10 de agosto de 2000, se convirtió en un himno global que celebraba la alegría y el poder unificador de la música. Con su fusión de sonidos disco y electrónicos, marcó una nueva era en la carrera de la artista y dominó las listas de éxitos internacionales.
 
