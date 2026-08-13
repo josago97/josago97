@@ -11,7 +11,7 @@ internal class Program
     private const string HISTORICAL_EVENT_KEY = "<HISTORICAL_EVENT>";
     private const string SONG_KEY = "<SONG>";
 
-    private static Deepseek _deepseek = new Deepseek();
+    private static Model _model = new Model();
 
     static async Task Main(string[] args)
     {
@@ -41,7 +41,7 @@ internal class Program
             En dos líneas dime solamente un hecho histórico sobre la programación y el software que haya sucedido en un día como {today}.
             Dame solamente el hecho, sin saludos ni despedidas.
         """;
-        string historicalEvent = await _deepseek.SendMessageAsync(request);
+        string historicalEvent = await _model.SendMessageAsync(request);
 
         return historicalEvent;
     }
@@ -56,7 +56,7 @@ internal class Program
             El último campo llamado description en el cual hablas en castellano sobre la canción en dos líneas.
         """;
 
-        string response = await _deepseek.SendMessageAsync(request);
+        string response = await _model.SendMessageAsync(request);
         string json = ExtractJson(response);
         Song song = JsonSerializer.Deserialize<Song>(json, JsonSerializerOptions.Web);
 

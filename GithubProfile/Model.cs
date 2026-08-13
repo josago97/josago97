@@ -4,14 +4,14 @@ using OpenAI.Chat;
 
 namespace GithubProfile;
 
-internal class Deepseek
+internal class Model
 {
     private const string BASE_URL = "https://openrouter.ai/api/v1/";
-    private const string MODEL = "deepseek/deepseek-chat-v3.1";
+    private const string MODEL = "nemotron-3-ultra-550b-a55b:free";
 
     private ChatClient _chatClient;
 
-    public Deepseek()
+    public Model()
     {
         _chatClient = new ChatClient(MODEL,
             new ApiKeyCredential(Constants.OpenRouterApiKey),
