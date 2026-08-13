@@ -22,14 +22,14 @@ jobs:
           sudo dpkg-reconfigure -f noninteractive tzdata
     
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           persist-credentials: true  # Necessary to be able to do push
 
       - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+        uses: actions/setup-dotnet@v6
         with:
-          dotnet-version: '9.0.x'
+          dotnet-version: '10.0.x'
 
       - name: Run updater with retry
         uses: nick-fields/retry@v3
