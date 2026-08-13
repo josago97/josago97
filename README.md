@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 11 de agosto de 1981, IBM presentó su primera computadora personal (IBM PC 5150), un hito que popularizó la arquitectura de hardware abierto y allanó el camino para el dominio del software de Microsoft, cuyo MS-DOS se convirtió en el sistema operativo estándar para la plataforma.
+El 13 de agosto de 1995, Microsoft lanzó oficialmente Internet Explorer 1.0 como parte del complemento Windows 95 Plus!, marcando su entrada competitiva en la guerra de navegadores.  
+Este lanzamiento inició la estrategia de integración del navegador en el sistema operativo que llevaría a la famosa demanda antimonopolio contra la empresa.
 
 ## El temazo de hoy
-#### [Madonna - Music](https://www.youtube.com/watch?v=Sdz2oW0NMFk)
-Este tema icónico de Madonna, lanzado el 11 de agosto de 2000, se convirtió en un himno dance global que celebraba la alegría y unión a través de la música. Con su producción electrónica innovadora y letras contagiosas, consolidó el reinado de la artista en la nueva década y demostró su capacidad para evolucionar con las tendencias musicales.
+#### [Los del Río - Macarena (Bayside Boys Mix)](https://www.youtube.com/watch?v=zWaymcVmJ-A)
+Este tema se convirtió en un fenómeno global en 1996 gracias a su coreografía inseparable y su ritmo flamenco-pop pegadizo. Alcanzó el número uno en 15 países y permanece como el himno definitivo de las fiestas y bodas.
 
