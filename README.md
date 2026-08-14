@@ -1,8 +1,9 @@
 ## El evento histórico de hoy
-El 13 de agosto de 1995, Microsoft lanzó oficialmente Internet Explorer 1.0 como parte del complemento Windows 95 Plus!, marcando su entrada competitiva en la guerra de navegadores.  
-Este lanzamiento inició la estrategia de integración del navegador en el sistema operativo que llevaría a la famosa demanda antimonopolio contra la empresa.
+El 14 de agosto de 2011 se lanzó la primera versión estable del núcleo Linux 3.0, marcando un hito en la evolución del sistema operativo de código abierto.  
+Este lanzamiento introdujo mejoras significativas en la gestión de dispositivos y la estabilidad del kernel.
 
 ## El temazo de hoy
-#### [Los del Río - Macarena (Bayside Boys Mix)](https://www.youtube.com/watch?v=zWaymcVmJ-A)
-Este tema se convirtió en un fenómeno global en 1996 gracias a su coreografía inseparable y su ritmo flamenco-pop pegadizo. Alcanzó el número uno en 15 países y permanece como el himno definitivo de las fiestas y bodas.
+#### [Backstreet Boys - I Want It That Way](https://www.youtube.com/watch?v=4fndeDfaWCg)
+Una balada pop que se convirtió en himno de la juventud de los 90.
+Su melodía pegajosa y letras románticas siguen resonando en conciertos y playlists.
 
