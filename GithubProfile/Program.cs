@@ -38,9 +38,10 @@ internal class Program
     private static async Task<string> GetHistoricalEventAsync(string today)
     {
         string request = $"""
-            En dos líneas dime solamente un hecho histórico sobre la programación y el software que haya sucedido en un día como {today}.
-            Dame solamente el hecho, sin saludos ni despedidas.
+        En dos líneas dime solamente un hecho histórico sobre la programación y el software que haya sucedido en un día como {today}.
+        Dame solamente el hecho, sin saludos ni despedidas.
         """;
+
         string historicalEvent = await _model.SendMessageAsync(request);
 
         return historicalEvent;
@@ -49,11 +50,11 @@ internal class Program
     private static async Task<Song> GetSongAsync(string today)
     {
         string request = $"""
-            Elige un single hit clásico de los 80s, 90s o 00s que se haya publicado en un {today}. 
-            Me vas a dar como respuesta un json que incluye varios campos.
-            Un campo llamado author que tenga el nombre del artista. 
-            Otro campo llamado title que tenga el nombre de la canción.
-            El último campo llamado description en el cual hablas en castellano sobre la canción en dos líneas.
+        Elige un single hit clásico de los 80s, 90s o 00s que se haya publicado en un {today}. 
+        Me vas a dar como respuesta un json que incluye varios campos.
+        Un campo llamado author que tenga el nombre del artista. 
+        Otro campo llamado title que tenga el nombre de la canción.
+        El último campo llamado description en el cual hablas en castellano sobre la canción en dos líneas.
         """;
 
         string response = await _model.SendMessageAsync(request);
