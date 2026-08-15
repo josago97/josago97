@@ -6,6 +6,7 @@ public static class Constants
 
     static Constants()
     {
-        OpenRouterApiKey = Environment.GetEnvironmentVariable("OPEN_ROUTER_API_KEY");
+        OpenRouterApiKey = Environment.GetEnvironmentVariable("OPEN_ROUTER_API_KEY")
+            ?? throw new InvalidOperationException("OPEN_ROUTER_API_KEY no está definida");
     }
 }

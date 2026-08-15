@@ -17,7 +17,8 @@ internal class Model
             new ApiKeyCredential(Constants.OpenRouterApiKey),
             new OpenAIClientOptions()
             {
-                Endpoint = new Uri(BASE_URL)
+                Endpoint = new Uri(BASE_URL),
+                NetworkTimeout = TimeSpan.FromMinutes(10)
             }
         );
     }
