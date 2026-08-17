@@ -1,9 +1,9 @@
 ## El evento histórico de hoy
-17 de agosto de 1972: Dennis Ritchie lanzó la primera versión del lenguaje de programación C en Bell Labs.  
-Este hito sentó las bases de la programación moderna y de sistemas operativos como Unix.
+El 18 de agosto de 2018 se lanzó Go 1.12, la primera versión con soporte de módulos.  
+Esta actualización introdujo mejoras significativas en el rendimiento del compilador y la gestión de dependencias.
 
 ## El temazo de hoy
 #### [Huey Lewis and the News - The Power of Love](https://www.youtube.com/watch?v=wBl2QGAIx1s)
-Una canción que combina el pop rock con un mensaje de amor y energía.
-Se convirtió en un himno de los 80 y sigue siendo un clásico atemporal.
+Esta canción se convirtió en un himno de la década de los 80, combinando rock y pop con un mensaje de amor y esperanza.
+Su ritmo pegajoso y la voz característica de Huey Lewis la hicieron un éxito mundial.
 
