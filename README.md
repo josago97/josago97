@@ -1,9 +1,8 @@
 ## El evento histórico de hoy
-El 22 de agosto de 1972 se lanzó la primera versión del lenguaje de programación C, creado por Dennis Ritchie en los Laboratorios Bell.  
-Esta versión sentó las bases de la programación moderna y se convirtió en la base de muchos sistemas operativos.
+El 25 de agosto de 1991, Linus Torvalds anunció públicamente su proyecto de kernel gratuito para sistemas tipo UNIX (posteriormente Linux) en el grupo de noticias comp.os.minix.  
+El 25 de agosto de 2003, se lanzó la versión 1.0 del lenguaje de programación Ruby on Rails, revolucionando el desarrollo web con su filosofía de "convención sobre configuración".
 
 ## El temazo de hoy
-#### [Backstreet Boys - I Want It That Way](https://www.youtube.com/watch?v=4fndeDfaWCg)
-Una balada pop que se convirtió en himno de la juventud de los 90.
-Su melodía pegajosa y letras románticas siguen resonando en conciertos y playlists.
+#### [Technotronic - Pump Up the Jam](https://www.youtube.com/watch?v=9EcjWd-O4jI)
+Publicado el 25 de agosto de 1989, este tema se convirtió en el himno definitivo de la música house y eurodance, liderando las listas de medio mundo. Su inconfundible riff de sintetizador y la energía de Felly Kilingi marcaron a toda una generación en las pistas de baile.
 
