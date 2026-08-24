@@ -7,7 +7,7 @@ namespace GithubProfile;
 internal class Model
 {
     private const string BASE_URL = "https://openrouter.ai/api/v1/";
-    private const string MODEL = "gpt-oss-20b:free";
+    private const string MODEL = "nemotron-3-ultra-550b-a55b:free";
 
     private ChatClient _chatClient;
 
