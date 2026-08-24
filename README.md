@@ -1,6 +1,6 @@
 ## El evento histórico de hoy
-El 14 de agosto de 2011 se lanzó la primera versión estable del núcleo Linux 3.0, marcando un hito en la evolución del sistema operativo de código abierto.  
-Este lanzamiento introdujo mejoras significativas en la gestión de dispositivos y la estabilidad del kernel.
+El 22 de agosto de 1972 se lanzó la primera versión del lenguaje de programación C, creado por Dennis Ritchie en los Laboratorios Bell.  
+Esta versión sentó las bases de la programación moderna y se convirtió en la base de muchos sistemas operativos.
 
 ## El temazo de hoy
 #### [Backstreet Boys - I Want It That Way](https://www.youtube.com/watch?v=4fndeDfaWCg)
