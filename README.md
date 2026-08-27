@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 26 de agosto de 1991, Linus Torvalds anunció públicamente su nuevo proyecto de kernel "Linux" en el grupo de noticias Usenet comp.os.minix.  
-Esta publicación marcó el inicio oficial del desarrollo colaborativo del sistema operativo de código abierto más influyente de la historia.
+El 27 de agosto de 1997, Linus Torvalds anunció la versión 2.1.0 del kernel de Linux, marcando el inicio de la rama de desarrollo que llevaría a la estable serie 2.2 con soporte SMP mejorado.  
+Ese mismo día en 2003, se lanzó la versión 1.5 de Mozilla Firefox (entonces Firebird), introduciendo mejoras significativas en renderizado y estabilidad frente a su predecesor.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Este himno del hard rock destaca por el icónico riff inicial de Slash y la voz inconfundible de Axl Rose, convirtiéndose en el único número uno de la banda en EE. UU. Su vídeo, grabado en ensayo, capturó la energía cruda del grupo y definió la estética del rock de finales de los 80.
+#### [The Beatles - Hey Jude](https://www.youtube.com/watch?v=mQER0A0ej0M)
+Publicado el 27 de agosto de 1968, este himno compuesto por Paul McCartney se convirtió en el sencillo más vendido de la banda y en un clásico atemporal por su emotivo final coral. Con más de siete minutos de duración, rompió los esquemas de la radio comercial y encabezó las listas de éxitos en todo el mundo.
 
