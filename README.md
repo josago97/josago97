@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 27 de agosto de 1997, Linus Torvalds anunció la versión 2.1.0 del kernel de Linux, marcando el inicio de la rama de desarrollo que llevaría a la estable serie 2.2 con soporte SMP mejorado.  
-Ese mismo día en 2003, se lanzó la versión 1.5 de Mozilla Firefox (entonces Firebird), introduciendo mejoras significativas en renderizado y estabilidad frente a su predecesor.
+El 28 de agosto de 1991, Linus Torvalds anunció públicamente por primera vez su proyecto de kernel "Linux" en el grupo de noticias Usenet comp.os.minix.  
+Este mensaje marcó el nacimiento oficial del desarrollo colaborativo de Linux como software libre.
 
 ## El temazo de hoy
-#### [The Beatles - Hey Jude](https://www.youtube.com/watch?v=mQER0A0ej0M)
-Publicado el 27 de agosto de 1968, este himno compuesto por Paul McCartney se convirtió en el sencillo más vendido de la banda y en un clásico atemporal por su emotivo final coral. Con más de siete minutos de duración, rompió los esquemas de la radio comercial y encabezó las listas de éxitos en todo el mundo.
+#### [Michael Jackson - I Just Can't Stop Loving You](https://www.youtube.com/watch?v=GAmVuYEeSSg)
+Fue el primer sencillo del álbum 'Bad' y llegó al número uno en múltiples países, destacando por su dueto vocal con Siedah Garrett. La balada romántica mostró una faceta más suave y adulta del 'Rey del Pop' tras el fenómeno de 'Thriller'.
 
