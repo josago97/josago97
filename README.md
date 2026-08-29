@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 29 de agosto de 1997, Reed Hastings y Marc Randolph fundaron Netflix como servicio de alquiler de DVD por correo, sentando las bases tecnológicas para el *streaming* moderno.  
-Su arquitectura de recomendación y distribución de contenido transformó la ingeniería de software a gran escala.
+El 30 de agosto de 1984 se lanzó oficialmente el lenguaje **C++** (entonces llamado "C with Classes") por Bjarne Stroustrup en la conferencia USENIX C++, marcando el nacimiento público de uno de los lenguajes más influyentes de la historia.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Publicado en Reino Unido el 29 de agosto de 1988, este himno del hard rock destaca por el icónico riff inicial de Slash y la voz inconfundible de Axl Rose. Se convirtió en el único número uno de la banda en EE. UU., consolidándolos como leyendas de la música de los 80.
+#### [The Rolling Stones - Start Me Up](https://www.youtube.com/watch?v=SGyOaCXr8Lw)
+Publicado el 30 de agosto de 1981, este himno rockero se convirtió en el último gran número uno de la banda en EE. UU. Su inconfundible riff de guitarra de Keith Richards y la energía de Jagger lo consolidaron como un clásico instantáneo de la radio y los estadios.
 
