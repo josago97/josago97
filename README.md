@@ -1,7 +1,9 @@
 ## El evento histórico de hoy
-El 30 de agosto de 1984 se lanzó oficialmente el lenguaje **C++** (entonces llamado "C with Classes") por Bjarne Stroustrup en la conferencia USENIX C++, marcando el nacimiento público de uno de los lenguajes más influyentes de la historia.
+El 31 de agosto de 1997, Microsoft lanzó Internet Explorer 4.0, integrando profundamente el navegador en Windows 95/98 y desatando la "guerra de navegadores" contra Netscape.  
+Esta versión introdujo el motor Trident, Active Desktop y la polémica integración del explorador de archivos con el navegador web.
 
 ## El temazo de hoy
-#### [The Rolling Stones - Start Me Up](https://www.youtube.com/watch?v=SGyOaCXr8Lw)
-Publicado el 30 de agosto de 1981, este himno rockero se convirtió en el último gran número uno de la banda en EE. UU. Su inconfundible riff de guitarra de Keith Richards y la energía de Jagger lo consolidaron como un clásico instantáneo de la radio y los estadios.
+#### [U2 - Where the Streets Have No Name](https://www.youtube.com/watch?v=GzZWSrr5wFI)
+Es un himno emblemático de la banda irlandesa que combina una introducción atmosférica con una energía explosiva, inspirada en la división social de Belfast.
+Lanzada como tercer single de 'The Joshua Tree', alcanzó el top 10 en varios países y su vídeo icónico en una azotea la consolidó como una de las mejores canciones de la historia del rock.
 
