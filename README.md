@@ -1,9 +1,8 @@
 ## El evento histórico de hoy
-El 2 de septiembre de 1995, el programador Brendan Eich anunció públicamente la primera versión de JavaScript (entonces llamado LiveScript) en el newsgroup de Usenet comp.lang.java.
-Este lenguaje, creado en solo 10 días para Netscape Navigator, se convirtió en el estándar universal para la programación del lado del cliente en la web.
+El 3 de septiembre de 1971, se envió el primer correo electrónico entre dos máquinas distintas en la ARPANET por Ray Tomlinson, quien implementó el uso del símbolo «@» para separar el usuario del host.
 
 ## El temazo de hoy
-#### [Prince - Cream](https://www.youtube.com/watch?v=rrbFQEcpJ3A)
-Lanzada el 2 de septiembre de 1991, 'Cream' se convirtió en el quinto y último número uno de Prince en el Billboard Hot 100 estadounidense.
-Su groove funk minimalista, su inconfundible riff de guitarra y su letra sugerente definieron el sonido del álbum 'Diamonds and Pearls'.
+#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
+Es uno de los himnos definitivos del hard rock, famoso por su icónico riff de guitarra inicial de Slash.
+La letra, inspirada en la novia de Axl Rose, Erin Everly, logró el número uno en EE. UU. y consolidó a la banda como estrellas globales.
 
