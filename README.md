@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 3 de septiembre de 1971, se envió el primer correo electrónico entre dos máquinas distintas en la ARPANET por Ray Tomlinson, quien implementó el uso del símbolo «@» para separar el usuario del host.
+El 4 de septiembre de 1998, Larry Page y Sergey Brin fundaron formalmente Google Inc. en un garaje de Menlo Park, California.
+Su motor de búsqueda, basado en el algoritmo PageRank, revolucionó la recuperación de información y la arquitectura de software a gran escala.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Sweet Child o' Mine](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-Es uno de los himnos definitivos del hard rock, famoso por su icónico riff de guitarra inicial de Slash.
-La letra, inspirada en la novia de Axl Rose, Erin Everly, logró el número uno en EE. UU. y consolidó a la banda como estrellas globales.
+#### [Guns N' Roses - Use Your Illusion I & II](https://www.youtube.com/watch?v=h1DN3zhs-eA)
+Aunque técnicamente son dos álbumes lanzados simultáneamente el 4 de septiembre de 1991, marcaron un hito histórico al debutar en el puesto 1 y 2 del Billboard 200. La campaña 'Use Your Illusion' consolidó a la banda como los últimos gigantes del rock de estadio antes de la era grunge.
 
