@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 7 de septiembre de 1995, la empresa Spyglass Inc. hizo su salida a bolsa (IPO) tras licenciar su tecnología Mosaic a Microsoft, la cual renombró como Internet Explorer, desatando la primera "guerra de navegadores".  
-Ese mismo día en 1997, Netscape anunció que liberaría el código fuente de su navegador, creando el proyecto Mozilla y sentando las bases de Firefox.
+El 8 de septiembre de 1997, Microsoft lanza Internet Explorer 4.0, integrando profundamente el navegador en Windows 95 y desatando la "guerra de navegadores" contra Netscape.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Don't Cry](https://www.youtube.com/watch?v=zRIbf6JqkNc)
-Esta power ballad se publicó como single el 7 de septiembre de 1991, destacando por la emotiva voz de Axl Rose y los icónicos solos de Slash. Fue un éxito masivo global que alcanzó el top 10 en EE. UU. y el número uno en Reino Unido, consolidando el fenómeno 'Use Your Illusion'.
+#### [Pink Floyd - High Hopes](https://www.youtube.com/watch?v=7jMlFXouPk8)
+Es el broche de oro del álbum 'The Division Bell', una reflexión melancólica de David Gilmour sobre la pérdida de la inocencia y el paso irrevocable del tiempo. Su icónico solo de guitarra y la atmósfera envolvente la convierten en una de las cumbres finales de la legendaria banda británica.
 
