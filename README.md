@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 12 de septiembre de 1958, Jack Kilby presentó el primer circuito integrado funcional en Texas Instruments, la base hardware de todo software moderno.
-Ese mismo día en 1992, se lanzó la primera versión pública de Python (0.9.0) por Guido van Rossum en el newsgroup alt.sources.
+El 13 de septiembre de 1985 se lanzó **Super Mario Bros.** para la NES en Japón, revolucionando el diseño de videojuegos de plataformas y estableciendo estándares de programación para *scrolling* lateral fluido.
+Su motor de juego optimizado permitió mundos extensos en cartuchos de solo 40 KB.
 
 ## El temazo de hoy
-#### [George Michael - Jesus to a Child](https://www.youtube.com/watch?v=zNBj4EV_hAo)
-Lanzado el 12 de septiembre de 1995, es una conmovedora balada dedicada a su pareja fallecida Anselmo Feleppa. La canción destaca por su melancolía sofisticada y se convirtió en un número uno instantáneo en múltiples países.
+#### [Elton John - Candle in the Wind 1997](https://www.youtube.com/watch?v=sxb0GeS4gL8)
+Reeditado el 13 de septiembre de 1997 como homenaje a la princesa Diana, se convirtió en el sencillo físico más vendido de la historia. Su letra adaptada y la emotiva interpretación en el funeral conmocionaron al mundo entero.
 
