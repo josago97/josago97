@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 14 de septiembre de 1985 se lanzó The Legend of Zelda en Japón para la Famicom Disk System, revolucionando el diseño de videojuegos al introducir mundos abiertos no lineales y guardado de partida mediante batería interna.  
-Este título estableció las bases técnicas y narrativas del género action-adventure y demostró la viabilidad del almacenamiento persistente en consolas domésticas.
+El 15 de septiembre de 1947, Grace Hopper registró el primer "bug" informático real al encontrar una polilla atrapada en un relé del Harvard Mark II.  
+Este incidente popularizó el término "debugging" (depuración) para referirse a la corrección de errores en el código.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Use Your Illusion I & II (Albums) / "You Could Be Mine" (Single)](https://www.youtube.com/watch?v=6Sp1bLrBAuQ)
-Aunque los álbumes 'Use Your Illusion I y II' salieron el 17 de septiembre, el single principal 'You Could Be Mine' se lanzó el 14 de septiembre de 1991 como parte de la banda sonora de Terminator 2. Es un himno del hard rock que muestra la ferocidad de Axl Rose y la icónica guitarra de Slash en su apogeo comercial.
+#### [Guns N' Roses - Use Your Illusion I & II (Albums)](https://www.youtube.com/watch?v=_05L12tRW-0)
+Aunque técnicamente son dos álbumes lanzados simultáneamente el 15 de septiembre de 1991, marcaron un hito histórico al debutar en el puesto 2 y 1 del Billboard 200 respectivamente. La banda alcanzó la cúspide de su popularidad mundial con himnos como 'November Rain' y 'Don't Cry', definiendo el final de la era dorada del hard rock.
 
