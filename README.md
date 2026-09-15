@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 15 de septiembre de 1947, Grace Hopper registró el primer "bug" informático real al encontrar una polilla atrapada en un relé del Harvard Mark II.  
-Este incidente popularizó el término "debugging" (depuración) para referirse a la corrección de errores en el código.
+El 16 de septiembre de 1997, Steve Jobs anunció oficialmente el acuerdo entre Apple y Microsoft, donde esta última invertía 150 millones de dólares en Apple y se comprometía a desarrollar Office para Mac durante 5 años, salvando a Apple de la bancarrota inminente.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Use Your Illusion I & II (Albums)](https://www.youtube.com/watch?v=_05L12tRW-0)
-Aunque técnicamente son dos álbumes lanzados simultáneamente el 15 de septiembre de 1991, marcaron un hito histórico al debutar en el puesto 2 y 1 del Billboard 200 respectivamente. La banda alcanzó la cúspide de su popularidad mundial con himnos como 'November Rain' y 'Don't Cry', definiendo el final de la era dorada del hard rock.
+#### [Jennifer Lopez - Love Don't Cost a Thing](https://www.youtube.com/watch?v=4kGvlESGvbs)
+Este tema marcó el debut de Jennifer Lopez en la nueva década, fusionando pop y R&B con un mensaje empoderado sobre el valor del amor por encima del materialismo. Su pegadizo estribillo y su icónico video en la playa la convirtieron en un himno global del año 2001.
 
