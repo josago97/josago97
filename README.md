@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 17 de septiembre de 1985, se lanzó la primera versión de **Windows 1.0** por Microsoft, iniciando la era de las interfaces gráficas masivas en PC.  
-Ese mismo día en 2000, se publicó la **RFC 2821**, estandarizando el protocolo **SMTP** esencial para el correo electrónico moderno.
+El 18 de septiembre de 1997 se lanzó PHP 3.0, la versión que transformó el lenguaje en una herramienta robusta para el desarrollo web dinámico al introducir un nuevo motor de análisis (Zend Engine) y soporte extensivo para bases de datos y protocolos.
+Esta versión sentó las bases técnicas y de comunidad que impulsaron la adopción masiva de PHP en servidores de todo el mundo durante las dos décadas siguientes.
 
 ## El temazo de hoy
-#### [Guns N' Roses - November Rain](https://www.youtube.com/watch?v=8SbUC-UaAxE)
-Esta épica power ballad destaca por sus arreglos orquestales, el icónico solo de guitarra de Slash y el dramático vídeo musical que acompañó su lanzamiento. Se convirtió en uno de los himnos definitivos de la banda y del rock de los 90, alcanzando el top 3 en el Billboard Hot 100.
+#### [The Beautiful South - A Little Time](https://www.youtube.com/watch?v=QejrPxx3O7w)
+Este tema encabezó las listas británicas en 1990 gracias a su irónica letra sobre el fin de una relación y la distintiva voz de Briana Corrigan. Su melodía accesible oculta una cruda narrativa sobre la incomunicación y el desgaste emocional en la pareja.
 
