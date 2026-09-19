@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 19 de septiembre de 1982, Scott Fahlman propuso por primera vez el uso de los emoticonos `:-)` y `:-(` en un tablón de anuncios de la Universidad Carnegie Mellon para distinguir bromas de mensajes serios.  
-Este hecho marcó el nacimiento de la comunicación emocional en entornos digitales basados en texto.
+El 20 de septiembre de 1954 se ejecutó el primer programa en FORTRAN, el primer lenguaje de programación de alto nivel ampliamente utilizado, desarrollado por el equipo de John Backus en IBM.
 
 ## El temazo de hoy
-#### [Guns N' Roses - Use Your Illusion I & II (Albums) / 'Yesterdays' (Single)](https://www.youtube.com/watch?v=NDOPlpH6NZM)
-Lanzados simultáneamente el 19 de septiembre de 1991, estos álbumes gemelos marcaron la cumbre creativa y comercial de la banda. 'Yesterdays', uno de sus singles promocionales, destaca por su melancolía acústica y la épica duración de sus composiciones.
+#### [Nirvana - In Bloom](https://www.youtube.com/watch?v=PbgKEjNBHqM)
+Publicado el 20 de septiembre de 1992, este himno de 'Nevermind' critica irónicamente a los fans que cantan sus estribillos sin entender su mensaje. El vídeo, una parodia de los programas de variedades de los 60, contrasta la energía grunge con una estética pulcra y televisiva.
 
