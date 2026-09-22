@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 22 de septiembre de 1994 se lanzó PHP (Personal Home Page Tools) por Rasmus Lerdorf, sentando las bases del lenguaje que hoy impulsa gran parte de la web.  
-Originalmente era un conjunto de scripts CGI en C para rastrear visitas a su currículum online.
+El 23 de septiembre de 2002 se lanzó la primera versión pública de Mozilla Firefox (entonces llamado Phoenix 0.1), marcando el inicio del navegador que rompió el monopolio de Internet Explorer.
+Su motor de renderizado Gecko y su enfoque en estándares web abiertos revolucionaron el desarrollo frontend y la arquitectura de software basado en la web.
 
 ## El temazo de hoy
-#### [Nirvana - Smells Like Teen Spirit](https://www.youtube.com/watch?v=hTWKbfoikeg)
-Lanzado el 22 de septiembre de 1991, este himno grunge definió a la Generación X y catapultó al grupo al estrellato mundial inesperadamente. Su riff icónico y la energía cruda del videoclip cambiaron para siempre el panorama del rock alternativo en la radio comercial.
+#### [Bruce Springsteen - Tunnel of Love](https://www.youtube.com/watch?v=M4K7XZGeHTE)
+Publicado el 23 de septiembre de 1987, este tema titular del álbum homónimo muestra a Springsteen explorando la complejidad de las relaciones adultas con una producción sofisticada. La canción destaca por su atmósfera melancólica y el característico solo de guitarra que evoca la incertidumbre del amor duradero.
 
