@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 23 de septiembre de 2002 se lanzó la primera versión pública de Mozilla Firefox (entonces llamado Phoenix 0.1), marcando el inicio del navegador que rompió el monopolio de Internet Explorer.
-Su motor de renderizado Gecko y su enfoque en estándares web abiertos revolucionaron el desarrollo frontend y la arquitectura de software basado en la web.
+El 24 de septiembre de 1994 se lanzó públicamente la versión 1.0 del lenguaje de programación Python por Guido van Rossum.  
+Este hito marcó el inicio oficial de uno de los lenguajes más influyentes y utilizados en la historia de la informática.
 
 ## El temazo de hoy
-#### [Bruce Springsteen - Tunnel of Love](https://www.youtube.com/watch?v=M4K7XZGeHTE)
-Publicado el 23 de septiembre de 1987, este tema titular del álbum homónimo muestra a Springsteen explorando la complejidad de las relaciones adultas con una producción sofisticada. La canción destaca por su atmósfera melancólica y el característico solo de guitarra que evoca la incertidumbre del amor duradero.
+#### [Sheryl Crow - If It Makes You Happy](https://www.youtube.com/watch?v=dyihQtBes1I)
+Segundo single del álbum homónimo de 1996, destaca por su riff de guitarra distintivo y una letra que abraza la imperfección y la autonomía personal. Se convirtió en un himno de la radio alternativa de los 90 y le valió a Crow un premio Grammy a la Mejor Interpretación Vocal Femenina de Rock.
 
