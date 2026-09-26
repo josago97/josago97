@@ -59,7 +59,10 @@ internal class Program
 
         string response = await _model.SendMessageAsync(request);
         string json = ExtractJson(response);
-        Song song = JsonSerializer.Deserialize<Song>(json, JsonSerializerOptions.Web);
+        Song? song = JsonSerializer.Deserialize<Song>(json, JsonSerializerOptions.Web);
+
+        if (song is null)
+            throw new Exception("Cannot get a song");
 
         return song;
     }

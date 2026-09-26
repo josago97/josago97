@@ -11,9 +11,9 @@ internal class Model
 
     public async Task<string> SendMessageAsync(string message)
     {
-        string responseText = null;
+        string? responseText = null;
         int modelIndex = 0;
-        Exception lastException = null;
+        Exception? lastException = null;
 
         do
         {
@@ -40,6 +40,9 @@ internal class Model
 
         if (lastException is not null)
             throw lastException;
+
+        if (responseText is null)
+            throw new Exception("AI model did not respond");
 
         return responseText;
     }
