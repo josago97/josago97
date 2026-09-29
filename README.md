@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 28 de septiembre de 1997, Apple lanzó Mac OS 8, su primer gran actualización del sistema operativo tras el regreso de Steve Jobs, crucial para la supervivencia financiera de la compañía.  
-Ese mismo día en 1999, Sun Microsystems presentó oficialmente Java 2 Platform, Standard Edition (J2SE) 1.2, introduciendo el framework Swing y la marca "Java 2".
+El 29 de septiembre de 1988 se lanzó al mercado **NeXTSTEP 1.0**, el sistema operativo basado en UNIX y orientado a objetos desarrollado por NeXT, la compañía fundada por Steve Jobs tras dejar Apple, cuya tecnología sentó las bases directas de macOS, iOS y el entorno de desarrollo Cocoa.
 
 ## El temazo de hoy
-#### [George Michael - Faith](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
-Publicado el 28 de septiembre de 1987, este himno pop-rock con su inconfundible riff de guitarra y ritmo 'bo diddley' catapultó a George Michael al estrellato global en solitario. La canción se convirtió en el sencillo más vendido de 1988 en Estados Unidos y definió la estética y el sonido de finales de los 80.
+#### [Mecano - Hijo de la Luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
+Publicado el 29 de septiembre de 1986, este tema se convirtió en un himno del pop en español gracias a su atmósfera mística y la inconfundible voz de Ana Torroja. Su letra, basada en una leyenda gitana, narra un trágico pacto con la luna que ha cautivado a generaciones enteras.
 
