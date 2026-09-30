@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 29 de septiembre de 1988 se lanzó al mercado **NeXTSTEP 1.0**, el sistema operativo basado en UNIX y orientado a objetos desarrollado por NeXT, la compañía fundada por Steve Jobs tras dejar Apple, cuya tecnología sentó las bases directas de macOS, iOS y el entorno de desarrollo Cocoa.
+El 30 de septiembre de 1995 se lanzó oficialmente Java 1.0 por Sun Microsystems, estableciendo el estándar "escribe una vez, ejecuta en cualquier lugar" para aplicaciones multiplataforma.
+Este lenguaje revolucionó el desarrollo web empresarial y sentó las bases de la máquina virtual moderna utilizada por Kotlin, Scala y Android.
 
 ## El temazo de hoy
-#### [Mecano - Hijo de la Luna](https://www.youtube.com/watch?v=iM9Nx7RYPqs)
-Publicado el 29 de septiembre de 1986, este tema se convirtió en un himno del pop en español gracias a su atmósfera mística y la inconfundible voz de Ana Torroja. Su letra, basada en una leyenda gitana, narra un trágico pacto con la luna que ha cautivado a generaciones enteras.
+#### [Madonna - The Power of Good-Bye](https://www.youtube.com/watch?v=NHydngA5C4E)
+Lanzado el 30 de septiembre de 1998, este tema destaca por su madurez lírica y una producción electrónica atmosférica a cargo de William Orbit. La canción explora la fortaleza necesaria para soltar un amor que ya no funciona, convirtiéndose en un himno melancólico de empoderamiento personal.
 
