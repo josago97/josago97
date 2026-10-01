@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 30 de septiembre de 1995 se lanzó oficialmente Java 1.0 por Sun Microsystems, estableciendo el estándar "escribe una vez, ejecuta en cualquier lugar" para aplicaciones multiplataforma.
-Este lenguaje revolucionó el desarrollo web empresarial y sentó las bases de la máquina virtual moderna utilizada por Kotlin, Scala y Android.
+El 1 de octubre de 1982 se lanzó comercialmente el primer reproductor de discos compactos (CD), el Sony CDP-101, marcando el inicio de la distribución masiva de software y datos en medios ópticos digitales.
+Este formato revolucionó la capacidad de almacenamiento y la instalación de programas, desplazando progresivamente a los diskettes y cintas magnéticas.
 
 ## El temazo de hoy
-#### [Madonna - The Power of Good-Bye](https://www.youtube.com/watch?v=NHydngA5C4E)
-Lanzado el 30 de septiembre de 1998, este tema destaca por su madurez lírica y una producción electrónica atmosférica a cargo de William Orbit. La canción explora la fortaleza necesaria para soltar un amor que ya no funciona, convirtiéndose en un himno melancólico de empoderamiento personal.
+#### [The Pretenders - I'll Stand by You](https://www.youtube.com/watch?v=ABGPMw_ir08)
+Una poderosa balada de 1994 que destaca por la emotiva interpretación vocal de Chrissie Hynde. Su mensaje de lealtad incondicional la convirtió en un himno universal de apoyo y consuelo.
 
