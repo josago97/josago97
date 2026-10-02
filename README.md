@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 1 de octubre de 1982 se lanzó comercialmente el primer reproductor de discos compactos (CD), el Sony CDP-101, marcando el inicio de la distribución masiva de software y datos en medios ópticos digitales.
-Este formato revolucionó la capacidad de almacenamiento y la instalación de programas, desplazando progresivamente a los diskettes y cintas magnéticas.
+El 2 de octubre de 1955 se fundó ENIAC (Electronic Numerical Integrator and Computer) como la primera computadora de propósito general en ser operativa comercialmente tras su transferencia al Aberdeen Proving Ground.  
+Ese mismo día, en 2001, Apple lanzó Mac OS X 10.1 "Puma", la primera actualización importante que hizo viable el sistema para el uso diario masivo.
 
 ## El temazo de hoy
-#### [The Pretenders - I'll Stand by You](https://www.youtube.com/watch?v=ABGPMw_ir08)
-Una poderosa balada de 1994 que destaca por la emotiva interpretación vocal de Chrissie Hynde. Su mensaje de lealtad incondicional la convirtió en un himno universal de apoyo y consuelo.
+#### [U2 - Beautiful Day](https://www.youtube.com/watch?v=co6WMzDOh1o)
+Lanzada el 2 de octubre de 2000, este himno optimista marcó el retorno triunfal de la banda irlandesa con un sonido fresco y radiante. Ganadora de tres premios Grammy, se convirtió instantáneamente en un clásico indiscutible de la década.
 
