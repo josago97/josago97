@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 3 de octubre de 1994 se fundó la World Wide Web Consortium (W3C) por Tim Berners-Lee en el MIT, estableciendo los estándares abiertos que gobiernan la web.
+El 4 de octubre de 1957, la URSS lanza el Sputnik 1, el primer satélite artificial, impulsando la creación de ARPA y el desarrollo inicial de redes de computadoras que darían origen a Internet.  
+Este evento catalizó la inversión masiva en ciencias computacionales y programación en tiempo real en EE. UU. durante la Guerra Fría.
 
 ## El temazo de hoy
-#### [The Beautiful South - A Little Time](https://www.youtube.com/watch?v=QejrPxx3O7w)
-Este éxito británico alcanzó el número uno en UK el 3 de octubre de 1990, destacando por su melodía dulce que contrasta con una letra cínica sobre el fin de una relación. La voz de Briana Corrigan y el estilo irónico de Paul Heaton la convirtieron en un himno 'anti-amor' inolvidable de los 90.
+#### [U2 - Vertigo](https://www.youtube.com/watch?v=98W9QuMq-2k)
+Lanzada digitalmente el 4 de octubre de 2004, este tema marcó el regreso explosivo de la banda irlandesa con un riff de guitarra incisivo y un ritmo frenético. Fue el primer sencillo de 'How to Dismantle an Atomic Bomb' y se convirtió en un himno inmediato de la década, ganando tres premios Grammy.
 
