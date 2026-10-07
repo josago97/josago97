@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 6 de octubre de 1995 se lanzó oficialmente Java 1.0 por Sun Microsystems, introduciendo la promesa de "escribe una vez, ejecuta en cualquier lugar".
+El 7 de octubre de 1959, la NASA anuncia la selección de los primeros siete astronautas del Proyecto Mercury, impulsando el desarrollo crítico de software de guiado y control en tiempo real para vuelos espaciales tripulados.
+Este hito marcó el inicio de la ingeniería de software como disciplina esencial para la seguridad en sistemas aeroespaciales complejos.
 
 ## El temazo de hoy
-#### [George Michael - Faith](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
-Publicado el 6 de octubre de 1987, este tema se convirtió en el emblema del álbum homónimo y catapultó a George Michael como superestrella solista. Su inconfundible riff de guitarra y su ritmo 'bo diddley' lo mantuvieron cuatro semanas en el número uno del Billboard Hot 100.
+#### [Tears for Fears - Everybody Wants to Rule the World](https://www.youtube.com/watch?v=aGCdLKXNF3w)
+Himno indiscutible del new wave publicado el 7 de octubre de 1985, combina melodías pegadizas con una letra introspectiva sobre el poder y la corrupción. Su icónico riff de guitarra y producción impecable lo consolidaron como el mayor éxito internacional del dúo británico.
 
