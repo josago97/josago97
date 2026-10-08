@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 7 de octubre de 1959, la NASA anuncia la selección de los primeros siete astronautas del Proyecto Mercury, impulsando el desarrollo crítico de software de guiado y control en tiempo real para vuelos espaciales tripulados.
-Este hito marcó el inicio de la ingeniería de software como disciplina esencial para la seguridad en sistemas aeroespaciales complejos.
+El 8 de octubre de 1996 se lanzó la primera versión pública de PHP 3.0, reescrita por Zeev Suraski y Andi Gutmans, que transformó el lenguaje en una herramienta potente para el desarrollo web dinámico.
+Esta versión introdujo el motor Zend Engine original y soporte extensivo para bases de datos, sentando las bases de la web moderna.
 
 ## El temazo de hoy
-#### [Tears for Fears - Everybody Wants to Rule the World](https://www.youtube.com/watch?v=aGCdLKXNF3w)
-Himno indiscutible del new wave publicado el 7 de octubre de 1985, combina melodías pegadizas con una letra introspectiva sobre el poder y la corrupción. Su icónico riff de guitarra y producción impecable lo consolidaron como el mayor éxito internacional del dúo británico.
+#### [R.E.M. - Losing My Religion](https://www.youtube.com/watch?v=xwtdhWltSIg)
+Publicado el 8 de octubre de 1991, este tema se convirtió en el mayor éxito comercial de la banda, liderando las listas de medio mundo. Su icónico riff de mandolina y la enigmática letra sobre la obsesión y la duda definieron el sonido alternativo de la década.
 
