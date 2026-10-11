@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 10 de octubre de 1983, Richard Stallman anunció públicamente el proyecto GNU para crear un sistema operativo completamente libre, sentando las bases del movimiento del software libre.
+El 11 de octubre de 1957, la NASA comienza a operar oficialmente, heredando el personal y recursos del NACA para impulsar la carrera espacial y el desarrollo de software de guiado y simulación.  
+Ese mismo día, el satélite soviético Sputnik 1 transmite su última señal de radio tras 22 días en órbita, marcando el inicio de la era de la telemetría y el procesamiento de datos orbitales.
 
 ## El temazo de hoy
-#### [Tears for Fears - Everybody Wants to Rule the World](https://www.youtube.com/watch?v=aGCdLKXNF3w)
-Publicado el 10 de octubre de 1985 en Reino Unido, este himno new wave combina melodías pegadizas con una letra que reflexiona sobre el poder y la corrupción humana. Se convirtió en el segundo número uno de la banda en EE. UU. y definió el sonido pop-rock de mediados de los 80.
+#### [The B-52's - Love Shack](https://www.youtube.com/watch?v=9SOryJvTAGs)
+Publicado el 11 de octubre de 1989, este himno fiestero fusiona new wave y rock con un ritmo infeccioso y coros inolvidables. Se convirtió en el mayor éxito comercial de la banda, alcanzando el número 1 en varios países y definiendo el sonido festivo de finales de los 80.
 
