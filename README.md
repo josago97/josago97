@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 14 de octubre de 1957 se compila y ejecuta con éxito el primer programa escrito en FORTRAN, el primer lenguaje de alto nivel ampliamente utilizado, en un IBM 704.  
-Este hito marcó el inicio de la programación moderna al permitir escribir código independiente de la arquitectura específica de la máquina.
+El 15 de octubre de 1956 se ejecutó el primer compilador FORTRAN en un IBM 704, permitiendo por primera vez programar en un lenguaje de alto nivel independiente de la máquina.
 
 ## El temazo de hoy
-#### [U2 - Desire](https://www.youtube.com/watch?v=z8rQ575DWD8)
-Fue el primer sencillo del álbum 'Rattle and Hum' y se convirtió en el primer número uno de la banda en el Reino Unido y Australia. Destaca por su ritmo de 'Bo Diddley beat' y una letra que critica la avaricia y la codicia moderna.
+#### [George Michael - Faith](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
+Publicado el 15 de octubre de 1987, este himno pop-rock con su icónica guitarra rítmica y bajo sincopado catapultó a George Michael al estrellato mundial en solitario. La canción encabezó las listas de éxitos en múltiples países y se convirtió en el sencillo más vendido de 1988 en Estados Unidos.
 
