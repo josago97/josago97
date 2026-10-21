@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 20 de octubre de 1975, el microprocesador MOS 6502 se pone a la venta por 25 dólares, revolucionando la computación doméstica al ser el cerebro de sistemas como el Apple I, Commodore PET y Atari 2600.
-Su bajo coste y arquitectura eficiente democratizaron el acceso a la programación y sentaron las bases de la industria del videojuego y el PC.
+El 21 de octubre de 1969 se envió el primer mensaje a través de ARPANET (el precursor de Internet) entre UCLA y Stanford, aunque el sistema se colapsó tras transmitir solo las letras "LO" de "LOGIN".
 
 ## El temazo de hoy
-#### [A-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914)
-Lanzado el 20 de octubre de 1985 en EE. UU., este himno del synth-pop alcanzó el número uno gracias a su icónico vídeo de animación rotoscópica. Su inconfundible estribillo y la aguda voz de Morten Harket lo convirtieron en un clásico atemporal de los 80.
+#### [The Smiths - Ask](https://www.youtube.com/watch?v=zoo9Vu1a9bU)
+Lanzada el 21 de octubre de 1986, esta joya del indie pop combina la melancolía lírica de Morrissey con los brillantes arpegios de Johnny Marr. La canción destaca por su ritmo bailable y un estribillo inolvidable que pide una oportunidad para el amor.
 
