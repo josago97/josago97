@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 21 de octubre de 1969 se envió el primer mensaje a través de ARPANET (el precursor de Internet) entre UCLA y Stanford, aunque el sistema se colapsó tras transmitir solo las letras "LO" de "LOGIN".
+El 22 de octubre de 1996, Michael Widenius libera la primera versión pública de MySQL 3.11, sentando las bases del sistema de gestión de bases de datos relacional de código abierto más popular del mundo.  
+Esta versión inicial, diseñada para manejar grandes volúmenes de datos con rapidez, impulsó la explosión de aplicaciones web dinámicas durante la era del "dot-com".
 
 ## El temazo de hoy
-#### [The Smiths - Ask](https://www.youtube.com/watch?v=zoo9Vu1a9bU)
-Lanzada el 21 de octubre de 1986, esta joya del indie pop combina la melancolía lírica de Morrissey con los brillantes arpegios de Johnny Marr. La canción destaca por su ritmo bailable y un estribillo inolvidable que pide una oportunidad para el amor.
+#### [U2 - Desire](https://www.youtube.com/watch?v=z8rQ575DWD8)
+Fue el primer sencillo del álbum 'Rattle and Hum' y se convirtió en el primer número uno de la banda en el Reino Unido y Australia. Su ritmo contagioso, impulsado por una armónica y un estilo 'bo diddle', marcó un giro hacia el blues rock bailable.
 
