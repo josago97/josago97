@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 23 de octubre de 1983 se lanzó Word 1.0 para MS-DOS, la primera versión del procesador de textos de Microsoft que popularizó la interfaz WYSIWYG (What You See Is What You Get) en computadoras personales.
+El 24 de octubre de 1995, la Free Software Foundation lanzó la versión 2 de la Licencia Pública General de GNU (GPLv2), que se convirtió en la licencia fundamental para el kernel de Linux y gran parte del software libre moderno.
 
 ## El temazo de hoy
-#### [The Beatles - Free as a Bird](https://www.youtube.com/watch?v=ODIvONHPqpk)
-Publicado el 23 de octubre de 1995, este tema marcó el histórico regreso de la banda tras 25 años, construyéndose sobre un demo casero de John Lennon. La producción de Jeff Lynne y el vídeo musical lleno de referencias visuales convirtieron este single en un emotivo cierre de ciclo para el cuarteto de Liverpool.
+#### [Destiny's Child - Independent Women Part I](https://www.youtube.com/watch?v=0lPQZni7I18)
+Este himno del empoderamiento femenino lideró las listas globales en el 2000 gracias a su pegadizo ritmo R&B y su mensaje de autonomía económica. Formó parte de la banda sonora de 'Los ángeles de Charlie' y consolidó al grupo como iconos pop de la década.
 
