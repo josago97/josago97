@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 24 de octubre de 1995, la Free Software Foundation lanzó la versión 2 de la Licencia Pública General de GNU (GPLv2), que se convirtió en la licencia fundamental para el kernel de Linux y gran parte del software libre moderno.
+El 25 de octubre de 1985 se lanzó Microsoft Windows 1.0, la primera versión importante del entorno gráfico que popularizaría las interfaces GUI en PCs compatibles con IBM.  
+Este hito marcó el inicio de la transición masiva desde interfaces de línea de comandos (MS-DOS) hacia entornos visuales basados en ventanas y ratón.
 
 ## El temazo de hoy
-#### [Destiny's Child - Independent Women Part I](https://www.youtube.com/watch?v=0lPQZni7I18)
-Este himno del empoderamiento femenino lideró las listas globales en el 2000 gracias a su pegadizo ritmo R&B y su mensaje de autonomía económica. Formó parte de la banda sonora de 'Los ángeles de Charlie' y consolidó al grupo como iconos pop de la década.
+#### [George Michael - Faith](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
+Publicado el 25 de octubre de 1987, este himbo del pop-rock con su inconfundible riff de guitarra y ritmo 'bo diddley' catapultó a George Michael como superestrella global en solitario. La canción dominó las listas de éxitos durante semanas y se convirtió en el sencillo más vendido de 1988 en Estados Unidos, definiendo el sonido de finales de los 80.
 
