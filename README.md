@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 27 de octubre de 1995, Sun Microsystems lanzó oficialmente Java 1.0, iniciando la era multiplataforma "escribe una vez, ejecuta en cualquier lugar".
-Este lenguaje revolucionó el desarrollo web y empresarial al popularizar la máquina virtual y la recolección de basura automática.
+El 28 de octubre de 2012, Microsoft lanza oficialmente **Windows 8**, introduciendo la interfaz "Metro" basada en mosaicos y la tienda de aplicaciones integrada, marcando su mayor apuesta por dispositivos táctiles e híbridos.
 
 ## El temazo de hoy
-#### [Cher - Believe](https://www.youtube.com/watch?v=nZXRV4MezEw)
-Fue el primer éxito masivo en utilizar Auto-Tune de forma explícita como efecto vocal, definiendo el sonido pop de finales de los 90. La canción se convirtió en un himno de empoderamiento y resiliencia tras una ruptura amorosa, liderando listas en todo el mundo.
+#### [Eminem - Lose Yourself](https://www.youtube.com/watch?v=xFYQQPAOz7Y)
+Publicada el 28 de octubre de 2002, se convirtió en el primer tema de rap en ganar el Oscar a la Mejor Canción Original gracias a su inclusión en la película '8 Mile'. Su icónico riff de guitarra y su letra sobre aprovechar la única oportunidad la consolidaron como un himno generacional instantáneo.
 
