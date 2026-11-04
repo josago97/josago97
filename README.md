@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 3 de noviembre de 1983, Fred Cohen presenta en un seminario de seguridad el primer virus informático documentado experimentalmente, definiendo el concepto de "virus" como código capaz de replicarse e infectar otros programas.
+El 4 de noviembre de 1952, la computadora UNIVAC I predijo correctamente la victoria de Eisenhower en las elecciones presidenciales de EE. UU., marcando el primer uso televisado de una computadora para análisis de datos en tiempo real.
 
 ## El temazo de hoy
-#### [Whitney Houston - I Will Always Love You](https://www.youtube.com/watch?v=3JWTaaS7LdU)
-Publicada como single el 3 de noviembre de 1992, esta balada para la banda sonora de El guardaespaldas se convirtió en el sencillo más vendido de la historia por una artista femenina. Su impresionante rango vocal y la emotiva interpretación la consolidaron como un himno atemporal del pop y el R&B.
+#### [Celine Dion - My Heart Will Go On](https://www.youtube.com/watch?v=9bFHsd3o1w0)
+Canción principal de la banda sonora de Titanic, se convirtió en el himno romántico definitivo de los 90 y ganó el Oscar a la Mejor Canción Original. Su lanzamiento en radio el 4 de noviembre de 1997 precedió a un éxito global masivo que definió una generación.
 
