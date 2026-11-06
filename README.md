@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 5 de noviembre de 1989 se creó el primer servidor web de la historia (info.cern.ch) por Tim Berners-Lee en el CERN, sentando las bases de la World Wide Web.
-Ese mismo día de 2000, Microsoft lanzó Windows 2000 Professional, sistema clave para la estabilidad empresarial basado en el kernel NT.
+El 6 de noviembre de 1995, Sun Microsystems lanzó oficialmente la versión 1.0 de Java, introduciendo el concepto «Write Once, Run Anywhere» que revolucionó la portabilidad del software.
 
 ## El temazo de hoy
-#### [Vanilla Ice - Ice Ice Baby](https://www.youtube.com/watch?v=rog8ou-ZepE)
-Fue el primer single de hip-hop en alcanzar el número uno en el Billboard Hot 100, catapultando al género al mainstream global. Su inconfundible bajo, sampleado de 'Under Pressure' de Queen y Bowie, lo convirtió en un himno generacional instantáneo.
+#### [Bon Jovi - Lay Your Hands on Me](https://www.youtube.com/watch?v=EhjSzibOIH4)
+Publicado el 6 de noviembre de 1989, este himno de hard rock destaca por su energía contagiosa y su icónico estribillo coral diseñado para estadios. Fue el cuarto single de 'New Jersey' y consolidó a la banda como reyes del rock melódico de finales de los 80.
 
