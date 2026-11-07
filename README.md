@@ -1,7 +1,7 @@
 ## El evento histórico de hoy
-El 6 de noviembre de 1995, Sun Microsystems lanzó oficialmente la versión 1.0 de Java, introduciendo el concepto «Write Once, Run Anywhere» que revolucionó la portabilidad del software.
+El 7 de noviembre de 1966, la NASA lanza la misión Lunar Orbiter 2, cuyo software de control en tierra fue fundamental para mapear la Luna y seleccionar los lugares de alunizaje del programa Apolo.
 
 ## El temazo de hoy
-#### [Bon Jovi - Lay Your Hands on Me](https://www.youtube.com/watch?v=EhjSzibOIH4)
-Publicado el 6 de noviembre de 1989, este himno de hard rock destaca por su energía contagiosa y su icónico estribillo coral diseñado para estadios. Fue el cuarto single de 'New Jersey' y consolidó a la banda como reyes del rock melódico de finales de los 80.
+#### [Weezer - Buddy Holly](https://www.youtube.com/watch?v=kemivUKb4f4)
+Este himno del rock alternativo de los 90 destaca por su estribillo infeccioso y su letra que defiende la individualidad frente a las burlas. El icónico vídeo musical, dirigido por Spike Jonze, integra a la banda en el plató de la serie 'Happy Days', catapultándolos a la fama mundial.
 
