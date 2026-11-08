@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 7 de noviembre de 1966, la NASA lanza la misión Lunar Orbiter 2, cuyo software de control en tierra fue fundamental para mapear la Luna y seleccionar los lugares de alunizaje del programa Apolo.
+El 8 de noviembre de 1960, John McCarthy publica el artículo "Recursive Functions of Symbolic Expressions and Their Computation by Machine", definiendo formalmente la base teórica del lenguaje LISP.  
+Este trabajo introdujo conceptos fundamentales como la recolección de basura (garbage collection) y las estructuras de datos basadas en listas, pilares de la inteligencia artificial temprana.
 
 ## El temazo de hoy
-#### [Weezer - Buddy Holly](https://www.youtube.com/watch?v=kemivUKb4f4)
-Este himno del rock alternativo de los 90 destaca por su estribillo infeccioso y su letra que defiende la individualidad frente a las burlas. El icónico vídeo musical, dirigido por Spike Jonze, integra a la banda en el plató de la serie 'Happy Days', catapultándolos a la fama mundial.
+#### [Boyz II Men - On Bended Knee](https://www.youtube.com/watch?v=jSUSFow70no)
+Este clásico del R&B de los 90 muestra la impecable armonía vocal del grupo en una balada de súplica y arrepentimiento. Alcanzó el número uno en Billboard, consolidándolos como reyes del sonido slow-jam de la década.
 
