@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 8 de noviembre de 1960, John McCarthy publica el artículo "Recursive Functions of Symbolic Expressions and Their Computation by Machine", definiendo formalmente la base teórica del lenguaje LISP.  
-Este trabajo introdujo conceptos fundamentales como la recolección de basura (garbage collection) y las estructuras de datos basadas en listas, pilares de la inteligencia artificial temprana.
+El 9 de noviembre de 2004 se lanzó Mozilla Firefox 1.0, popularizando la navegación por pestañas y desafiando el dominio de Internet Explorer.  
+Este lanzamiento marcó el inicio de la era moderna de navegadores web de código abierto y estándares abiertos.
 
 ## El temazo de hoy
-#### [Boyz II Men - On Bended Knee](https://www.youtube.com/watch?v=jSUSFow70no)
-Este clásico del R&B de los 90 muestra la impecable armonía vocal del grupo en una balada de súplica y arrepentimiento. Alcanzó el número uno en Billboard, consolidándolos como reyes del sonido slow-jam de la década.
+#### [Whitney Houston - I Will Always Love You](https://www.youtube.com/watch?v=3JWTaaS7LdU)
+Publicado el 9 de noviembre de 1992, este tema se convirtió en el sencillo más vendido de la historia por una artista femenina. La poderosa versión de Houston para la película 'El guardaespaldas' definió la balada romántica de los 90.
 
