@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 13 de noviembre de 1971, la sonda **Mariner 9** se convirtió en la primera nave espacial en orbitar otro planeta (Marte), ejecutando software que permitió reprogramar su misión tras una tormenta de polvo global.
+El 14 de noviembre de 1971, Intel lanzó el **Intel 4004**, el primer microprocesador comercial de un solo chip, revolucionando la arquitectura de hardware para el software moderno.  
+Ese mismo día en 1983, Microsoft anunció oficialmente **Windows 1.0**, aunque su lanzamiento final se retrasaría dos años.
 
 ## El temazo de hoy
-#### [Phil Collins - Another Day in Paradise](https://www.youtube.com/watch?v=Qt2mbGP6vFI)
-Fue el primer sencillo de su álbum '...But Seriously' y se convirtió en su séptimo número uno en EE. UU., destacando por su letra de conciencia social sobre la falta de vivienda. La canción ganó el Grammy a la Grabación del Año en 1991 y sigue siendo uno de sus temas más emblemáticos y radiados.
+#### [Daft Punk - One More Time](https://www.youtube.com/watch?v=FGBhQbmPwH8)
+Lanzado el 14 de noviembre de 2000 en EE. UU., este himno house definió la música electrónica de la década con su sampleo infeccioso y su vocoder característico. Su energía eufórica y su mensaje de celebración lo convirtieron en un clásico instantáneo e imborrable de las pistas de baile globales.
 
