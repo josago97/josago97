@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 17 de noviembre de 1970, Douglas Engelbart recibió la patente estadounidense 3.541.541 para el primer ratón de computadora, dispositivo que había demostrado públicamente en "La madre de todas las demos" en 1968.
+El 18 de noviembre de 1985, Microsoft lanza oficialmente **Windows 1.0**, su primer entorno gráfico de 16 bits para MS-DOS.  
+Esta versión introduce ventanas superpuestas, multitarea cooperativa y aplicaciones como Paint, Notepad y Reversi.
 
 ## El temazo de hoy
-#### [Guns N' Roses - You Could Be Mine](https://www.youtube.com/watch?v=MXx9S2nDouY)
-Fue el tema principal de la película Terminator 2: El juicio final, consolidando a la banda como íconos del rock noventero. Su energía agresiva y el inconfundible silbido de Axl Rose la convirtieron en un himno instantáneo de la época.
+#### [Madonna - Frozen](https://www.youtube.com/watch?v=XS088Opj9o0)
+Primer sencillo del aclamado álbum 'Ray of Light', marcó un giro radical hacia la electrónica y el trip-hop en su sonido. La canción alcanzó el número uno en múltiples países y su video, dirigido por los hermanos Cunningham, se convirtió en un ícono visual de la estética mística de finales de los 90.
 
