@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 19 de noviembre de 1998 se fundó la empresa Valve Corporation, creadora de la plataforma de distribución digital Steam y desarrolladora de videojuegos como Half-Life y Portal.
+El 20 de noviembre de 1985 se lanzó Microsoft Windows 1.0, la primera versión del entorno gráfico que popularizó las interfaces de usuario basadas en ventanas para PC compatibles con IBM.  
+Este hito marcó el inicio de la transición masiva de interfaces de línea de comandos (MS-DOS) a entornos gráficos en la informática personal.
 
 ## El temazo de hoy
-#### [Queen - Innuendo](https://www.youtube.com/watch?v=g2N0TkfrQhY)
-Estrenada el 19 de noviembre de 1990, es la pieza titular de su último álbum con Freddie Mercury en vida y destaca por su compleja estructura progresiva y el icónico solo de flamenco de Steve Howe.
-La letra, una reflexión profunda sobre la mortalidad y la determinación humana, se convirtió en un himno de despedida que alcanzó el número uno en Reino Unido.
+#### [Guns N' Roses - You Could Be Mine](https://www.youtube.com/watch?v=MXx9S2nDouY)
+Fue el tema principal de la banda sonora de Terminator 2: El juicio final, consolidando a la banda como íconos del rock de los 90. Su energía agresiva y el inconfundible silbido de Axl Rose la convirtieron en un himno instantáneo de la época.
 
