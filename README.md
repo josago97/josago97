@@ -1,7 +1,8 @@
 ## El evento histórico de hoy
-El 21 de noviembre de 1969 se estableció el primer enlace permanente de ARPANET entre la UCLA y el Stanford Research Institute, marcando el nacimiento funcional de Internet.
+El 22 de noviembre de 1995, Microsoft lanzó oficialmente Internet Explorer 2.0, su primer navegador con soporte para SSL, cookies y correo electrónico integrado.  
+Ese mismo día, en 2005, se publicó la versión 1.0 de Ruby on Rails, revolucionando el desarrollo web con su enfoque en "convención sobre configuración".
 
 ## El temazo de hoy
-#### [Eminem - Stan](https://www.youtube.com/watch?v=gOMhN-hfMtY)
-Este tema narra la escalofriante historia de un fan obsesionado que pierde la cordura al no recibir respuesta de su ídolo, sampleando el estribillo de "Thank You" de Dido. Considerado una obra maestra del storytelling en el hip-hop, popularizó el término "stan" para definir a los seguidores fanáticos.
+#### [Guns N' Roses - You Could Be Mine](https://www.youtube.com/watch?v=MXx9S2nDouY)
+Fue el tema principal de la banda sonora de Terminator 2: El juicio final, consolidando a la banda como íconos del rock noventero. Su energía agresiva y el inconfundible silbido de Axl Rose la convirtieron en un himno instantáneo de la época.
 
