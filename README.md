@@ -1,8 +1,8 @@
 ## El evento histórico de hoy
-El 22 de noviembre de 1995, Microsoft lanzó oficialmente Internet Explorer 2.0, su primer navegador con soporte para SSL, cookies y correo electrónico integrado.  
-Ese mismo día, en 2005, se publicó la versión 1.0 de Ruby on Rails, revolucionando el desarrollo web con su enfoque en "convención sobre configuración".
+El 23 de noviembre de 1995, Sun Microsystems lanzó oficialmente Java 1.0, introduciendo el concepto "escribe una vez, ejecuta en cualquier lugar" que revolucionó el desarrollo multiplataforma.  
+Este lanzamiento estableció las bases para la web dinámica y el desarrollo empresarial moderno que dominó las décadas siguientes.
 
 ## El temazo de hoy
-#### [Guns N' Roses - You Could Be Mine](https://www.youtube.com/watch?v=MXx9S2nDouY)
-Fue el tema principal de la banda sonora de Terminator 2: El juicio final, consolidando a la banda como íconos del rock noventero. Su energía agresiva y el inconfundible silbido de Axl Rose la convirtieron en un himno instantáneo de la época.
+#### [The Pogues feat. Kirsty MacColl - Fairytale of New York](https://www.youtube.com/watch?v=j9jbdgZidu8)
+Publicado el 23 de noviembre de 1987, este dueto navideño mezcla euforia y melancolía con una narrativa cruda sobre sueños rotos en Nueva York. Considerado el villancico moderno por excelencia, su energía punk-folk y su letra inolvidable lo convierten en un clásico atemporal que resuena cada diciembre.
 
