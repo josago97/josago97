@@ -1,8 +1,7 @@
 ## El evento histórico de hoy
-El 27 de noviembre de 1995, Sun Microsystems lanzó oficialmente Java 1.0, estableciendo el lenguaje "Write Once, Run Anywhere" como estándar multiplataforma.  
-Este lanzamiento incluía el JDK completo, el navegador HotJava y sentó las bases de la máquina virtual (JVM) moderna.
+El 28 de noviembre de 1966, la NASA lanza el satélite ATS-1, que incluía el primer software experimental de estabilización de actitud ejecutado en una computadora a bordo (el ordenador SEC).
 
 ## El temazo de hoy
-#### [Michael Jackson - Earth Song](https://www.youtube.com/watch?v=XAi3VTSdTxU)
-Lanzado el 27 de noviembre de 1995, este himno ecológico y humanitario se convirtió en uno de los mayores éxitos globales del Rey del Pop. Su potente videoclip y mensaje medioambiental le valieron una nominación al Grammy y el número uno en múltiples países.
+#### [The Beatles - Free as a Bird](https://www.youtube.com/watch?v=ODIvONHPqpk)
+Fue el primer tema 'nuevo' del grupo en 25 años, construido a partir de un demo casero de John Lennon de 1977 y completado por los tres miembros restantes en 1995. Su lanzamiento marcó el inicio del ambicioso proyecto multimedia 'The Beatles Anthology'.
 
